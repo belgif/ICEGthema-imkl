@@ -1,0 +1,42 @@
+[
+    {
+        "name": "cables-pipes",
+        "type": "ap",
+        "eap": "IMKL-LD.eap",
+        "diagram": "IMKL-LD",
+        "template": "cables-pipes.j2",
+        "title": "Cables and Pipes",
+        "publication-state": "For acceptance",
+        "publication-date": "2024-02-06",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "contributors-file": "stakeholders.csv",
+        "contributors-column": "Role",
+        "site": "site-skeleton/cables-pipes",
+        "repourl": "https://github.com/belgif/ICEGthema-imkl/tree/main",
+        "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-imkl/issues",
+        "standaardregisterurl": "TODO",
+        "translation": [
+            {
+                "language": "en",
+                "template": "cables-pipes_en.j2",
+                "title": "OSLO Cables and Pipes",
+                "translationjson": "cables-pipes_en.json",
+                "mergefile": "cables-pipes_en_merged.json"
+            },
+            {
+                "language": "nl",
+                "template": "cables-pipes.j2",
+                "title": "OSLO Kabels en Leidingen",
+                "translationjson": "cables-pipes_nl.json",
+                "mergefile": "cables-pipes_nl_merged.json"
+            },
+            {
+                "language": "fr",
+                "template": "cables-pipes_fr.j2",
+                "title": "OSLO Câbles et Conduites",
+                "translationjson": "cables-pipes_fr.json",
+                "mergefile": "cables-pipes_fr_merged.json"
+            }
+        ]
+    }
+]
