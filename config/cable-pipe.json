@@ -1,6 +1,6 @@
 [
     {
-        "name": "cables-pipes",
+        "name": "cable-pipe",
         "type": "ap",
         "eap": "IMKL-LD.eap",
         "diagram": "IMKL-LD",
@@ -11,7 +11,7 @@
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "contributors-file": "stakeholders.csv",
         "contributors-column": "Role",
-        "site": "site-skeleton/cables-pipes",
+        "site": "site-skeleton/cable-pipe",
         "repourl": "https://github.com/belgif/ICEGthema-imkl/tree/main",
         "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-imkl/issues",
         "standaardregisterurl": "TODO",
