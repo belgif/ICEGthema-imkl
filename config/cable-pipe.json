@@ -4,7 +4,7 @@
         "type": "ap",
         "eap": "IMKL-LD.eap",
         "diagram": "IMKL-LD",
-        "template": "cables-pipes.j2",
+        "template": "cable-pipe.j2",
         "title": "Cables and Pipes",
         "publication-state": "For acceptance",
         "publication-date": "2024-02-06",
@@ -18,24 +18,24 @@
         "translation": [
             {
                 "language": "en",
-                "template": "cables-pipes_en.j2",
-                "title": "OSLO Cables and Pipes",
-                "translationjson": "cables-pipes_en.json",
-                "mergefile": "cables-pipes_en_merged.json"
+                "template": "cable-pipe.j2",
+                "title": "Cables and Pipes",
+                "translationjson": "cable-pipe_en.json",
+                "mergefile": "cable-pipe_en_merged.json"
             },
             {
                 "language": "nl",
-                "template": "cables-pipes.j2",
-                "title": "OSLO Kabels en Leidingen",
-                "translationjson": "cables-pipes_nl.json",
-                "mergefile": "cables-pipes_nl_merged.json"
+                "template": "cable-pipe.j2",
+                "title": "Kabels en Leidingen",
+                "translationjson": "cable-pipe_nl.json",
+                "mergefile": "cable-pipe_nl_merged.json"
             },
             {
                 "language": "fr",
-                "template": "cables-pipes_fr.j2",
-                "title": "OSLO Câbles et Conduites",
-                "translationjson": "cables-pipes_fr.json",
-                "mergefile": "cables-pipes_fr_merged.json"
+                "template": "cable-pipe_fr.j2",
+                "title": "âbles et Conduites",
+                "translationjson": "cable-pipe_fr.json",
+                "mergefile": "cable-pipe_fr_merged.json"
             }
         ]
     }
