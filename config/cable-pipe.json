@@ -4,7 +4,7 @@
         "type": "ap",
         "eap": "IMKL-LD.eap",
         "diagram": "IMKL-LD",
-        "template": "cable-pipe.j2",
+        "template": "cable-pipe_en.j2",
         "title": "Cables and Pipes",
         "publication-state": "For acceptance",
         "publication-date": "2024-02-06",
@@ -18,14 +18,14 @@
         "translation": [
             {
                 "language": "en",
-                "template": "cable-pipe.j2",
+                "template": "cable-pipe_en.j2",
                 "title": "Cables and Pipes",
                 "translationjson": "cable-pipe_en.json",
                 "mergefile": "cable-pipe_en_merged.json"
             },
             {
                 "language": "nl",
-                "template": "cable-pipe.j2",
+                "template": "cable-pipe_nl.j2",
                 "title": "Kabels en Leidingen",
                 "translationjson": "cable-pipe_nl.json",
                 "mergefile": "cable-pipe_nl_merged.json"
@@ -33,7 +33,7 @@
             {
                 "language": "fr",
                 "template": "cable-pipe_fr.j2",
-                "title": "âbles et Conduites",
+                "title": "Câbles et Conduites",
                 "translationjson": "cable-pipe_fr.json",
                 "mergefile": "cable-pipe_fr_merged.json"
             }
