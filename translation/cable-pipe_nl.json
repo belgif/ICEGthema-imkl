@@ -38,7 +38,7 @@
       "name": "Diepte",
       "EA-Guid": "{1BD92463-822E-49e6-B186-9E2997C706D4}",
       "definition": {
-        "nl": "VerticalePositie onder het Referentieoppervlak."
+        "nl": "Verticale Positie onder het Referentieoppervlak."
       },
       "label": {
         "nl": "Diepte"
@@ -58,7 +58,7 @@
       "name": "Hoogte",
       "EA-Guid": "{2E4FF2C4-A20C-455b-ABD5-8837E052C157}",
       "definition": {
-        "nl": "VerticalePositie boven het Referentieoppervlak."
+        "nl": "Verticale Positie boven het Referentieoppervlak."
       },
       "label": {
         "nl": "Hoogte"
@@ -363,13 +363,13 @@
       }
     },
     {
-      "name": "Verticalepositie",
+      "name": "VerticalePositie",
       "EA-Guid": "{40E4039D-D47D-43cc-A456-E9BB6DC89632}",
       "definition": {
         "nl": "Positie in verticale richting tov een Referentieoppervlak."
       },
       "label": {
-        "nl": "VerticalePositie"
+        "nl": "Verticale Positie"
       }
     },
     {
@@ -421,7 +421,7 @@
       "name": "verticalepositiedetail",
       "EA-Guid": "{3E2BEB3C-ED0C-45eb-8A4D-26B592DC703C}",
       "definition": {
-        "nl": "Detail van de VerticalePositie van het element."
+        "nl": "Detail van de Verticale Positie van het element."
       },
       "label": {
         "nl": "verticalePositiedetail"
@@ -500,7 +500,7 @@
       "name": "standaardverticalepositiedetail",
       "EA-Guid": "{B9EA9A8D-4691-4abf-B386-E4AAD3C43262}",
       "definition": {
-        "nl": "Standaard VerticalePositie van elementen in het netwerk."
+        "nl": "Standaard Verticale Positie van elementen in het netwerk."
       },
       "label": {
         "nl": "standaardVerticalePositiedetail"
@@ -618,7 +618,7 @@
       "name": "nauwkeurigheid",
       "EA-Guid": "{669729F3-407B-4d0e-AFC8-F53D8EABC85D}",
       "definition": {
-        "nl": "De PositioneleNauwkeurigheid van de Opmeting."
+        "nl": "De Positionele Nauwkeurigheid van de Opmeting."
       },
       "label": {
         "nl": "nauwkeurigheid"
@@ -823,7 +823,7 @@
       "name": "afstand",
       "EA-Guid": "{402EBC20-6752-4cb9-A310-47F1119B60DD}",
       "definition": {
-        "nl": "De VerticalePositie als afstand tov het Referentieoppervlak."
+        "nl": "De Verticale Positie als afstand tov het Referentieoppervlak."
       },
       "label": {
         "nl": "afstand"
@@ -873,26 +873,26 @@
       }
     },
     {
-      "name": "verticalepositie",
+      "name": "verticalePositie",
       "EA-Guid": "{64B8CC6E-38B7-4a3f-AA9E-79F6B9E95868}",
       "definition": {
-        "nl": "De VerticalePositie als positie in een verticaal coördinaatsysteem."
+        "nl": "De Verticale Positie als positie in een verticaal coördinaatsysteem."
       },
       "label": {
-        "nl": "verticalePositie"
+        "nl": "verticale positie"
       },
       "usage": {
         "nl": "Bvb in België de z-coördinaat in TAW."
       }
     },
     {
-      "name": "verticalepositie",
+      "name": "verticalePositie",
       "EA-Guid": "{D0CCE6E4-1ACB-424b-A647-35AB3C9294FE}",
       "definition": {
-        "nl": "De VerticalePositie van het Referentieoppervlak als positie in een verticaal coördinaatsysteem."
+        "nl": "De Verticale Positie van het Referentieoppervlak als positie in een verticaal coördinaatsysteem."
       },
       "label": {
-        "nl": "verticalePositie"
+        "nl": "verticale positie"
       },
       "usage": {
         "nl": "Bvb in België de z-coördinaat in TAW."
@@ -949,13 +949,13 @@
       }
     },
     {
-      "name": "verticalepositie",
+      "name": "verticalePositie",
       "EA-Guid": "{C7E00557-C167-4ec9-9AE4-E1B312D0DF12}",
       "definition": {
-        "nl": "Algemene aanduiding van de VerticalePositie van het element."
+        "nl": "Algemene aanduiding van de Verticale Positie van het element."
       },
       "label": {
-        "nl": "verticalePositie"
+        "nl": "verticale positie"
       },
       "usage": {
         "nl": "Bv ondergronds, bovengronds."
@@ -1343,7 +1343,7 @@
         "nl": "TO DO"
       },
       "label": {
-        "nl": "Verticale Positietype"
+        "nl": "Verticale Positie Type"
       }
     },
     {
@@ -1931,7 +1931,7 @@
         "nl": "land"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -1944,7 +1944,7 @@
         "nl": "gemeentenaam"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -1993,7 +1993,7 @@
         "nl": "straatnaam"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2006,7 +2006,7 @@
         "nl": "postnaam"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2019,7 +2019,7 @@
         "nl": "postcode"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2032,7 +2032,7 @@
         "nl": "postbus"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2045,7 +2045,7 @@
         "nl": "locatienaam"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2058,7 +2058,7 @@
         "nl": "locatieaanduiding"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2098,13 +2098,13 @@
       "name": "ligging",
       "EA-Guid": "{B180BBBC-C7FF-47b1-B8A3-9FB429C38692}",
       "definition": {
-        "nl": "Locatie waarvoor de VerticalePositie geldt."
+        "nl": "Locatie waarvoor de Verticale Positie geldt."
       },
       "label": {
         "nl": "ligging"
       },
       "usage": {
-        "nl": "Typisch de xy-coördinaten van het Punt op het aardoppervlak waar de VerticalePositie is gemeten. Of de xy-coördinaten van de leiding of kabel of van de zone waarin deze ligt."
+        "nl": "Typisch de xy-coördinaten van het Punt op het aardoppervlak waar de Verticale Positie is gemeten. Of de xy-coördinaten van de leiding of kabel of van de zone waarin deze ligt."
       }
     },
     {
@@ -2117,7 +2117,7 @@
         "nl": "ligging"
       },
       "usage": {
-        "nl": "Typisch de xy-coördinaten van een Punt op het aardoppervlak waarvoor de VerticalePositie van het Referentieoppervlak geldt. Of de Geometrie van (een deel van) het ReferentieOppervlak."
+        "nl": "Typisch de xy-coördinaten van een Punt op het aardoppervlak waarvoor de Verticale Positie van het Referentieoppervlak geldt. Of de Geometrie van (een deel van) het ReferentieOppervlak."
       }
     },
     {
@@ -2163,7 +2163,7 @@
         "nl": "administratieve eenheid niveau 2"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2176,7 +2176,7 @@
         "nl": "administratieve eenheid niveau 1"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2212,7 +2212,7 @@
         "nl": "toegekend door (String)"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2340,7 +2340,7 @@
         "nl": "toegekend op"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
@@ -2353,7 +2353,7 @@
         "nl": "toegekend door"
       },
       "usage": {
-        "nl": " "
+        "nl": ""
       }
     },
     {
