@@ -418,13 +418,13 @@
       }
     },
     {
-      "name": "verticalepositiedetail",
+      "name": "verticalePositiedetail",
       "EA-Guid": "{3E2BEB3C-ED0C-45eb-8A4D-26B592DC703C}",
       "definition": {
         "nl": "Detail van de Verticale Positie van het element."
       },
       "label": {
-        "nl": "verticalePositiedetail"
+        "nl": "verticale positiedetail"
       },
       "usage": {
         "nl": "Bv diepte."
@@ -539,7 +539,7 @@
         "nl": "Verwijzing naar het Referentieoppervlak."
       },
       "label": {
-        "nl": "referentieOppervlak"
+        "nl": "referentieoppervlak"
       },
       "usage": {
         "nl": "Bvb het maaiveld."
@@ -935,7 +935,7 @@
         "nl": "Agent die de Opmeting heeft uitgevoerd."
       },
       "label": {
-        "nl": "uitgevoerdDoor"
+        "nl": "uitgevoerd door"
       }
     },
     {
@@ -1343,7 +1343,7 @@
         "nl": "TO DO"
       },
       "label": {
-        "nl": "Verticale Positie Type"
+        "nl": "Verticale Positietype"
       }
     },
     {
@@ -1443,7 +1443,7 @@
         "nl": "Classificatie van de economische activiteit."
       },
       "label": {
-        "nl": "EconomischeActiviteittype"
+        "nl": "Economische Activiteittype"
       }
     },
     {
@@ -1625,16 +1625,16 @@
       }
     },
     {
-      "name": "Directepositie",
+      "name": "DirectePositie",
       "EA-Guid": "{E1C752A5-926C-4002-90AB-71AFE74813C7}",
       "definition": {
         "nl": "Houder van de coördinaten van een positie in een coördinaatreferentiesysteem."
       },
       "label": {
-        "nl": "DirectePositie"
+        "nl": "Directe Positie"
       },
       "usage": {
-        "nl": "Typisch gebruikt om de geometrie van een ruimtelijk object te beschrijven of de geometrische primitieven (bv punt, Lijn, Vlak) waaruit dat object is samengesteld. Een DirectePositie kan echter ook op zichzelf staan om een positie in de ruimte te beschrijven. De positie wordt gegeven in een coördinaatreferentiesysteem. Dat referentiesysteem wordt expliciet bij de DirectePositie opgegeven, tenzij deze deel uitmaakt van een ruimtelijk object (bv een geometrische primitieve) waar al een referentiesysteem wordt vermeld. Ter info: Een coördinaatreferentiesysteem verschilt van een indirect ruimtelijk referentiesysteem in die zin dat posities direct dmv coördinaten worden opgegeven ipv indirect door een adres of plaatsnaam."
+        "nl": "Typisch gebruikt om de geometrie van een ruimtelijk object te beschrijven of de geometrische primitieven (bv punt, Lijn, Vlak) waaruit dat object is samengesteld. Een Directe Positie kan echter ook op zichzelf staan om een positie in de ruimte te beschrijven. De positie wordt gegeven in een coördinaatreferentiesysteem. Dat referentiesysteem wordt expliciet bij de Directe Positie opgegeven, tenzij deze deel uitmaakt van een ruimtelijk object (bv een geometrische primitieve) waar al een referentiesysteem wordt vermeld. Ter info: Een coördinaatreferentiesysteem verschilt van een indirect ruimtelijk referentiesysteem in die zin dat posities direct dmv coördinaten worden opgegeven ipv indirect door een adres of plaatsnaam."
       }
     },
     {
