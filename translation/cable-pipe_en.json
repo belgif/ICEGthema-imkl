@@ -75,7 +75,7 @@
         }
       },
       {
-        "name": "CableandPipeContainer",
+        "name": "CableAndPipeContainer",
         "EA-Guid": "{F073D2F0-F857-490f-9A92-1E0414A423BD}",
         "definition": {
             "en": "Object that could potentially contain cables or pipes/ducts."
@@ -137,26 +137,26 @@
         }
       },
       {
-        "name": "Utilitynode",
+        "name": "UtilityNode",
         "EA-Guid": "{62C7863D-CE99-4f17-86A1-99FC46FCF765}",
         "definition": {
           "en": "Point-shaped spatial object that plays an important role in a Utility Network."
         },
         "label": {
-          "en": "UtilityNode"
+          "en": "Utility Node"
         },
         "usage": {
             "en": "Can stand alone or form beginning or end of a Utility Link. NOTE: is abstract, should be further specialised as Appurtenance or a subclass thereof."
           }
       },
       {
-        "name": "Utilitynodecontainer",
+        "name": "UtilityNodeContainer",
         "EA-Guid": "{5A2FA179-6AC8-447f-B78E-6FA97646EAD5}",
         "definition": {
           "en": "Point shaped UtilityNetworkElement, potential carrier of Utility Nodes."
         },
         "label": {
-          "en": "UtilityNodeContainer"
+          "en": "Utility Node Container"
         },
         "usage": {
           "en": "Eg Tower, Pole, Manhole, Cabinet. Eg a Cabinet contains switches, connections etc that form Nodes in the Utility Network."
@@ -385,7 +385,7 @@
     ],
     "properties": [
       {
-        "name": "operatingvoltage",
+        "name": "operatingVoltage",
         "EA-Guid": "{D1830335-BDBB-4e04-AE0A-D3BDA5FDCEBB}",
         "definition": {
           "en": "Voltage during load."
@@ -395,7 +395,7 @@
         }
       },
       {
-        "name": "watertype",
+        "name": "waterType",
         "EA-Guid": "{79221124-8F87-4713-943A-8BC0846FEB6D}",
         "definition": {
           "en": "Type of water"
@@ -408,7 +408,7 @@
         "name": "warningType",
         "EA-Guid": "{97A97624-EDF7-4f17-978F-0D5CE9992CDB}",
         "definition": {
-          "en": "Way to alert for the presence of the Linkset."
+          "en": "Way to alert for the presence of the LinkSet."
         },
         "label": {
           "en": "warning type"
@@ -563,7 +563,7 @@
         }
       },
       {
-        "name": "oilGasChemicaldProductType",
+        "name": "oilGasChemicalsProductType",
         "EA-Guid": "{3D899D97-F9FB-4713-AF79-B35E4B6E73FF}",
         "definition": {
             "en": "The type of oil, gas or chemical product transported through the oil, gas or chemical pipe."
@@ -636,13 +636,13 @@
         }
       },
       {
-        "name": "colour",
+        "name": "color",
         "EA-Guid": "{320A079D-1C70-465e-85DA-E31BE1A1DD0D}",
         "definition": {
             "en": "The color of the object."
         },
         "label": {
-          "en": "colour"
+          "en": "color"
         }
       },
       {
@@ -976,7 +976,7 @@
         "name": "appearance",
         "EA-Guid": "{451C5196-58DF-4df8-AE6F-13A5828A6E6F}",
         "definition": {
-          "en": "The way an object looks."
+          "en": "Appearance of the LinkSet."
         },
         "label": {
           "en": "appearance"
@@ -986,7 +986,7 @@
         "name": "risk",
         "EA-Guid": "{4680B8E0-ADA5-4df0-BB22-757CF168E14E}",
         "definition": {
-          "en": "Indicates whether a utility link set can be considered hazardous."
+          "en": "Indicates whether the LinkSet can be considered hazardous."
         },
         "label": {
           "en": "risk"
@@ -996,7 +996,7 @@
         "name": "visibility",
         "EA-Guid": "{CB78D103-BABF-4d04-BDDB-5146D44A72EF}",
         "definition": {
-          "en": "Indicates the different ways in which the object is observable."
+          "en": "Extent to which the container is observable."
         },
         "label": {
           "en": "visibility"
@@ -1006,10 +1006,13 @@
         "name": "appearance",
         "EA-Guid": "{ACE6F98E-D2DC-40fb-B473-8E0BC8C66040}",
         "definition": {
-          "en": "The way an object looks."
+          "en": "Appearance of the container."
         },
         "label": {
           "en": "appearance"
+        },
+        "usage": {
+          "en": "For example the color."
         }
       },
       {
@@ -1026,7 +1029,7 @@
         "name": "orientation",
         "EA-Guid": "{9E9E6F1D-85EE-452e-BB76-512A6EB93731}",
         "definition": {
-          "en": "The attribute \"orientation\" describes the angle that determines the orientation of the Utility node container object."
+          "en": "Angle by which to rotate the symbol representing the container on a map."
         },
         "label": {
           "en": "orientation"
@@ -1036,27 +1039,33 @@
         "name": "visibility",
         "EA-Guid": "{A9A65420-5DE4-4dc4-80E0-D03317ECF385}",
         "definition": {
-          "en": "Indicates the different ways in which the object is observable."
+          "en": "Extent to which the Node is observable."
         },
         "label": {
           "en": "visibility"
+        },
+        "usage": {
+          "en": "For example, not visible above ground."
         }
       },
       {
         "name": "appearance",
         "EA-Guid": "{D9335DED-CB05-4e08-9E35-992400B607AF}",
         "definition": {
-          "en": "The way an item looks."
+          "en": "Appearance of the Node."
         },
         "label": {
           "en": "appearance"
+        },
+        "usage": {
+          "en": "For example the color."
         }
       },
       {
         "name": "risk",
         "EA-Guid": "{3846A060-B6A3-4e1c-8C23-6824A4215BB9}",
         "definition": {
-          "en": "Indicates whether a utility node can be considered hazardous."
+          "en": "Indicates whether the Node can be considered hazardous."
         },
         "label": {
           "en": "risk"
@@ -1066,7 +1075,7 @@
         "name": "orientation",
         "EA-Guid": "{B51C2121-D6ED-437e-8786-E6B4573C28C9}",
         "definition": {
-          "en": "The attribute \"orientation\" describes the angle that determines the orientation of the Utility node object."
+          "en": "Angle by which the symbol representing the Node on map should be rotated."
         },
         "label": {
           "en": "orientation"
@@ -1076,7 +1085,7 @@
         "name": "pipe",
         "EA-Guid": "{77697554-CF39-4bf5-8840-23FA1B2415DD}",
         "definition": {
-          "en": "Pipes may contain multiple pipes."
+          "en": "Pipe located in the Duct."
         },
         "label": {
           "en": "pipe"
@@ -1086,20 +1095,20 @@
         "name": "duct",
         "EA-Guid": "{4F60EFC8-708A-4454-94BC-4DA8A4432ACA}",
         "definition": {
-          "en": "Channels (channel banks or inner channels) may contain cables."
+          "en": "Duct located in the Duct."
         },
         "label": {
           "en": "duct"
         }
       },
       {
-        "name": "duct|r=cables|'cable",
+        "name": "cable",
         "EA-Guid": "{2F358CAE-0920-4a24-B363-CFD68C6310DA}",
         "definition": {
-          "en": "Ducts (duct banks, or inner-ducts) may contain cables."
+          "en": "Cable located in the Duct."
         },
         "label": {
-          "en": "Duct|r=cables|'Cable"
+          "en": "cable"
         }
       },
       {
@@ -1113,13 +1122,13 @@
         }
       },
       {
-        "name": "innetwork",
+        "name": "inNetwork",
         "EA-Guid": "{622A4782-F304-42fe-A5D9-EF31D38D0479}",
         "definition": {
-          "en": "TODO"
+          "en": "Utility Network to which the ActivityComplex belongs."
         },
         "label": {
-          "en": "innetwork"
+          "en": "in network"
         }
       },
       {
@@ -1129,7 +1138,7 @@
           "en": "Appurtenance classification."
         },
         "label": {
-          "en": "appurtenanceType"
+          "en": "appurtenance type"
         }
       }
     ],
@@ -1138,49 +1147,61 @@
         "name": "Length",
         "EA-Guid": "{91658B08-12DB-45b3-8460-CEE464AC4C6E}",
         "definition": {
-          "en": "The measure of distance as an integral, i.e. the limit of an infinite sum of distances between points on a curve.  For example the length of curve, the perimeter of a polygon as the length of the boundary."
+          "en": "Distance between two points on a curve."
         },
         "label": {
           "en": "Length"
+        },
+        "usage": {
+          "en": "Used here to describe the size of something, for example the height of a tower."
         }
       },
       {
         "name": "Measure",
         "EA-Guid": "{889C9976-B9C7-47d5-849B-C0D9B0D55915}",
         "definition": {
-          "en": "The result from performing the act or process of ascertaining the extent, dimensions, or quantity of some entity."
+          "en": "A measured amount of a certain quantity, expressed in some unit."
         },
         "label": {
           "en": "Measure"
-        },
-        "usage": {
-          "en": "A measure is always associated to a unit of measure. Ratio measures where the two base measures are in the same units (often considered unit-less) should be associated to UnitOfMeasure (same meter.sl.meter for map scale) so that conversions to non-unitless ratios can be accomplished (such as miles.sl.inch)"
         }
       },
       {
-        "name": "Unitofmeasure",
+        "name": "UnitOfMeasure",
         "EA-Guid": "{AC115F40-08A9-47dc-96A2-547A024E7F0D}",
         "label": {
-          "en": "UnitOfMeasure"
+          "en": "Unit of Measure"
         }
       },
       {
-        "name": "Uomlength",
+        "name": "UOMLength",
         "EA-Guid": "{51E1B009-115C-4cc2-9C42-546B04A2AF9B}",
         "label": {
-          "en": "UomLength"
+          "en": "UOM Length"
         }
       },
       {
-        "name": "Positionalaccuracy",
+        "name": "PositionalAccuracy",
         "EA-Guid": "{51A7F2F8-BF72-48d9-8744-8AAE8893AF88}",
+        "definition": {
+          "en": "Degree to which a specified position represents the actual position."
+        },
         "label": {
           "en": "PositionalAccuracy"
+        },
+        "usage": {
+          "en": "For example, expressed as the maximum deviation in cm between both positions."
         }
       },
       {
-        "name": "",
-        "EA-Guid": "{F0F9C22E-B0EA-45d9-9832-97449167534F}"
+        "name": "Agent",
+        "EA-Guid": "{F0F9C22E-B0EA-45d9-9832-97449167534F}",
+        "definition": {
+          "en": "Someone or something that can act or produce an effect."
+        },
+        "label": {
+          "en": "Agent"
+        }
       },
       {
         "name": "Curve",
@@ -1209,57 +1230,57 @@
         }
       },
       {
-        "name": "Containertypevalue",
+        "name": "ContainerTypeValue",
         "EA-Guid": "{B69A62F0-5763-4958-8784-BAB9DE6FCB0E}",
         "definition": {
           "en": "Kind of container"
         },
         "label": {
-          "en": "ContainertypeValue"
+          "en": "Container Type Value"
         }
       },
       {
-        "name": "Visibilitytypevalue",
+        "name": "VisibilityTypeValue",
         "EA-Guid": "{8B274381-D55D-4519-AAC1-D795D69B5003}",
         "definition": {
           "en": "To what extent the object is observable."
         },
         "label": {
-          "en": "VisibilityTypeValue"
+          "en": "Visibility Type Value"
         }
       },
       {
-        "name": "Risktypevalue",
+        "name": "RiskTypeValue",
         "EA-Guid": "{DAA69E92-355C-4f0a-A8C8-EC9EFAA7C509}",
         "definition": {
           "en": "The nature of the risk."
         },
         "label": {
-          "en": "RiskTypeValue"
+          "en": "Risk Type Value"
         }
       },
       {
-        "name": "Colourvalue",
+        "name": "ColorValue",
         "EA-Guid": "{D8B48467-825B-4904-B96D-99B05F82D1E7}",
         "definition": {
-          "en": "Colour of the element."
+          "en": "Color of the element."
         },
         "label": {
-          "en": "ColourValue"
+          "en": "Color Value"
         }
       },
       {
-        "name": "Materialtypevalue",
+        "name": "MaterialTypeValue",
         "EA-Guid": "{11E84A6A-4ECA-497e-92DE-595261982FAB}",
         "definition": {
           "en": "The kind of material used."
         },
         "label": {
-          "en": "MaterialTypeValue"
+          "en": "Material Type Value"
         }
       },
       {
-        "name": "Subthemevalue",
+        "name": "SubthemeValue",
         "EA-Guid": "{008FE2E5-ABC0-4b88-B7D4-6661D8EFFBE2}",
         "definition": {
           "en": "Classification of a cable, pipe, or pipe elements according to the thematic domain to which they belong."
@@ -1269,204 +1290,210 @@
         }
       },
       {
-        "name": "Utilitynetworktypevalue",
+        "name": "UtilityNetworkTypeValue",
         "EA-Guid": "{216EAE99-067D-42f0-896F-0497F500AF65}",
         "definition": {
           "en": "Classification of utility network types."
         },
         "label": {
-          "en": "UtilityNetworkTypeValue"
+          "en": "Utility Network Type Value"
         }
       },
       {
-        "name": "Conditionoffacilityvalue",
+        "name": "ConditionOfFacilityValue",
         "EA-Guid": "{AD6B4EE2-398B-4a03-BDA1-AF15D5EC8843}",
         "definition": {
           "en": "The state of the facility component."
         },
         "label": {
-          "en": "ConditionOfFacilityValue"
+          "en": "Condition of Facility Value"
         }
       },
       {
-        "name": "Verticalpositionvalue",
+        "name": "VerticalPositionValue",
         "EA-Guid": "{75E41100-4B17-4450-A30D-9B65EF8E95C9}",
         "label": {
-          "en": "VerticalPositionValue"
+          "en": "Vertical Position Value"
         }
       },
       {
-        "name": "Utilitydeliverytypevalue",
+        "name": "UtilityDeliveryTypeValue",
         "EA-Guid": "{3A4EAFCB-FAEE-4c4a-AB9E-D69A16D16EF2}",
         "definition": {
-          "en": "Classification of utility delivery types."
+          "en": "Classification of utility network types."
         },
         "label": {
-          "en": "UtilityDeliveryTypeValue"
+          "en": "Utility Delivery Type Value"
         }
       },
       {
-        "name": "Warningtypevalue",
+        "name": "WarningTypeValue",
         "EA-Guid": "{9D3B762F-D306-436c-AF88-A6BB81CDA763}",
         "definition": {
           "en": "Classification of warning types."
         },
         "label": {
-          "en": "WarningTypeValue"
+          "en": "Warning Type Value" 
         }
       },
       {
-        "name": "Telecommunicationscablematerialtypevalue",
+        "name": "TelecommunicationsCableMaterialTypeValue",
         "EA-Guid": "{4993E731-18FC-455f-8679-DC8F668B04E2}",
         "definition": {
           "en": "Kind of material the telecommunication cable is made of."
         },
         "label": {
-          "en": "TelecommunicationsCableMaterialTypeValue"
+          "en": "Telecommunications Cable Material Type Value"
         }
       },
       {
-        "name": "Oilgaschemicalproducttypevalue",
+        "name": "OilGasChemicalsProductTypeValue",
         "EA-Guid": "{A11F8830-B1BA-434e-855D-7905B5F2F0B9}",
         "definition": {
           "en": "Classification of oil, gas or chemicals."
         },
         "label": {
-          "en": "OilGasChemicalProductTypeValue"
+          "en": "Oil Gas Chemicals Product Type Value"
         }
       },
       {
-        "name": "Sewerwatertypevalue",
+        "name": "SewerWaterTypeValue",
         "EA-Guid": "{6E79C43A-E2A6-40ce-8B1B-731472FC1FCB}",
         "definition": {
           "en": "Nature of sewage."
         },
         "label": {
-          "en": "SewerWaterTypeValue"
+          "en": "Sewer Water Type Value"
         }
       },
       {
-        "name": "Watertypevalue",
+        "name": "WaterTypeValue",
         "EA-Guid": "{979037AB-2661-43c1-84E1-F12623E177FE}",
         "definition": {
           "en": "Kind of water."
         },
         "label": {
-          "en": "WaterTypeValue"
+          "en": "Water Type Value"
         }
       },
       {
-        "name": "Thermalproducttypevalue",
+        "name": "ThermalProductTypeValue",
         "EA-Guid": "{F2D48811-960A-4059-BB29-0FE2E787B3AA}",
         "definition": {
           "en": "Classification of thermal product."
         },
         "label": {
-          "en": "ThermalProductTypeValue"
+          "en": "Thermal Product Type Value"
         }
       },
       {
         "name": "Sign",
         "EA-Guid": "{2A82DBEC-F9F5-4c7e-BC4B-237ED13BE8B4}",
+        "definition": {
+          "en": "TO DO"
+        },
         "label": {
           "en": "Sign"
         }
       },
       {
-        "name": "Appurtenancetypevalue",
+        "name": "AppurtenanceTypeValue",
         "EA-Guid": "{F306D116-447C-44c7-90EE-65CD2CED0870}",
         "definition": {
-          "en": "Classification of appurtenances."
+          "en": "Appurtenance classification."
         },
         "label": {
-          "en": "AppurtenanceTypeValue"
+          "en": "Appurtenance Type Value"
         }
       },
       {
-        "name": "Economicactivityvalue",
+        "name": "EconomicActivityValue",
         "EA-Guid": "{FC07E928-D5AF-4649-BAEC-B4B110C3DD8B}",
         "definition": {
           "en": "Classification of economic activity."
         },
         "label": {
-          "en": "EconomicActivityValue"
+          "en": "Economic Activity Value"
         }
       },
       {
-        "name": "Inputoutputvalue",
+        "name": "InputOutputValue",
         "EA-Guid": "{6D0DD9F7-83BC-4aa8-93A3-14BA50E9078F}",
         "definition": {
           "en": "The value of inputs and outputs."
         },
         "label": {
-          "en": "InputOutputValue"
+          "en": "Input Output Value"
         }
       },
       {
-        "name": "Annotationtype",
+        "name": "AnnotationType",
         "EA-Guid": "{923B5591-8826-4e70-8DCD-E88CB85A974E}",
         "definition": {
           "en": "Kind of annotation"
         },
         "label": {
-          "en": "AnnotationType"
+          "en": "Annotation Type"
         }
       },
       {
-        "name": "Topographicalelementtype",
+        "name": "TopographicalElementType",
         "EA-Guid": "{1BA73C20-E4A8-4819-B850-70A653BB3CCC}",
         "definition": {
           "en": "Classification of the topographic element."
         },
         "label": {
-          "en": "TopographicalElementType"
+          "en": "Topographical Element Type"
         }
       },
       {
-        "name": "Documentmediatype",
+        "name": "DocumentMediatype",
         "EA-Guid": "{FB360146-4CE3-4542-9E1C-539528799A24}",
         "definition": {
-          "en": "Kind of document medium."
+          "en": "Document mediatype"
         },
         "label": {
-          "en": "DocumentMediaType"
+          "en": "Document Mediatype"
         }
       },
       {
-        "name": "Documenttype",
+        "name": "DocumentType",
         "EA-Guid": "{97C446AC-1E38-4007-A6B7-478C220DE467}",
         "definition": {
           "en": "Kind of document."
         },
         "label": {
-          "en": "DocumentType"
+          "en": "Document Type"
         }
       },
       {
-        "name": "Referencesurfacetype",
+        "name": "ReferenceSurfaceType",
         "EA-Guid": "{B5B122A0-8F29-4e1a-B898-72EB39B082AA}",
         "definition": {
           "en": "The kind of reference surface."
         },
         "label": {
-          "en": "ReferenceSurfaceType"
+          "en": "Reference Surface Type"
         }
       },
       {
-        "name": "Methodofmeasurement",
+        "name": "MethodOfMeasurement",
         "EA-Guid": "{ADE02FBC-0783-4b47-BDD9-2143F3ADBE4F}",
         "definition": {
           "en": "The way the measurement result was determined"
         },
         "label": {
-          "en": "MethodOfMeasurement"
+          "en": "Method of Measurement"
         }
       },
       {
-        "name": "",
+        "name": "ProtectedAreaValue",
         "EA-Guid": "{28603502-2A1C-4eb1-853A-3D296460F944}",
         "definition": {
-          "en": "Classification of protected area types"
+          "en": "Classification of protected area."
+        },
+        "label": {
+          "en": "Protected Area Value"
         }
       },
       {
@@ -1509,18 +1536,27 @@
         }
       },
       {
-        "name": "",
-        "EA-Guid": "{3E2316F7-8A6D-4884-BD13-6F2903D85A29}"
+        "name": "Object",
+        "EA-Guid": "{3E2316F7-8A6D-4884-BD13-6F2903D85A29}",
+        "definition": {
+          "en": "Entity from which all entities are derived."
+        },
+        "label": {
+          "en": "Object"
+        }
       },
       {
-        "name": "",
-        "EA-Guid": "{24D7FBAF-82F0-4ac5-86AA-A7549CB249B0}"
+        "name": "Location",
+        "EA-Guid": "{24D7FBAF-82F0-4ac5-86AA-A7549CB249B0}",
+        "definition": {
+          "en": "Indication of a geographical position, by means of coordinates, a toponym, an address label, a reference to a place/region, an address or another geographical object."
+        }
       },
       {
         "name": "Document",
         "EA-Guid": "{C9A6DC2A-B883-4798-BFD6-1DAA4419A1E6}",
         "definition": {
-          "en": "Attachment in any form for additional information."
+          "en": "Information recorded on a data carrier."
         },
         "label": {
           "en": "Document"
@@ -1540,29 +1576,29 @@
         }
       },
       {
-        "name": "Activitycomplex",
+        "name": "ActivityComplex",
         "EA-Guid": "{399F826F-996C-4894-8933-FDE2B1CEEF24}",
         "definition": {
-          "en": "A \"single unit\", both technically and economically, under the management control of the same legal entity (operator), covering activities as those listed in the Eurostat NACE classification, products and services. Activity Complex includes all infrastructure, equipment and materials. It must represent the whole area, at the same or different geographical location, managed by a \"single unit\"."
+          "en": "Technical and economic unit managed by the same operator where certain activities regarding production and services take place."
         },
         "label": {
-          "en": "ActivityComplex"
+          "en": "Activity Complex"
         },
         "usage": {
-          "en": "NOTE 1 This class describes the minimal set of elements necessary to describe and identify geographically a legal entity and the activities taken place on it under the context of a Environmental purposes.\nNOTE 2 \"Activity Complex\" could be assimilated to terms described on the legislation as Facility, Establishment, Plant, Holding, Organization ,Farm, Extractive Industries or Aquaculture Production Business among others\nEXAMPLE i.e. an Agro-business that is legally registered under the Emissions Directive."
+          "en": "In practice, a site, plot, facility, installation, building where the activity takes place. In the context of cables and pipes, it refers to e.g. a power plant, a pumping station, a sewage treatment plant, etc. Includes the infrastructure, equipment and material required for it. May include several sites as long as they are part of the same complex. The activity is preferably identified by NACE codes."
         }
       },
       {
-        "name": "Directposition",
+        "name": "DirectPosition",
         "EA-Guid": "{E1C752A5-926C-4002-90AB-71AFE74813C7}",
         "definition": {
           "en": "Holder of the coordinates of a position in a coordinate reference system."
         },
         "label": {
-          "en": "DirectPosition"
+          "en": "Direct Position"
         },
         "usage": {
-          "en": "Typically used to describe the geometry of a spatial object or the geometric primitives (e.g. point, line, plane) that compose that object. However, a DirectPosition can also stand alone to describe a position in space. The position is given in a coordinate reference system. That reference system is explicitly specified with the DirectPosition, unless it is part of a spatial object (eg a geometric primitive) where a reference system is already stated. FYI: A coordinate reference system differs from an indirect spatial reference system in that positions are specified directly by coordinates instead of indirectly by an address or place name."
+          "en": "Typically used to describe the geometry of a spatial object or the geometric primitives (e.g. point, line, plane.) that compose that object. However, a DirectPosition can also stand alone to describe a position in space. The position is given in a coordinate reference system. That reference system is explicitly specified with the DirectPosition, unless it is part of a spatial object (eg a geometric primitive) where a reference system is already stated. FYI: A coordinate reference system differs from an indirect spatial reference system in that positions are specified directly by coordinates instead of indirectly by an address or place name."
         }
       },
       {
@@ -1576,18 +1612,24 @@
         }
       },
       {
-        "name": "Measurement",
+        "name": "Survey",
         "EA-Guid": "{F3D7A5E3-73B4-466d-A3F3-E0259CBD68A4}",
         "definition": {
           "en": "Determining the exact size of something by measuring it."
         },
         "label": {
-          "en": "Measurement"
+          "en": "Survey"
         }
       },
       {
-        "name": "",
-        "EA-Guid": "{52D7A324-E792-41ac-83A2-90779B2FDA85}"
+        "name": "GenericLink",
+        "EA-Guid": "{52D7A324-E792-41ac-83A2-90779B2FDA85}",
+        "definition": {
+          "en": "Linear Network Element."
+        },
+        "label": {
+          "en": "Generic Link"
+        }
       },
       {
         "name": "DirectedLink",
@@ -1596,34 +1638,76 @@
           "en": "A link either in its positive or negative direction."
         },
         "label": {
-          "en": "Directed link"
+          "en": "Directed Link"
         }
       },
       {
-        "name": "",
-        "EA-Guid": "{D522C5D0-B005-49b3-9353-5B4CFEEFE03E}"
+        "name": "Node",
+        "EA-Guid": "{D522C5D0-B005-49b3-9353-5B4CFEEFE03E}",
+        "definition": {
+          "en": "Significant position in the Network that always coincides with the beginning or end of a Link."
+        },
+        "label": {
+          "en": "Node"
+        }
       },
       {
-        "name": "",
-        "EA-Guid": "{8F85F084-8291-4781-AD0D-57AD8517284F}"
+        "name": "Link",
+        "EA-Guid": "{8F85F084-8291-4781-AD0D-57AD8517284F}",
+        "definition": {
+          "en": "Curvilinear network element that connects two positions and represents a homogeneous path in the Network. The connected positions are represented by Nodes."
+        },
+        "label": {
+          "en": "Link"
+        }
       },
       {
-        "name": "",
-        "EA-Guid": "{99B8D562-8B03-4b77-9B30-2B5F70753408}"
+        "name": "LinkSequence",
+        "EA-Guid": "{99B8D562-8B03-4b77-9B30-2B5F70753408}",
+        "definition": {
+          "en": "Unbranched continuous path in a Network."
+        },
+        "label": {
+          "en": "LinkSequence"
+        },
+        "usage": {
+          "en": "For example, a route in the Network."
+        }
       },
       {
-        "name": "",
-        "EA-Guid": "{9719DE79-C9BD-4042-8FD9-DCAC00BE5FEF}"
+        "name": "LinkSet",
+        "EA-Guid": "{9719DE79-C9BD-4042-8FD9-DCAC00BE5FEF}",
+        "definition": {
+          "en": "Collection of Link Sequences and/or Links with a specific function or interest in the Network."
+        },
+        "label": {
+          "en": "LinkSet"
+        }
       },
       {
-        "name": "",
-        "EA-Guid": "{2C7672D2-90F7-42ff-9B60-9B92997DEF26}"
+        "name": "Network",
+        "EA-Guid": "{2C7672D2-90F7-42ff-9B60-9B92997DEF26}",
+        "definition": {
+          "en": "Collection of Network Elements"
+        },
+        "label": {
+          "en": "Network"
+        },
+        "usage": {
+          "en": "The reason why the Network Elements are brought together in a Network may differ, for example because they are suitable for a certain type of transport."
+        }
       },
       {
         "name": "Number",
         "EA-Guid": "{9DBB6B63-8DD3-4f03-92B6-B007C437B2FC}",
+        "definition": {
+          "en": "Indication of a quantity."
+        },
         "label": {
           "en": "Number"
+        },
+        "usage": {
+          "en": "NOTE: Substitute for the primitive data types that can be used to represent a quantity. See <a href=\"https://www.w3.org/TR/xmlschema-2/\">xsd data types</a> Integer, Float, Decimal, Double etc."
         }
       }
     ],

@@ -2,3 +2,4 @@
 *.ldb
 *.xlsm
 output-toolchain/
+*-backup.eap
