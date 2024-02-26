@@ -238,7 +238,7 @@
         "name": "Pole",
         "EA-Guid": "{9177D32C-B5BA-4c8d-AAFC-7D7DD359E7D7}",
         "definition": {
-          "en": "A pipe used to transport oil, gas or chemicals from one location to another."
+          "en": "Simple UtilityNodeContainer that takes the shape of a pole."
         },
         "label": {
           "en": "Pole"
@@ -336,7 +336,7 @@
           "en": "Topographical Element"
         },
         "usage": {
-            "en": "Typical elements are relief, landforms, water bodies, vegetation…"
+            "en": "Typical elements are relief, landforms, water bodies, vegetation."
           }
       },
       {
@@ -356,20 +356,20 @@
         "name": "Appearance",
         "EA-Guid": "{832DE919-04DB-4d9e-A819-5A19E69D291A}",
         "definition": {
-          "en": "The way an item looks"
+          "en": "The way an item looks."
         },
         "label": {
           "en": "Appearance"
         }
       },
       {
-        "name": "Verticalposition",
+        "name": "VerticalPosition",
         "EA-Guid": "{40E4039D-D47D-43cc-A456-E9BB6DC89632}",
         "definition": {
             "en": "Position in vertical direction relative to a Reference Surface."
         },
         "label": {
-          "en": "verticalPosition"
+          "en": "vertical Position"
         }
       },
       {
@@ -428,7 +428,7 @@
         "name": "towerHeight",
         "EA-Guid": "{2B21AEA3-7CCC-461e-87AF-1BF09ED938F1}",
         "definition": {
-          "en": "Heigt of the tower."
+          "en": "Heigt of the Tower."
         },
         "label": {
           "en": "tower height"
@@ -458,7 +458,7 @@
         "name": "telecommunicationsCableMaterialType",
         "EA-Guid": "{984136ED-710B-4418-8372-69FF100BEED8}",
         "definition": {
-          "en": "Type of cable material"
+          "en": "Type of cable material."
         },
         "label": {
           "en": "telecommunications cable material type"
@@ -520,7 +520,7 @@
         "name": "sewerWaterType",
         "EA-Guid": "{6ACEF37E-7958-4cd6-8A21-879AE99AE881}",
         "definition": {
-          "en": "Type of sewer water"
+          "en": "Type of sewer water."
         },
         "label": {
           "en": "sewer water type"
@@ -529,7 +529,7 @@
       {
         "name": "referenceSurface",
         "definition": {
-            "en": "Reference to the ReferenceSurface."
+            "en": "Reference to the Reference Surface."
           },
         "EA-Guid": "{D93D22C8-1B5E-474f-95B6-C0E911F903C3}",
         "label": {
@@ -553,10 +553,10 @@
         }
       },
       {
-        "name": "poleheight",
+        "name": "poleHeight",
         "EA-Guid": "{AB08957F-2B69-41d5-9AA0-0236F59F1144}",
         "definition": {
-          "en": "The height of the Pole"
+          "en": "The height of the Pole."
         },
         "label": {
           "en": "pole height"
@@ -579,7 +579,7 @@
           "en": "Way in which the utility is delivered."
         },
         "label": {
-          "en": "utilityDeliveryType"
+          "en": "utility delivery type"
         },
         "usage": {
             "en": "E.g. transport, distribution and collection from gas, electricity and sewage respectively."
@@ -629,7 +629,7 @@
         "name": "node",
         "EA-Guid": "{46331986-D10E-4bda-9CAF-30970AE00D3B}",
         "definition": {
-            "en": "UtilityNode that is contained by the UtilityNodeContainer."
+            "en": "Utility Node that is contained by the UtilityNodeContainer."
           },
         "label": {
           "en": "node"
@@ -649,7 +649,7 @@
         "name": "ductWidth",
         "EA-Guid": "{CF953F89-815C-4736-9F26-C63AB01A7040}",
         "definition": {
-            "en": "Width of the Duct"
+            "en": "Width of the Duct."
         },
         "label": {
           "en": "duct width"
@@ -679,7 +679,7 @@
         "name": "validFrom",
         "EA-Guid": "{08E6867D-A670-47e6-9893-7E03DDD46AAD}",
         "definition": {
-            "en": "The time when the utility network element started to exist in the real world."
+            "en": "The time when the Utility NetworkElement started to exist in the real world."
         },
         "label": {
           "en": "valid from"
@@ -689,7 +689,7 @@
         "name": "validTo",
         "EA-Guid": "{A4140A3E-53BA-4c9f-ADCD-FB3F99086F43}",
         "definition": {
-            "en": "The time from which the utility network element no longer exists in the real world."
+            "en": "The time from which the Utility NetworkElement no longer exists in the real world."
         },
         "label": {
           "en": "valid to"
@@ -754,7 +754,7 @@
           "en": "pressure"
         },
         "usage": {
-            "en": "The unit of measurement for pressure is usually expressed in 'bar'"
+            "en": "The unit of measurement for pressure is usually expressed in 'bar'."
         }
       },
       {
@@ -804,7 +804,7 @@
         "name": "authorityRole",
         "EA-Guid": "{460A170A-99A8-49f8-9331-EA274380EA6F}",
         "definition": {
-            "en": "Parties authorized to manage, operate or own the UtilityNetwork."
+            "en": "Parties authorized to manage, operate or own the Utility Network."
         },
         "label": {
           "en": "authority role"
@@ -814,7 +814,7 @@
         "name": "distance",
         "EA-Guid": "{402EBC20-6752-4cb9-A310-47F1119B60DD}",
         "definition":{
-            "en": "The VerticalPosition as distance from the ReferenceSurface."
+            "en": "The Vertical Position as distance from the Reference Surface."
         },
         "label": {
           "en": "distance"
@@ -824,23 +824,23 @@
           }
       },
       {
-        "name": "adress",
+        "name": "address",
         "EA-Guid": "{9F470422-C6B3-4c74-BC4E-860AF8AD44E7}",
         "definition": {
             "en": "Address of the Connection."
         },
         "label": {
-          "en": "adress"
+          "en": "address"
         }
       },
       {
         "name": "activityComplexReference",
         "EA-Guid": "{703DE74E-31B6-4e66-8119-0C1E4A9DA973}",
         "definition":{
-            "en": "Activity complex belonging to the network."
+            "en": "ActivityComplex belonging to the network."
         },
         "label": {
-            "en": "activity complex reference"
+            "en": "activitycomplex reference"
         }
       },
       {
@@ -867,7 +867,7 @@
         "name": "verticalPosition",
         "EA-Guid": "{64B8CC6E-38B7-4a3f-AA9E-79F6B9E95868}",
         "definition": {
-            "en": "The VerticalPosition as a position in a vertical coordinate system."
+            "en": "The Vertical Position as a position in a vertical coordinate system."
           },
         "label": {
           "en": "vertical position"
@@ -880,7 +880,7 @@
         "name": "verticalPosition",
         "EA-Guid": "{D0CCE6E4-1ACB-424b-A647-35AB3C9294FE}",
         "definition": {
-            "en": "The VerticalPosition of the ReferenceSurface as position in a vertical coordinate system."
+            "en": "The Vertical Position of the ReferenceSurface as position in a vertical coordinate system."
         },
         "label": {
           "en": "vertical position"
@@ -897,7 +897,7 @@
         }
       },
       {
-        "name": "pijp",
+        "name": "pipe",
         "EA-Guid": "{08F7D59F-1CC5-446b-BE54-64564DB8F56C}",
         "definition": {
           "en": "Other Pipe located in the Pipe."
@@ -940,7 +940,7 @@
         "name": "verticalPosition",
         "EA-Guid": "{C7E00557-C167-4ec9-9AE4-E1B312D0DF12}",
         "definition": {
-          "en": "General indication of the VerticalPosition of the element."
+          "en": "General indication of the Vertical Position of the element."
         },
         "label": {
           "en": "vertical position"
@@ -950,20 +950,20 @@
         }
       },
       {
-        "name": "innetwerk",
+        "name": "inNetwork",
         "EA-Guid": "{25ECF8B0-9A86-46e7-AFDD-CF9500DD25E3}",
         "definition": {
-          "en": "UtilityNetwork to which the element belongs."
+          "en": "Utility Network to which the element belongs."
         },
         "label": {
-          "en": "inNetwork"
+          "en": "in network"
         }
       },
       {
         "name": "visibility",
         "EA-Guid": "{C121EB7C-3DD7-4bc3-A3F8-DABD7055BF89}",
         "definition": {
-          "en": "Extent to which the Linkset is observable."
+          "en": "Extent to which the LinkSet is observable."
         },
         "label": {
           "en": "visibility"
@@ -1019,7 +1019,7 @@
         "name": "risk",
         "EA-Guid": "{D53BCB73-D335-450e-9E1E-532956F36F0B}",
         "definition": {
-          "en": "Indicates whether a utility node container can be considered hazardous."
+          "en": "Indicates whether a UtilityNodeContainer can be considered hazardous."
         },
         "label": {
           "en": "risk"
@@ -1187,7 +1187,7 @@
           "en": "Degree to which a specified position represents the actual position."
         },
         "label": {
-          "en": "PositionalAccuracy"
+          "en": "Positional Accuracy"
         },
         "usage": {
           "en": "For example, expressed as the maximum deviation in cm between both positions."
@@ -1233,7 +1233,7 @@
         "name": "ContainerTypeValue",
         "EA-Guid": "{B69A62F0-5763-4958-8784-BAB9DE6FCB0E}",
         "definition": {
-          "en": "Kind of container"
+          "en": "Kind of container."
         },
         "label": {
           "en": "Container Type Value"
@@ -1430,7 +1430,7 @@
         "name": "AnnotationType",
         "EA-Guid": "{923B5591-8826-4e70-8DCD-E88CB85A974E}",
         "definition": {
-          "en": "Kind of annotation"
+          "en": "Kind of annotation."
         },
         "label": {
           "en": "Annotation Type"
@@ -1450,7 +1450,7 @@
         "name": "DocumentMediatype",
         "EA-Guid": "{FB360146-4CE3-4542-9E1C-539528799A24}",
         "definition": {
-          "en": "Document mediatype"
+          "en": "Document mediatype."
         },
         "label": {
           "en": "Document Mediatype"
@@ -1480,7 +1480,7 @@
         "name": "MethodOfMeasurement",
         "EA-Guid": "{ADE02FBC-0783-4b47-BDD9-2143F3ADBE4F}",
         "definition": {
-          "en": "The way the measurement result was determined"
+          "en": "The way the measurement result was determined."
         },
         "label": {
           "en": "Method of Measurement"
@@ -1582,7 +1582,7 @@
           "en": "Technical and economic unit managed by the same operator where certain activities regarding production and services take place."
         },
         "label": {
-          "en": "Activity Complex"
+          "en": "ActivityComplex"
         },
         "usage": {
           "en": "In practice, a site, plot, facility, installation, building where the activity takes place. In the context of cables and pipes, it refers to e.g. a power plant, a pumping station, a sewage treatment plant, etc. Includes the infrastructure, equipment and material required for it. May include several sites as long as they are part of the same complex. The activity is preferably identified by NACE codes."
@@ -1688,7 +1688,7 @@
         "name": "Network",
         "EA-Guid": "{2C7672D2-90F7-42ff-9B60-9B92997DEF26}",
         "definition": {
-          "en": "Collection of Network Elements"
+          "en": "Collection of Network Elements."
         },
         "label": {
           "en": "Network"
@@ -1716,7 +1716,7 @@
         "name": "height",
         "EA-Guid": "{A21B5024-1552-4895-80E4-DB1BEFAD674E}",
         "definition": {
-            "en": "Distance above the ReferenceSurface."
+          "en": "The height of the Appurtenance."
         },
         "label": {
           "en": "height"
@@ -1725,6 +1725,9 @@
       {
         "name": "height",
         "EA-Guid": "{E97B2968-7F15-48c0-8276-A6C61999CD96}",
+        "definition": {
+          "en": "Distance above the ReferenceSurface."
+        },
         "label": {
           "en": "height"
         }
@@ -1740,7 +1743,7 @@
         }
       },
       {
-        "name": "richting",
+        "name": "direction",
         "EA-Guid": "{D151A60B-B465-41c6-A78A-9DF5C1029B34}",
         "definition": {
           "en": "Indicates if the directed link agrees (positive) or disagrees (negative) with the positive direction of the link."
@@ -1753,7 +1756,7 @@
         "name": "endLink",
         "EA-Guid": "{10E1A285-9082-4718-B3A3-386B678452BE}",
         "definition": {
-            "en": "Link of which this Node is the endNode."
+            "en": "Link of which this Node is the end Node."
         },
         "label": {
           "en": "end link"
@@ -1803,7 +1806,7 @@
         "name": "link",
         "EA-Guid": "{B4090BF4-12B5-44cd-9FDC-6E5347DDBB6A}",
         "definition": {
-            "en": "DirectedLink that is part of the LinkSequence."
+            "en": "Directed Link that is part of the LinkSequence."
         },
         "label": {
           "en": "link"
@@ -1813,7 +1816,7 @@
         "name": "centrelineGeometry",
         "EA-Guid": "{43D2E535-52C3-4008-990F-57D9080C843E}",
         "definition": {
-            "en": "The geometry of the centerline of the link."
+            "en": "The geometry of the centerline of the Link."
         },
         "label": {
           "en": "centreline geometry"
@@ -2002,13 +2005,13 @@
         "name": "location",
         "EA-Guid": "{B180BBBC-C7FF-47b1-B8A3-9FB429C38692}",
         "definition": {
-          "en": "Location for which the VerticalPosition applies."
+          "en": "Location for which the Vertical Position applies."
         },
         "label": {
           "en": "location"
         },
         "usage": {
-          "en": "Typically the xy-coordinates of a Point on the earth's surface for which the VerticalPosition of the ReferenceSurface applies. Or the Geometry of (part of) the ReferenceSurface."
+          "en": "Typically the xy-coordinates of a Point on the earth's surface for which the Vertical Position of the Reference Surface applies. Or the Geometry of (part of) the Reference Surface."
         }
       },
       {
@@ -2028,17 +2031,17 @@
         "name": "location",
         "EA-Guid": "{C0CAAE0B-80A5-40c1-B32F-188074D5A190}",
         "definition": {
-          "en": "Location of the ReferenceSurface."
+          "en": "Location of the Reference Surface."
         },
         "label": {
           "en": "location"
         },
         "usage": {
-          "en": "Typically the xy-coordinates of a Point on the earth's surface for which the VerticalPosition of the ReferenceSurface applies. Or the Geometry of (part of) the ReferenceSurface."
+          "en": "Typically the xy-coordinates of a Point on the earth's surface for which the Vertical Position of the Reference Surface applies. Or the Geometry of (part of) the ReferenceSurface."
         }
       },
       {
-        "name": "geometrie",
+        "name": "geometry",
         "EA-Guid": "{D3EDDD4A-1F53-4c15-B099-7879E7D2121F}",
         "definition": {
           "en": "Geometry of the complex to describe its location and size."
@@ -2275,7 +2278,7 @@
         "name": "type",
         "EA-Guid": "{3CFB2E82-225C-4884-9E31-E482A0748F97}",
         "definition": {
-          "en": "The type of Reference Surface"
+          "en": "The type of Reference Surface."
         },
         "label": {
           "en": "type"
@@ -2298,10 +2301,10 @@
         "name": "topographicalElementType",
         "EA-Guid": "{CEBE3DCE-6574-4e46-9CBB-AA03B3C7C332}",
         "definition": {
-            "en": "Type of the TopographicElement."
+            "en": "Type of the Topographical Element."
         },
         "label": {
-          "en": "topographicalElementType"
+          "en": "topographical element type"
         }
       },
       {
@@ -2318,7 +2321,7 @@
         "name": "appurtenanceType",
         "EA-Guid": "{588CFC97-081D-4a31-965F-F8FD557D0C55}",
         "definition": {
-          "en": "Type of Appurtenance"
+          "en": "Type of Appurtenance."
         },
         "label": {
           "en": "appurtenance type"
@@ -2418,7 +2421,7 @@
         "name": "date",
         "EA-Guid": "{A46FB68D-F943-48ac-B943-B63B769B47CF}",
         "definition": {
-          "en": "The moment at which the Survey took place"
+          "en": "The moment at which the Survey took place."
         },
         "label": {
           "en": "date"
