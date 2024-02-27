@@ -274,7 +274,7 @@
         "name": "ReferenceSurface",
         "EA-Guid": "{D1C76982-B10F-4c8a-8556-E743E298358D}",
         "definition": {
-          "en": "Surface relative to which a position is measured.."
+          "en": "Surface relative to which a position is measured."
         },
         "label": {
           "en": "Reference Surface"
@@ -369,7 +369,7 @@
             "en": "Position in vertical direction relative to a Reference Surface."
         },
         "label": {
-          "en": "vertical Position"
+          "en": "Vertical Position"
         }
       },
       {
@@ -398,7 +398,7 @@
         "name": "waterType",
         "EA-Guid": "{79221124-8F87-4713-943A-8BC0846FEB6D}",
         "definition": {
-          "en": "Type of water"
+          "en": "Type of water."
         },
         "label": {
           "en": "water type"
@@ -738,7 +738,7 @@
         "name": "element",
         "EA-Guid": "{25ECF8B0-9A86-46e7-AFDD-CF9500DD25E3}",
         "definition": {
-            "en": "UtilityNetworkElement belonging to the network."
+            "en": "Utility NetworkElement belonging to the network."
         },
         "label": {
           "en": "element"
@@ -850,7 +850,7 @@
             "en": "Element identifier."
           },
           "label": {
-            "en": "identificator"
+            "en": "identifier"
           }
       },
       {
@@ -930,7 +930,7 @@
         "name": "method",
         "EA-Guid": "{5CF54001-0D21-41e1-B29D-97CC7EC9F020}",
         "definition": {
-          "en": "Type of method used."
+          "en": "Type of the method used."
         },
         "label": {
           "en": "method"
@@ -1286,7 +1286,7 @@
           "en": "Classification of a cable, pipe, or pipe elements according to the thematic domain to which they belong."
         },
         "label": {
-          "en": "SubthemeValue"
+          "en": "Subtheme Value"
         }
       },
       {
@@ -1550,6 +1550,9 @@
         "EA-Guid": "{24D7FBAF-82F0-4ac5-86AA-A7549CB249B0}",
         "definition": {
           "en": "Indication of a geographical position, by means of coordinates, a toponym, an address label, a reference to a place/region, an address or another geographical object."
+        },
+        "label": {
+          "en": "Location"
         }
       },
       {
@@ -1726,7 +1729,7 @@
         "name": "height",
         "EA-Guid": "{E97B2968-7F15-48c0-8276-A6C61999CD96}",
         "definition": {
-          "en": "Distance above the ReferenceSurface."
+          "en": "Distance above the Reference Surface."
         },
         "label": {
           "en": "height"
@@ -1746,7 +1749,7 @@
         "name": "direction",
         "EA-Guid": "{D151A60B-B465-41c6-A78A-9DF5C1029B34}",
         "definition": {
-          "en": "Indicates if the directed link agrees (positive) or disagrees (negative) with the positive direction of the link."
+          "en": "Indicates if the Directed Link agrees (positive) or disagrees (negative) with the positive direction of the Link."
         },
         "label": {
           "en": "direction"
@@ -2037,7 +2040,7 @@
           "en": "location"
         },
         "usage": {
-          "en": "Typically the xy-coordinates of a Point on the earth's surface for which the Vertical Position of the Reference Surface applies. Or the Geometry of (part of) the ReferenceSurface."
+          "en": "Typically the xy-coordinates of a Point on the earth's surface for which the Vertical Position of the Reference Surface applies. Or the Geometry of (part of) the Reference Surface."
         }
       },
       {
@@ -2097,7 +2100,7 @@
         "name": "addressArea",
         "EA-Guid": "{060EBDC2-5490-4b36-8887-9C681BEE4C98}",
         "definition": {
-            "en": "Name of a geographic area or place that groups a number of addressable objects to address them without the area or place being an administrative unit"
+            "en": "Name of a geographic area or place that groups a number of addressable objects to address them without the area or place being an administrative unit."
         },
         "label": {
           "en": "address area"
