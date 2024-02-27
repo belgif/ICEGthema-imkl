@@ -101,7 +101,7 @@
         "name": "Cabinet",
         "EA-Guid": "{372EBCFB-1C9B-47fa-B078-279291D1CDAE}",
         "definition": {
-          "en": "Simple UtilityNodeCcontainer that takes the shape of a cabinet."
+          "en": "Simple UtilityNodeContainer that takes the shape of a cabinet."
         },
         "label": {
           "en": "Cabinet"
@@ -127,7 +127,7 @@
         "name": "Manhole",
         "EA-Guid": "{DA81483D-D2B8-4f27-9809-BDAFDA944055}",
         "definition": {
-          "en": "Simple UtilityNodeCcontainer that takes the form of a covered opening in the road surface providing access to the subsurface."
+          "en": "Simple UtilityNodeContainer that takes the form of a covered opening in the road surface providing access to the subsurface."
         },
         "label": {
           "en": "Manhole"
@@ -1572,7 +1572,7 @@
           "en": "Information that allows to refer in a structured and unique way to a building unit,a berth,a pitch or a plot based on a municipal name,a street name,a house number and possibly a bus number and a postal code."
         },
         "label": {
-          "en": "Adress"
+          "en": "Address"
         },
         "usage": {
           "en": "The definition refers to Belgian addresses. In other countries, an address may refer to other geographical objects (not a building unit or a plot of land) or consist of other designations (different from house number and bus number) or of other components than street name, town name or postal code. Alternative address designations than house number or bus number (e.g. entrance designation, stair designation, floor designation) or a building name or room name etc are possible through an association with address extension. Exchange of foreign addresses must be done with the object address representation."
@@ -2198,14 +2198,14 @@
           "en": "gml"
         },
         "usage": {
-          "en": "Use http://www.opengis.net/ont/geosparql#gmlLiteral as the data type."
+          "en": "Use <a href=\"http://www.opengis.net/ont/geosparql#gmlLiteral\">gmlliteral</a> as datatype."
         }
       },
       {
         "name": "gml",
         "EA-Guid": "{885CCC32-8976-4960-9770-83DBA03AC131}",
         "definition": {
-            "en": "Direct position expressed in gml format."
+            "en": "Direct Position expressed in gml format."
         },
         "label": {
           "en": "gml"
@@ -2381,7 +2381,7 @@
         }
       },
       {
-        "name": "documentMediaType",
+        "name": "documentMediatype",
         "EA-Guid": "{9AB54949-14EF-4e8d-91DD-42CFF169623D}",
         "definition": {
           "en": "Nature of the data carrier on which the Document is stored."
