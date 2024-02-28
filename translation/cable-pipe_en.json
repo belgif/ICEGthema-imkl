@@ -1010,7 +1010,7 @@
       },
       {
         "name": "inNetwork",
-        "EA-Guid": "{25ECF8B0-9A86-46e7-AFDD-CF9500DD25E3}",
+        "EA-Guid": "{B38569F4-BAEA-4d50-9679-56BF46F27AD9}",
         "definition": {
           "en": "Utility Network to which the element belongs."
         },
