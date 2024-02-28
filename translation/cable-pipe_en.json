@@ -656,6 +656,9 @@
         },
         "label": {
           "en": "duct width"
+        },
+        "usage": {
+          "en": "The measurement of the object - in this case, the duct - from side to side."
         }
       },
       {

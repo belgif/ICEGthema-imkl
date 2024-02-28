@@ -121,6 +121,9 @@
         },
         "label": {
           "en": "Dimension"
+        },
+        "usage": {
+          "en": "For example, the dimensions of a room."
         }
       },
       {
@@ -144,6 +147,9 @@
         },
         "label": {
           "en": "Utility Node"
+        },
+        "usage": {
+          "en": "Can stand alone or form beginning or end of a Utility Link. NOTE: is abstract, should be further specialised as Appurtenance or a subclass thereof."
         }
       },
       {
@@ -262,6 +268,9 @@
         },
         "label": {
           "en": "Plan"
+        },
+        "usage": {
+          "en": "Eg a ground plan, a street plan."
         }
       },
       {
@@ -328,6 +337,9 @@
         },
         "label": {
           "en": "Topographical Element"
+        },
+        "usage": {
+          "en": "Typical elements are relief, landforms, water bodies, vegetation."
         }
       },
       {
@@ -571,6 +583,9 @@
         },
         "label": {
           "en": "utility delivery type"
+        },
+        "usage": {
+          "en": "E.g. transport, distribution and collection from gas, electricity and sewage respectively."
         }
       },
       {
@@ -757,6 +772,9 @@
         },
         "label": {
           "en": "associated with"
+        },
+        "usage": {
+          "en": "For example a cable."
         }
       },
       {
@@ -767,6 +785,9 @@
         },
         "label": {
           "en": "function"
+        },
+        "usage": {
+          "en": "Possibly supplemented with information about inputs and outputs of the activities."
         }
       },
       {
@@ -1005,6 +1026,9 @@
         },
         "label": {
           "en": "visibility"
+        },
+        "usage": {
+          "en": "For example, not visible above ground."
         }
       },
       {
@@ -1045,6 +1069,9 @@
         },
         "label": {
           "en": "appearance"
+        },
+        "usage": {
+          "en": "For example the color."
         }
       },
       {
@@ -1075,6 +1102,9 @@
         },
         "label": {
           "en": "visibility"
+        },
+        "usage": {
+          "en": "For example, not visible above ground."
         }
       },
       {
@@ -1085,6 +1115,9 @@
         },
         "label": {
           "en": "appearance"
+        },
+        "usage": {
+          "en": "For example the color."
         }
       },
       {
@@ -1232,15 +1265,27 @@
       {
         "name": "Curve",
         "EA-Guid": "{5215CE2B-FA62-4e16-9191-4BA14EC24DDA}",
+        "definition": {
+          "en": "A 1-dimensional geometric primitive."
+        },
         "label": {
           "en": "Curve"
+        },
+        "usage": {
+          "en": "Dimension is to be understood in a mathematical sense: the minimum number of coordinates needed to represent any point that is part of the primitive. In the coordinate system formed by a Curve itself, 1 coordinate suffices to locate a point on the Curve, e.g. the distance along the Curve from the starting point. A Curve has a length but no width or height, which does not prevent it from meandering through 3D space. Curves are usually represented by polylines, which are sets of successive points where the intermediate points of the Curve are obtained by interpolation. If the interpolation method is linear you get a Linestring (an angular line connecting successive points by a straight line), other ways of interpolating result in circular arcs, cubic splines, Bézier curves etc (where the control points are not necessarily on the Curve). A Curve is bounded by its starting and ending points."
         }
       },
       {
         "name": "Point",
         "EA-Guid": "{B07BF018-BE28-4750-A037-1762FFC1C8C8}",
+        "definition": {
+          "en": "A 0-dimensional geometric primitive."
+        },
         "label": {
           "en": "Point"
+        },
+        "usage": {
+          "en": "Dimension is to be understood in a mathematical sense: the minimum number of coordinates needed to represent any point that is part of the primitive. In the coordinate system formed by a Point itself, no coordinate is needed, as there is only 1 point. A Point therefore has no width, length or depth. ATTENTION: this does not mean that a Point cannot have coordinates in another coordinate system, e.g. xyz-coordinates in and 3-axis orthogonal coordinate system."
         }
       },
       {
@@ -1403,6 +1448,9 @@
       {
         "name": "Sign",
         "EA-Guid": "{2A82DBEC-F9F5-4c7e-BC4B-237ED13BE8B4}",
+        "definition": {
+          "en": "TO DO"
+        },
         "label": {
           "en": "Sign"
         }
@@ -1714,6 +1762,9 @@
       {
         "name": "Number",
         "EA-Guid": "{9DBB6B63-8DD3-4f03-92B6-B007C437B2FC}",
+        "definition": {
+          "en": "Indication of a quantity."
+        },
         "label": {
           "en": "Number"
         },
@@ -2213,7 +2264,7 @@
         "name": "wkt",
         "EA-Guid": "{C6EFD7E3-420E-4e78-8EDB-7DF71919616D}",
         "definition": {
-          "en": "[UPDATED] Direct Position expressed in wkt format."
+          "en": "Direct Position expressed in wkt format."
         },
         "label": {
           "en": "wkt"
@@ -2226,13 +2277,13 @@
         "name": "gml",
         "EA-Guid": "{A6A5C173-385B-4359-9734-D190E74E58CF}",
         "definition": {
-          "en": "[UPDATED] Geometry expressed in wkt format."
+          "en": "Geometry expressed in gml format."
         },
         "label": {
           "en": "gml"
         },
         "usage": {
-          "en": "[UPDATED] Use <a href=\\\"http://www.opengis.net/ont/geosparql#wktLiteral\\\">wktliteral</a> as datatype."
+          "en": "[UPDATED] Use <a href=\\\\\\\"http://www.opengis.net/ont/geosparql#gmlLiteral\\\\\\\">gmlliteral</a> as datatype."
         }
       },
       {
@@ -2309,6 +2360,9 @@
         },
         "label": {
           "en": "utility network type"
+        },
+        "usage": {
+          "en": "Uses the Utility Network Type code list to describe the possible utility networks. This also includes the 'crossTheme' value to be used for utility networks that may contain cables or pipes from different themes, typically used by utility network providers that supply pipes."
         }
       },
       {
@@ -2319,6 +2373,9 @@
         },
         "label": {
           "en": "type"
+        },
+        "usage": {
+          "en": "Typical the groundlevel."
         }
       },
       {
@@ -2520,6 +2577,9 @@
       {
         "name": "uom",
         "EA-Guid": "{AAF767DB-84B7-480f-83C2-6CB587891CBF}",
+        "definition": {
+          "en": "Unit in which the quantity is expressed."
+        },
         "label": {
           "en": "uom"
         }
@@ -2527,8 +2587,14 @@
       {
         "name": "uom",
         "EA-Guid": "{E939E0AB-12A4-4f2f-9CE6-CF61104B43E7}",
+        "definition": {
+          "en": "Unit in which the Length is expressed."
+        },
         "label": {
           "en": "uom"
+        },
+        "usage": {
+          "en": "E.g. meters, centimeters."
         }
       }
     ]
