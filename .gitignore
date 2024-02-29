@@ -1,5 +1,4 @@
-.idea
-*.ldb
-*.xlsm
-output-toolchain/
-*-backup.eap
+.vscode/
+*.html
+*.xls*
+*.eap
