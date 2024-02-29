@@ -1,5 +1,5 @@
 {
-    "baseURI": "https://vocab.belgif.be/ns/utilityservices#",
+    "baseURI": "https://vocab.belgif.be/ns/utility-services#",
     "classes": [
       {
         "name": "Connection",
