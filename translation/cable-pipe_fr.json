@@ -42,7 +42,7 @@
         },
         "usage": {
           "en": "Can stand alone as a Utility Node, but is often mounted on a carrier (the Utility Node Container). E.g. an inspection hatch, a hydrant, a splitter, a meter, a pump etc.",
-          "fr": "Il peut être autonome en tant que Noeud de Service, mais il est souvent monté sur un support (le Conteneur du Noeud Service). Par ex.: trappe d'inspection, bouche d'incendie, splitter, jauge, pompe, etc."
+          "fr": "Il peut être autonome en tant que Noeud de Service, mais il est souvent monté sur un support (le Conteneur de Noeud de Service). Par ex.: trappe d'inspection, bouche d'incendie, splitter, jauge, pompe, etc."
         }
       },
       {
@@ -142,7 +142,7 @@
         },
         "usage": {
           "en": "A Duct (or Conduit, or Duct-bank, or Wireway) is a linear object which belongs to the structural network. It is the outermost casing. A Duct may contain Pipe(s), Cable(s) or other Duct(s).",
-          "fr": "Enter your translation here"
+          "fr": "Une Canalisation (ou fourreau ou goulotte) est un object linéaire appartement au réseau d'infrastructure. Il s'agit de l'enveloppe externe. Une Canalisation peut contenir des Conduites, des Câbles et d'autres Canalisations."
         }
       },
       {
@@ -784,11 +784,11 @@
         "EA-Guid": "{B7EE7353-0C10-44a0-9E23-C788317104BB}",
         "definition": {
           "en": "Utility Network to which the element belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service auquel l'élément appartient."
         },
         "label": {
           "en": "in network",
-          "fr": "Enter your translation here"
+          "fr": "dans le réseau"
         }
       },
       {
@@ -796,11 +796,11 @@
         "EA-Guid": "{00B84534-2965-4e6f-9B62-64AE34F23F96}",
         "definition": {
           "en": "Utility Network to which the element belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service auquel l'élément appartient."
         },
         "label": {
           "en": "in network",
-          "fr": "Enter your translation here"
+          "fr": "dans le réseau"
         }
       },
       {
@@ -808,11 +808,11 @@
         "EA-Guid": "{6866C6BE-1FE0-45f8-8AF2-34549BD88BC0}",
         "definition": {
           "en": "Utility Network to which the element belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service auquel l'élément appartient."
         },
         "label": {
           "en": "in network",
-          "fr": "Enter your translation here"
+          "fr": "dans le réseau"
         }
       },
       {
@@ -820,11 +820,11 @@
         "EA-Guid": "{8AEBDD8E-DAB5-4601-A4EC-2A4AFAD88140}",
         "definition": {
           "en": "Utility Network to which the element belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service auquel l'élément appartient."
         },
         "label": {
           "en": "in network",
-          "fr": "Enter your translation here"
+          "fr": "dans le réseau"
         }
       },
       {
@@ -880,7 +880,7 @@
         },
         "usage": {
           "en": "The measurement of the object - in this case, the duct - from side to side.",
-          "fr": "Enter your translation here"
+          "fr": "La mesure de l'objet - dans ce cas, la canalisation - d'un côté à l'autre."
         }
       },
       {
@@ -888,11 +888,11 @@
         "EA-Guid": "{AB4880EF-C725-4006-8448-5C5B2C1F126E}",
         "definition": {
           "en": "Reference to a Document containing additional information about the Network.",
-          "fr": "Enter your translation here"
+          "fr": "Référence à un Document contenant des informations supplémentaires sur le Réseau."
         },
         "label": {
           "en": "documentation",
-          "fr": "Enter your translation here"
+          "fr": "documentation"
         }
       },
       {
@@ -1272,11 +1272,11 @@
         "EA-Guid": "{81C9EC16-88BB-4de5-A325-2B0E48E4AB0C}",
         "definition": {
           "en": "Type of the Pipe as a container.",
-          "fr": "Enter your translation here"
+          "fr": "Type de Conduite comme conteneur."
         },
         "label": {
           "en": "container type",
-          "fr": "Enter your translation here"
+          "fr": "type de conteneur"
         }
       },
       {
@@ -1284,11 +1284,11 @@
         "EA-Guid": "{56A89955-9113-4d56-8A78-1A6416729AFA}",
         "definition": {
           "en": "Type of the Duct as a container.",
-          "fr": "Enter your translation here"
+          "fr": "Type de Canalisation comme conteneur."
         },
         "label": {
           "en": "container type",
-          "fr": "Enter your translation here"
+          "fr": "type de conteneur"
         }
       },
       {
@@ -1320,11 +1320,11 @@
         "EA-Guid": "{588CFC97-081D-4a31-965F-F8FD557D0C55}",
         "definition": {
           "en": "Type of Appurtenance.",
-          "fr": "Enter your translation here"
+          "fr": "Type d'Accessoire"
         },
         "label": {
           "en": "appurtenance type",
-          "fr": "Enter your translation here"
+          "fr": "type d'accessoire"
         }
       }
     ],
@@ -2024,15 +2024,15 @@
         "EA-Guid": "{E122BE7B-8B1E-46e5-8C88-E4892C890E4C}",
         "definition": {
           "en": "Annotation of which the Annotation is a part.",
-          "fr": "Enter your translation here"
+          "fr": "Annotation dont l'Annotation est une partie."
         },
         "label": {
           "en": "whole",
-          "fr": "Enter your translation here"
+          "fr": "ensemble"
         },
         "usage": {
           "en": "E.g. the Dimension to which the dimension line belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Par ex., la Dimension à laquelle la cote appartient."
         }
       },
       {
@@ -2040,15 +2040,15 @@
         "EA-Guid": "{2B7F78C4-143F-48b9-89A2-418554A6B2F8}",
         "definition": {
           "en": "Annotation that is part of the Annotation.",
-          "fr": "Enter your translation here"
+          "fr": "Annotation qui fait part de l'Annotation."
         },
         "label": {
           "en": "part",
-          "fr": "Enter your translation here"
+          "fr": "partie"
         },
         "usage": {
           "en": "E.g. the dimension line in the case of a Dimension, consisting of two arrows and a dimension guide line.",
-          "fr": "Enter your translation here"
+          "fr": "Par ex., la cote dans le cas d'une Dimension, composée de deux flèches et d'une cote indicative."
         }
       },
       {
@@ -2068,11 +2068,11 @@
         "EA-Guid": "{46331986-D10E-4bda-9CAF-30970AE00D3B}",
         "definition": {
           "en": "Utility Node that is contained by the Utility Node Container.",
-          "fr": "Enter your translation here"
+          "fr": "Noeud de Service contenu par le Conteneur de Noeud de Service."
         },
         "label": {
           "en": "node",
-          "fr": "Enter your translation here"
+          "fr": "noeud"
         }
       },
       {
@@ -2080,11 +2080,11 @@
         "EA-Guid": "{B9624384-8209-495b-BBB1-6A46F5ED0B94}",
         "definition": {
           "en": "Utility Network associated with the Utility Network.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service associé avec le Réseau de Service."
         },
         "label": {
           "en": "network",
-          "fr": "Enter your translation here"
+          "fr": "réseau"
         }
       },
       {
@@ -2092,11 +2092,11 @@
         "EA-Guid": "{25ECF8B0-9A86-46e7-AFDD-CF9500DD25E3}",
         "definition": {
           "en": "Utility Network Element belonging to the network.",
-          "fr": "Enter your translation here"
+          "fr": "Elément du Réseau de Service appartement au réseau."
         },
         "label": {
           "en": "element",
-          "fr": "Enter your translation here"
+          "fr": "élément"
         }
       },
       {
@@ -2104,11 +2104,11 @@
         "EA-Guid": "{703DE74E-31B6-4e66-8119-0C1E4A9DA973}",
         "definition": {
           "en": "Activity Complex belonging to the network.",
-          "fr": "Enter your translation here"
+          "fr": "Complexe d'Activités appartenant au réseau."
         },
         "label": {
           "en": "activity complex reference",
-          "fr": "Enter your translation here"
+          "fr": "référence à un complexe d'activité"
         }
       },
       {
@@ -2116,11 +2116,11 @@
         "EA-Guid": "{B38569F4-BAEA-4d50-9679-56BF46F27AD9}",
         "definition": {
           "en": "Utility Network to which the element belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service auquel l'élément appartient."
         },
         "label": {
           "en": "in network",
-          "fr": "Enter your translation here"
+          "fr": "dans le réseau"
         }
       },
       {
@@ -2128,11 +2128,11 @@
         "EA-Guid": "{08F7D59F-1CC5-446b-BE54-64564DB8F56C}",
         "definition": {
           "en": "Other Pipe located in the Pipe.",
-          "fr": "Enter your translation here"
+          "fr": "Autre Conduite située dans la Conduite."
         },
         "label": {
           "en": "pipe",
-          "fr": "Enter your translation here"
+          "fr": "conduite"
         }
       },
       {
@@ -2140,11 +2140,11 @@
         "EA-Guid": "{38F44AE5-0050-4c02-8903-C7E6B8917838}",
         "definition": {
           "en": "Cable located in the Pipe.",
-          "fr": "Enter your translation here"
+          "fr": "Câble situé dans la Conduite."
         },
         "label": {
           "en": "cable",
-          "fr": "Enter your translation here"
+          "fr": "câble"
         }
       },
       {
@@ -2152,11 +2152,11 @@
         "EA-Guid": "{77697554-CF39-4bf5-8840-23FA1B2415DD}",
         "definition": {
           "en": "Pipe located in the Duct.",
-          "fr": "Enter your translation here"
+          "fr": "Conduite située dans la Conduite."
         },
         "label": {
           "en": "pipe",
-          "fr": "Enter your translation here"
+          "fr": "conduite"
         }
       },
       {
@@ -2164,11 +2164,11 @@
         "EA-Guid": "{4F60EFC8-708A-4454-94BC-4DA8A4432ACA}",
         "definition": {
           "en": "Duct located in the Duct.",
-          "fr": "Enter your translation here"
+          "fr": "Canalisation située dans la Canalisation."
         },
         "label": {
           "en": "duct",
-          "fr": "Enter your translation here"
+          "fr": "canalisation"
         }
       },
       {
@@ -2176,11 +2176,11 @@
         "EA-Guid": "{2F358CAE-0920-4a24-B363-CFD68C6310DA}",
         "definition": {
           "en": "Cable located in the Duct.",
-          "fr": "Enter your translation here"
+          "fr": "Câble situé dans la Conduite."
         },
         "label": {
           "en": "cable",
-          "fr": "Enter your translation here"
+          "fr": "câble"
         }
       },
       {
@@ -2384,11 +2384,11 @@
         "EA-Guid": "{622A4782-F304-42fe-A5D9-EF31D38D0479}",
         "definition": {
           "en": "Utility Network to which the Activity Complex belongs.",
-          "fr": "Enter your translation here"
+          "fr": "Réseau de Service auquel le Complexe d'Activités appartient."
         },
         "label": {
           "en": "in network",
-          "fr": "Enter your translation here"
+          "fr": "dans le réseau"
         }
       },
       {
@@ -2616,7 +2616,7 @@
         },
         "usage": {
           "en": "Typical elements are relief, landforms, water bodies, vegetation.",
-          "fr": "Enter your translation here"
+          "fr": "Les éléments typiques comprennent le relief, les formes du terrain, les plans d'eau et la végétation."
         }
       },
       {
@@ -2764,7 +2764,7 @@
         },
         "usage": {
           "en": "NOTE  An external object identifier is a unique object identifier published by the responsible body, which may be used by external applications to reference the spatial object. The identifier is an identifier of the spatial object, not an identifier of the real-world phenomenon.",
-          "fr": "Enter your translation here"
+          "fr": "REMARQUE Un identifiant externe d'objet est un identifiant d'objet unique publié par l'organisme responsable, qui peut être utilisé par des applications externes pour faire référence à l'objet spatial. L'identifiant est un identifiant de l'objet spatial, et non un identifiant du phénomène du monde réel."
         }
       },
       {
@@ -2872,7 +2872,7 @@
         },
         "usage": {
           "en": "NOTE 1 Several names in different languages may be expressed.\nNOTE 2 It is recommended that the language of the name (part of the Geographical/Name data type) be filled whenever possible.",
-          "fr": "Enter your translation here"
+          "fr": "NOTE 1 Plusieurs noms dans différentes langues peuvent être indiqués.\nNOTE 2 Il est recommandé de remplir la langue du nom (partie du datatype Nom Géographique) chaque fois que cela est possible."
         }
       },
       {
@@ -2980,7 +2980,7 @@
         },
         "usage": {
           "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (e.g. dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves.",
-          "fr": "Enter your translation here"
+          "fr": "Dans ce contexte, il s'agit généralement d'une Dimension sur une carte de câbles ou de conduite, par exemple la distance d'un câble par rapport à une façade. Elle peut se composer de parties (par exemple, une ligne de cote, une cote indicative, deux flèches) qui sont également des Annotations en elles-mêmes."
         }
       },
       {
