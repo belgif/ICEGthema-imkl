@@ -1,5 +1,8 @@
 .idea
+*-backup.eap
 *.ldb
 *.xlsm
 output-toolchain/
-*-backup.eap
+translation/*-backup.json
+translation/*-oslo.json
+translation/20*.json
