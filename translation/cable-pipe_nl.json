@@ -201,8 +201,8 @@
       "name": "Pipe",
       "EA-Guid": "{432356EE-4226-48e8-9CEC-8F9B4CF977D5}",
       "definition": {
-        "en": "A Utility Link Set for transporting solids, liquids, chemicals or gases from one location to another.",
-        "nl": "Een Nutsvoorzieninglinkset voor het transport van vaste stoffen, vloeistoffen, chemicaliën of gassen van de ene locatie naar de andere."
+        "en": "A Utility Link Set intended for the transportation of solids, liquids, chemicals or gases from one location to another or as a casing for Cables or other Pipes.",
+        "nl": "Een Nutsvoorzieninglinkset bedoeld voor het transport van vaste stoffen, vloeistoffen, chemicaliën of gassen van de ene locatie naar de andere of als omhulsel van Kabels of andere Pijpen."
       },
       "label": {
         "en": "Pipe",
@@ -591,8 +591,8 @@
       "name": "temperature",
       "EA-Guid": "{9DB69F76-8ADB-482d-9585-BEE44F6FCD4D}",
       "definition": {
-        "en": "The maximum allowable temperature of the contents of the Pipe.",
-        "nl": "De maximum toelaatbare temperatuur van de inhoud van de Pijp."
+        "en": "Temperature of pipe contents.",
+        "nl": "Temperatuur van de inhoud van de pijp."
       },
       "label": {
         "en": "temperature",
