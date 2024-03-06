@@ -11,7 +11,7 @@
           "en": "Annotation"
         },
         "usage": {
-          "en": "In this context, typically a Dimension on a cable or pipe map, For example the distance of a cable to a facade. Can consist of parts (For example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves."
+          "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (For example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves."
         }
       },
       {
@@ -64,7 +64,7 @@
         "name": "CableAndPipeContainer",
         "EA-Guid": "{F073D2F0-F857-490f-9A92-1E0414A423BD}",
         "definition": {
-          "en": "Object that could potentially contain cables or pipes/ducts."
+          "en": "Object that could potentially contain cables and/or pipes/ducts."
         },
         "label": {
           "en": "Cable and Pipe Container"
@@ -182,7 +182,7 @@
           "en": "Plan"
         },
         "usage": {
-          "en": "Eg a ground plan, a street plan."
+          "en": "For example, in this context, an additional detail plan or, for example, a longitudinal profile."
         }
       },
       {
@@ -297,7 +297,7 @@
           "en": "Utility Link Sequence"
         },
         "usage": {
-          "en": "In fact, a route in the network, For example a water pipe in the flow direction. Routes have a direction, which is why the Link Sequence is composed of Directed Links."
+          "en": "In fact, a route in the network, for example a water pipe in the flow direction. Routes have a direction, which is why the Link Sequence is composed of Directed Links."
         }
       },
       {
@@ -323,7 +323,7 @@
           "en": "Utility Network"
         },
         "usage": {
-          "en": "For example, an electricity network, a sewerage network, a gas network. The network elements in question are, For example, the elements of the network of an internet provider: optical cables arriving in cabinets on the street via multiplexers connected to copper cables to the homes in that street."
+          "en": "For example, an electricity network, a sewerage network, a gas network. The network elements in question are, for example, the elements of the network of an internet provider: optical cables arriving in cabinets on the street via multiplexers connected to copper cables to the homes in that street."
         }
       },
       {
@@ -552,7 +552,7 @@
           "en": "rotation angle"
         },
         "usage": {
-          "en": "Typically to align the Annotation with the Object it relates to, For example parallel to the cable."
+          "en": "Typically to align the Annotation with the Object it relates to, for example parallel to the cable."
         }
       },
       {
@@ -1109,7 +1109,7 @@
           "en": "Length"
         },
         "usage": {
-          "en": "Used here to describe the size of something, For example the height of a tower."
+          "en": "Used here to describe the size of something, for example the height of a tower."
         }
       },
       {
@@ -1656,7 +1656,7 @@
           "en": "Network"
         },
         "usage": {
-          "en": "The reason why the Network Elements are brought together in a Network may differ, For example because they are suitable for a certain type of transport."
+          "en": "The reason why the Network Elements are brought together in a Network may differ, for example because they are suitable for a certain type of transport."
         }
       },
       {
@@ -2464,7 +2464,7 @@
           "en": "annotation type"
         },
         "usage": {
-          "en": "In this context, typically a Dimension on a cable or pipe map, For example the distance of a cable to a facade. Can consist of parts (For example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves."
+          "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (For example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves."
         }
       },
       {
