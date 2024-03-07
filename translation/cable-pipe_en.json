@@ -490,7 +490,7 @@
         "name": "temperature",
         "EA-Guid": "{9DB69F76-8ADB-482d-9585-BEE44F6FCD4D}",
         "definition": {
-          "en": "The maximum allowable temperature of the contents of the Pipe."
+          "en": "Temperature of the contents of the pipe."
         },
         "label": {
           "en": "temperature"
