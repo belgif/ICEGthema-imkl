@@ -13,7 +13,7 @@
         "nl": "Annotatie"
       },
       "usage": {
-        "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (for example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves.",
+        "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (For example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves.",
         "nl": "In deze context typisch Maataanduiding op een kabel- of leidingenkaart, bijvoorbeeld de afstand van een kabel tov een gevel. Kan bestaan uit onderdelen (bijvoorbeeld maatvoeringslijn, maatvoeringshulplijn, twee pijlen) die op zich ook Annotaties zijn."
       }
     },
@@ -41,7 +41,7 @@
         "nl": "Toebehoren"
       },
       "usage": {
-        "en": "Can stand alone as a Utility Node, but is often mounted on a carrier (the Utility Node Container). For example. an inspection hatch, a hydrant, a splitter, a meter, a pump etc.",
+        "en": "Can stand alone as a Utility Node, but is often mounted on a carrier (the Utility Node Container). For example an inspection hatch, a hydrant, a splitter, a meter, a pump etc.",
         "nl": "Kan als Nutsvoorzieningknoop op zichzelf staan maar is dikwijls gemonteerd op een drager (de Nutsvoorzieningknoopcontainter). Bijvoorbeeld inspectieluik, hydrant, splitter, meter, pomp etc."
       }
     },
@@ -77,7 +77,7 @@
       "name": "CableAndPipeContainer",
       "EA-Guid": "{F073D2F0-F857-490f-9A92-1E0414A423BD}",
       "definition": {
-        "en": "Object that could potentially contain cables or pipes/ducts.",
+        "en": "Object that could potentially contain cables and/or pipes/ducts.",
         "nl": "Object dat potentieel kabels en/of leidingen kan omvatten."
       },
       "label": {
@@ -85,7 +85,7 @@
         "nl": "KabelEnLeidingContainer"
       },
       "usage": {
-        "en": "For example, if the object is a Pipe: a Pipe can include Cables or other Pipes. Analogous for pipes of the Duct type. Cables are not Cable and Pipe Containers. NOTE: whether the Cable and Pipe Container ultimately contains other elements is indicated by the outgoing relations to those other relations (for example Channel.pipe, Pipe.cable, Channel.cable, Pipe.pipe etc).",
+        "en": "For example, if the object is a Pipe: a Pipe can include Cables or other Pipes. Analogous for pipes of the Duct type. Cables are not Cable and Pipe Containers. NOTE: whether the Cable and Pipe Container ultimately contains other elements is indicated by the outgoing relations to those other relations (For example Channel.pipe, Pipe.cable, Channel.cable, Pipe.pipe etc).",
         "nl": "Bijvoorbeeld als het object een Pijp is: een Pijp kan Kabels omvatten of andere Pijpen. Analoog voor leidingen van het type Kanaal. Kabels zijn geen KabelEnLeidingContainers. OPMERKING: of de KabelOfLeidingContainer uiteindelijk andere elementen bevat wordt weergegeven door de uitgaande relaties naar die andere relaties (bijvoorbeeld Kanaal.pijp, Pijp.kabel, Kanaal.kabel, Pijp.pijp etc)."
       }
     },
@@ -181,7 +181,7 @@
         "nl": "Mangat"
       },
       "usage": {
-        "en": "For example. sewer cover.",
+        "en": "For example sewer cover.",
         "nl": "Bijvoorbeeld riooldeksel."
       }
     },
@@ -221,7 +221,7 @@
         "nl": "Plan"
       },
       "usage": {
-        "en": "Eg a ground plan, a street plan.",
+        "en": "For example, in this context, an additional detail plan or, for example, a longitudinal profile.",
         "nl": "Bijvoorbeeld een grondplan of een stratenplan."
       }
     },
@@ -245,7 +245,7 @@
       "name": "ProtectedArea",
       "EA-Guid": "{94606EC6-9E73-4830-9AB5-458B9A324CE3}",
       "definition": {
-        "en": "Area where digging is not allowed.",
+        "en": "Area within which certain regulations apply when carrying out works.",
         "nl": "Gebied waar niet gegraven mag worden."
       },
       "label": {
@@ -409,7 +409,7 @@
         "nl": "Nustvoorzieningnetwerkelement"
       },
       "usage": {
-        "en": "NOTE: is abstract, must be specialized (for example as Electricity Cable, Sewer, Manhole, Cabinet etc).",
+        "en": "NOTE: is abstract, must be specialized (For example as Electricity Cable, Sewer, Manhole, Cabinet etc).",
         "nl": "OPMERKING: is abstract, moet gespecialiseerd worden (bijvoorbeeld als Electriciteitskabel, Riooolpijp, Mangat, Kast etc)."
       }
     },
@@ -493,6 +493,10 @@
       "label": {
         "en": "warning type",
         "nl": "waarschuwingstype"
+      },
+      "usage": {
+        "en": "For example, an underground protective plate or net.",
+        "nl": "Enter your translation here"
       }
     },
     {
@@ -503,7 +507,7 @@
         "nl": "verticale positiedetail"
       },
       "usage": {
-        "en": "For example. depth.",
+        "en": "For example depth.",
         "nl": "Bv diepte."
       }
     },
@@ -543,7 +547,7 @@
         "nl": "nutsvoorzieningleveringstype"
       },
       "usage": {
-        "en": "For example. transport, distribution and collection from gas, electricity and sewage respectively.",
+        "en": "For example transport, distribution and collection from gas, electricity and sewage respectively.",
         "nl": "Bijvoorbeeld transport, distributie, collectie. Resp bijvoorbeeld van gas, elektriciteit, afvalwater."
       }
     },
@@ -583,7 +587,7 @@
         "nl": "tekst"
       },
       "usage": {
-        "en": "For example. the size in the case of a Dimension.",
+        "en": "For example the size in the case of a Dimension.",
         "nl": "Bijvoorbeeld de maat in het geval van een Maataanduiding."
       }
     },
@@ -591,7 +595,7 @@
       "name": "temperature",
       "EA-Guid": "{9DB69F76-8ADB-482d-9585-BEE44F6FCD4D}",
       "definition": {
-        "en": "Temperature of pipe contents.",
+        "en": "The maximum allowable temperature of the contents of the Pipe.",
         "nl": "Temperatuur van de inhoud van de pijp."
       },
       "label": {
@@ -623,7 +627,7 @@
         "nl": "technischeSpecificatie"
       },
       "usage": {
-        "en": "For example. 4g10 used to specify a 4-core cable with a diameter of 10 mm.",
+        "en": "For example 4g10 used to specify a 4-core cable with a diameter of 10 mm.",
         "nl": "Bijvoorbeeld 4g10 om 4-aderige kabel van 10mm doorsnee te specifiëren."
       }
     },
@@ -639,7 +643,7 @@
         "nl": "standaardVerticalePositiedetail"
       },
       "usage": {
-        "en": "For example. the default Depth at which the elements are located.",
+        "en": "For example the default Depth at which the elements are located.",
         "nl": "Bv de standaard Diepte waarop de elementen zich bevinden."
       }
     },
@@ -1171,7 +1175,7 @@
         "nl": "verticale positie"
       },
       "usage": {
-        "en": "For example. underground, above ground.",
+        "en": "For example underground, above ground.",
         "nl": "Bv ondergronds, bovengronds."
       }
     },
@@ -1413,7 +1417,7 @@
         "nl": "Curve"
       },
       "usage": {
-        "en": "Dimension is to be understood in a mathematical sense: the minimum number of coordinates needed to represent any point that is part of the primitive. In the coordinate system formed by a Curve itself, 1 coordinate suffices to locate a point on the Curve, for example the distance along the Curve from the starting point. A Curve has a length but no width or height, which does not prevent it from meandering through 3D space. Curves are usually represented by polylines, which are sets of successive points where the intermediate points of the Curve are obtained by interpolation. If the interpolation method is linear you get a Linestring (an angular line connecting successive points by a straight line), other ways of interpolating result in circular arcs, cubic splines, Bézier curves etc (where the control points are not necessarily on the Curve). A Curve is bounded by its starting and ending points.",
+        "en": "Dimension is to be understood in a mathematical sense: the minimum number of coordinates needed to represent any point that is part of the primitive. In the coordinate system formed by a Curve itself, 1 coordinate suffices to locate a point on the Curve, For example the distance along the Curve from the starting point. A Curve has a length but no width or height, which does not prevent it from meandering through 3D space. Curves are usually represented by polylines, which are sets of successive points where the intermediate points of the Curve are obtained by interpolation. If the interpolation method is linear you get a Linestring (an angular line connecting successive points by a straight line), other ways of interpolating result in circular arcs, cubic splines, Bézier curves etc (where the control points are not necessarily on the Curve). A Curve is bounded by its starting and ending points.",
         "nl": "Dimensie is te verstaan in wiskundige zin: het minimum aantal coördinaten nodig om een willekeurig punt voor te stellen dat deel uitmaakt van de primitieve. In het coördinaatsysteem dat door een Curve zelf gevormd wordt volstaat 1 coördinaat om een punt op de Curve te lokaliseren, bv de afstand langs de Curve vanaf het vertrekpunt. Een Curve heeft een lengte maar geen breedte of hoogte, wat niet wegneemt dat ze door de 3D ruimte kan kronkelen. Curves worden doorgaans voorgesteld door polylijnen, dit zijn sets van opeenvolgende punten waarbij de tussenliggende punten van de Curve bekomen worden dmv interpolatie. Als de interpolatiemethode lineair is krijg je een Lijnstring (een hoekige lijn die de opeenvolgende punten verbindt middels een rechte lijn), andere manieren om te interpoleren resulteren in circulaire bogen, cubic splines, Bézier curves etc (waarbij de controlepunten niet noodzakelijk op de Curve liggen). Een Curve wordt begrensd door zijn begin- en eindpunt."
       }
     },
@@ -1429,7 +1433,7 @@
         "nl": "Punt"
       },
       "usage": {
-        "en": "Dimension is to be understood in a mathematical sense: the minimum number of coordinates needed to represent any point that is part of the primitive. In the coordinate system formed by a Point itself, no coordinate is needed, as there is only 1 point. A Point therefore has no width, length or depth. ATTENTION: this does not mean that a Point cannot have coordinates in another coordinate system, for example xyz-coordinates in and 3-axis orthogonal coordinate system.",
+        "en": "Dimension is to be understood in a mathematical sense: the minimum number of coordinates needed to represent any point that is part of the primitive. In the coordinate system formed by a Point itself, no coordinate is needed, as there is only 1 point. A Point therefore has no width, length or depth. ATTENTION: this does not mean that a Point cannot have coordinates in another coordinate system, For example xyz-coordinates in and 3-axis orthogonal coordinate system.",
         "nl": "Dimensie is te verstaan in wiskundige zin: het minimum aantal coördinaten nodig om een willekeurig punt voor te stellen dat deel uitmaakt van de primitieve. In het coördinaatsysteem dat door een Punt zelf gevormd wordt is geen enkele coördinaat nodig, er is immers maar 1 punt. Een Punt heeft daarom geen breedte, lengte of diepte. OPGELET: dat betekent niet dat een Punt geen coördinaten kan hebben in een ander coördinaatysteem, bv xyz-coördinaten in en 3-assig orthogonaal coördinaatsysteem."
       }
     },
@@ -1865,7 +1869,7 @@
         "nl": "Adres"
       },
       "usage": {
-        "en": "The definition refers to Belgian addresses. In other countries, an address may refer to other geographical objects (not a building unit or a plot of land) or consist of other designations (different from house number and bus number) or of other components than street name, town name or postal code. Alternative address designations than house number or bus number (for example entrance designation, stair designation, floor designation) or a building name or room name etc are possible through an association with address extension. Exchange of foreign addresses must be done with the object address representation.",
+        "en": "The definition refers to Belgian addresses. In other countries, an address may refer to other geographical objects (not a building unit or a plot of land) or consist of other designations (different from house number and bus number) or of other components than street name, town name or postal code. Alternative address designations than house number or bus number (For example entrance designation, stair designation, floor designation) or a building name or room name etc are possible through an association with address extension. Exchange of foreign addresses must be done with the object address representation.",
         "nl": "De definitie heeft betrekking op Belgische adressen. In andere landen kan een adres eventueel verwijzen naar andere geografisch objecten (niet gebouweenheid of perceel) of bestaan uit andere aanduidingen (verschillend van huisnummer en busnummer) of uit andere componenten dan straatnaam, gemeentenaam of postcode. Alternatieve adresaanduidingen dan huisnummer of busnummer (bv ingangaanduiding, trapaanduiding, verdiepaanduiding) of een gebouwnaam of kamernaam ed zijn mogelijk dmv een associatie met adresuitbreiding. Uitwisseling van buitenlandse adressen moet gebeuren mbv het object adresvoorstelling."
       }
     },
@@ -1881,7 +1885,7 @@
         "nl": "Activiteitencomplex"
       },
       "usage": {
-        "en": "In practice, a site, plot, facility, installation, building where the activity takes place. In the context of cables and pipes, it refers to for example a power plant, a pumping station, a sewage treatment plant, etc. Includes the infrastructure, equipment and material required for it. May include several sites as long as they are part of the same complex. The activity is preferably identified by NACE codes.",
+        "en": "In practice, a site, plot, facility, installation, building where the activity takes place. In the context of cables and pipes, it refers to For example a power plant, a pumping station, a sewage treatment plant, etc. Includes the infrastructure, equipment and material required for it. May include several sites as long as they are part of the same complex. The activity is preferably identified by NACE codes.",
         "nl": "In praktijk een site, plot, faciliteit, installatie, gebouw waar de activiteit plaatsvindt. In de context van kabels en leidingen gaat het over bijvoorbeeld een electriciteitscentrale, een pompstation, een zuiveringsinstallatie etc. Omvat de infrastructuur, uitrusting en het materieel die daar voor nodig is. Kan meerdere locaties omvatten voor zover deze deel uitmaken van hetzelfde complex. De activiteit wordt bij voorkeur aangeduid dmv NACE codes."
       }
     },
@@ -1897,7 +1901,7 @@
         "nl": "Directe Positie"
       },
       "usage": {
-        "en": "Typically used to describe the geometry of a spatial object or the geometric primitives (for example point, line, plane.) that compose that object. However, a DirectPosition can also stand alone to describe a position in space. The position is given in a coordinate reference system. That reference system is explicitly specified with the DirectPosition, unless it is part of a spatial object (eg a geometric primitive) where a reference system is already stated. FYI: A coordinate reference system differs from an indirect spatial reference system in that positions are specified directly by coordinates instead of indirectly by an address or place name.",
+        "en": "Typically used to describe the geometry of a spatial object or the geometric primitives (For example point, line, plane.) that compose that object. However, a DirectPosition can also stand alone to describe a position in space. The position is given in a coordinate reference system. That reference system is explicitly specified with the DirectPosition, unless it is part of a spatial object (eg a geometric primitive) where a reference system is already stated. FYI: A coordinate reference system differs from an indirect spatial reference system in that positions are specified directly by coordinates instead of indirectly by an address or place name.",
         "nl": "Typisch gebruikt om de geometrie van een ruimtelijk object te beschrijven of de geometrische primitieven (bv punt, Lijn, Vlak) waaruit dat object is samengesteld. Een Directe Positie kan echter ook op zichzelf staan om een positie in de ruimte te beschrijven. De positie wordt gegeven in een coördinaatreferentiesysteem. Dat referentiesysteem wordt expliciet bij de Directe Positie opgegeven, tenzij deze deel uitmaakt van een ruimtelijk object (bv een geometrische primitieve) waar al een referentiesysteem wordt vermeld. Ter info: Een coördinaatreferentiesysteem verschilt van een indirect ruimtelijk referentiesysteem in die zin dat posities direct dmv coördinaten worden opgegeven in plaats van indirect door een adres of plaatsnaam."
       }
     },
@@ -2031,7 +2035,7 @@
         "nl": "Geheel"
       },
       "usage": {
-        "en": "For example. the Dimension to which the dimension line belongs.",
+        "en": "For example the Dimension to which the dimension line belongs.",
         "nl": "Bijvoorbeeld de Maataanduiding waartoe de maatvoeringslijn behoort."
       }
     },
@@ -2047,7 +2051,7 @@
         "nl": "deel"
       },
       "usage": {
-        "en": "For example. the dimension line in the case of a Dimension, consisting of two arrows and a dimension guide line.",
+        "en": "For example the dimension line in the case of a Dimension, consisting of two arrows and a dimension guide line.",
         "nl": "Bijvoorbeeld de maatvoeringslijn in het geval van een Maataanduiding bestaande uit twee pijlen en een maatvoeringshulplijn."
       }
     },
@@ -2599,7 +2603,7 @@
         "nl": "locatie"
       },
       "usage": {
-        "en": "For example. the location and shape of a Dimension.",
+        "en": "For example the location and shape of a Dimension.",
         "nl": "Bijvoorbeeld de ligging en vorm van een Maataanduiding."
       }
     },
@@ -2723,7 +2727,7 @@
         "nl": "adresgebied"
       },
       "usage": {
-        "en": "For example. the name of the hamlet in which the address is located.",
+        "en": "For example the name of the hamlet in which the address is located.",
         "nl": "Bijvoorbeeld de naam van het gehucht waarin het adres ligt."
       }
     },
@@ -2979,7 +2983,7 @@
         "nl": "annotatietype"
       },
       "usage": {
-        "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (for example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves.",
+        "en": "In this context, typically a Dimension on a cable or pipe map, for example the distance of a cable to a facade. Can consist of parts (For example dimensioning line, dimensioning guideline, two arrows) that are also Annotations in themselves.",
         "nl": "In deze context meestal een Maataanduiding op een kabel- of leidingkaart, bijvoorbeeld de afstand van een kabel tot een gevel. Kan uit onderdelen bestaan (bijvoorbeeld maatlijn, maatlijn, twee pijlen) die op zichzelf ook Annotaties zijn."
       }
     },
@@ -3091,7 +3095,7 @@
         "nl": "eenheidsidentificator"
       },
       "usage": {
-        "en": "For example. m for meter.",
+        "en": "For example m for meter.",
         "nl": "Bijvoorbeeld m voor meter."
       }
     },
@@ -3131,7 +3135,7 @@
         "nl": "eenheid"
       },
       "usage": {
-        "en": "For example. meters, centimeters.",
+        "en": "For example meters, centimeters.",
         "nl": "Bijvoorbeld meters, centimeters."
       }
     }

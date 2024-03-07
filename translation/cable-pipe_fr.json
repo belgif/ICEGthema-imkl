@@ -77,7 +77,7 @@
         "name": "CableAndPipeContainer",
         "EA-Guid": "{F073D2F0-F857-490f-9A92-1E0414A423BD}",
         "definition": {
-          "en": "Object that could potentially contain cables or pipes/ducts.",
+          "en": "Object that could potentially contain cables and/or pipes/ducts.",
           "fr": "Objet pouvant potentiellement inclure des câbles ou des conduites."
         },
         "label": {
@@ -221,7 +221,7 @@
           "fr": "Plan"
         },
         "usage": {
-          "en": "Eg a ground plan, a street plan.",
+          "en": "For example, in this context, an additional detail plan or, for example, a longitudinal profile.",
           "fr": "Par ex.: une carte, un plan de ville."
         }
       },
@@ -493,6 +493,10 @@
         "label": {
           "en": "warning type",
           "fr": "type d'avertissement"
+        },
+        "usage": {
+          "en": "For example, an underground protective plate or net.",
+          "fr": "Par exemple, une plaque ou un filet de protection enterré."
         }
       },
       {
@@ -591,7 +595,7 @@
         "name": "temperature",
         "EA-Guid": "{9DB69F76-8ADB-482d-9585-BEE44F6FCD4D}",
         "definition": {
-          "en": "Temperature of the contents of the Pipe.",
+          "en": "The maximum allowable temperature of the contents of the Pipe.",
           "fr": "Température du contenu de la conduite."
         },
         "label": {
