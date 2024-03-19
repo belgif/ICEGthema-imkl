@@ -1,101 +1,41 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;Role
-Benny;Appeltans;Benny Appeltans;;;C
-Ilse;Baeck;Canalco nv;;;C
-hilde;beeckmans;;;;C
-Katia;Beringhs;;;;C
-Sofie;Bogers;;;;C
-Tom;Boi;;;;C
-Patricia;Bongaerts;Haven van Antwerpen-Brugge;;;C
-Bart;Boone;;;;C
-Geert;Bruylandt;Proximus;;;C
-Joost;Bruyneel;;;;C
-Herman;Callens;Vereniging van Vlaamse Steden en Gemeenten;;;C
-Nils;Callens;;;;C
-De Moor;Carl;;;;C
-Jean-Philippe;Cattoor;;;;C
-Vyaene;Chris;;;;C
-Caroline;Claeys;;;;C
-Vanlessen;David;;;;C
-Olivier;David;Infrabel;;;C
-Vincent;De Cruyenaere;;;;C
-Bas;De Haeck;Telenet;;;C
-Bart;De Maeyer;;;;C
-Dirk;De Mil;Square Group;;;C
-Ingrid;De Paepe-Harmsen;Fluxys Belgium;;;C
-Wouter;De Ryck;Digitaal Vlaanderen;;;C
-Tim;De Saveur;;;;C
-Liesbeth;Rombouts;KLIP;;;A
-Stefanie;De Veirman;;;;C
-Simeon;Debeule;;;;C
-Kurt;Decock;;;;C
-Stijn;Diependaele;De Watergroep;;;C
-Jürgen;Dooms;;;;C
-Dries;Dossche;De Watergroep;;;C
-François;Du Mortier;;;;C
-Pascal;Duyshaver;;;;C
-Scott;Emond;;;;C
-Frank;Engelen;;;;C
-Iterbeke;Eric;;;;C
-Mathias;Gullentops;De Vlaamse Waterweg nv;;;C
-Claude;Hannecart;paradigm brussels;;;C
-Bart;Haspeslagh;Aquaduin / IWVA;;;C
-Matthias;Holemans;;;;C
-Gert;Huybrechts;Nationale Confederatie Van Het Bouwbedrijf;C;De Latthauwer;Kim
-Mehmet;Inan;;C;Borremans;Kurt
-Eric;Jabé;Sibelga;;;C
-Karel;Janssen;;;;C
-Jan;jermei;;;;C
-Dirk;Joris;;;;C
-Kim;De Latthauwer;De Watergroep;;;C
-Kurt;Borremans;PIDPA;;;C
-Frédérique;Lagae;;;;C
-Philip;Lameire;Agentschap Wegen en Verkeer - Afdeling Wegen en Verkeer West-Vlaanderen;;;C
-Nele;Lauwers;Stad Antwerpen - Stadsontwikkeling;;;C
 Adrien;Legat;;;;C
-Inge;Lemmens;De Vlaamse Waterweg nv;;;C
-Stijn;Leus;Visser Smit Hanab nv;;;C
-Reekmans;Liesbeth;;;;C
-Pieter;Lootens;AQUAFIN;;;C
-Jan;Mangelschots;De Vlaamse Waterweg nv;;;C
-Hilde;Masschelein;Bouwunie VZW;;;C
-Katleen;Miserez;Vlaamse Milieumaatschappij;;;C
-Steven;Moeyersons;Verkeerstechniek;;;C
-Jan;Mondelaers;Fluxys Belgium;;;C
-Frank;Nauwelaerts;De Lijn Centrale Diensten Techniek;;;C
-Geert;Thijs;Digitaal Vlaanderen;E;;
-Patrick;Noe;Vlaamse Confederatie Bouw;;;C
-Leen;Notelé;PIDPA;;;C
-Ilse;Pauwelyn;;;;C
-Werner;Peeters;Telenet;;;C
-Peter;Goetmaeckers;De Watergroep;;;C
-Valentin;Pierson;;;;C
-Werner;Poel;;;;C
-Ludwin;Poppe;;;;C
-Wesley;Princen;Aannemingsbedrijf Princen NV;;;C
-Mathijs;Raats;;;;C
-Ivy;Van De Kerchove;KLIP;;;A
-Hervé;Sontsa;;;;C
-Gontran;Soumoy;Fluxys Belgium;;;C
-Noortje;Thijs;;;;C
-Simon;Thirion;;;;C
-Bart;Tuyteleers;;;;C
-Elise;Van Campenhout;De Vlaamse Waterweg nv;;;C
-Veerle;Van den Bulcke;Digitaal Vlaanderen;;;C
-Geert;Van den Hende;De Watergroep;;;C
-Gert;Van Dyck;Fluvius;;;C
+Bart;De Maeyer;PIDPA;;;C
+Benny;Appeltans;Benny Appeltans;;;C
+Bernard;Vanmoerbeke;G.I.M.;;;C
+Carl;De Moor;De Watergroep;;;C
+Claude;Hannecart;paradigm brussels;;;C
+Danny;Vanderhaeghen;KLIM;;;C
+Eric;Jabé;Sibelga;;;C
+François;Du Mortier;CIRB;;;C
+Frank;Engelen;Geo Solutions;;;C
+Geert;Thijs;Digitaal Vlaanderen;;;E
 Gitte;Van Gompel;Stad Antwerpen - Stadsontwikkeling;;;C
-Ward;Van Hal;Vereniging van Vlaamse Steden en Gemeenten;;;C
+Gontran;Soumoy;Fluxys Belgium;;;C
+Ilse;Pauwelyn;;;;C
+Inge;Lemmens;De Vlaamse Waterweg nv;;;C
+Ingrid;De Paepe-Harmsen;Fluxys Belgium;;;C
+Ivy;Van De Kerchove;KLIP;;;A
+Jan;Jermei;Fluxys;;;C
+Jef;Liekens;Digitaal Vlaanderen;;;E
 Johan;Van Hulle;BVBA-Vanhulle;;;C
-Danny;Vanderhaeghen;;;;C
-Marlies;Vandesompele;Elia Asset;;;C
-Rob;Vangeneugden;;;;C
-Raf;Vanlathem;;;;C
-Bernard;Vanmoerbeke;;;;C
-Friedel;Vanroy;Infrabel;;;C
-Rob;Vansteenbrugge;Proximus;;;C
-Michiel;Vansteenkiste;;;;C
-Jef;Liekens;Digitaal Vlaanderen;E;;
-Philip;Verhegge;Elia Asset;;;C
-Kris;Vlaeminck;Proximus;;;C
-Philippe;Warmoes;Haven van Antwerpen-Brugge;;;C
+Katleen;Miserez;Vlaamse Milieumaatschappij;;;C
 Katleen;Wouters;Telenet;;;C
+Kris;Vlaeminck;Proximus;;;C
+Kurt;Decock;Infrabel;;;C
+Liesbeth;Rombouts;KLIP;;;A
+Michiel;Vansteenkiste;;;;C
+Nils;Callens;Digitaal Vlaanderen;;;C
+Patricia;Bongaerts;Haven van Antwerpen-Brugge;;;C
+Philippe;Warmoes;Haven van Antwerpen-Brugge;;;C
+Raf;Vanlathem;Agentschap Wegen & Verkeer;;;C
+Rob;Vangeneugden;;;;C
+Rob;Vansteenbrugge;Proximus;;;C
+Scott;Emond;Bruxelles Mobilit�;;;C
+Simon;Thirion;De Watergroep;;;C
+Valentin;Pierson;Societ� Wallonne des eaux;;;C
+Veerle;Van den Bulcke;Digitaal Vlaanderen;;;C
+Chris;Vyaene;Fluxys;;;C
+Werner;Poel;Fluvius;;;C
+Dimitri;Strobbe;;;;C
+Niels;Gabri�ls;KLIP;;;C
