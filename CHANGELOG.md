@@ -1,9 +1,11 @@
 ### Aanpassingen [versie 3.0](https://belgif.github.io/thematic/models/cable-pipe/) tov [versie 2.3](https://overheid.vlaanderen.be/help/file/1176/download?token=ndmVBd4y).
-- OPMERKING: de oude versie was louter op een XML-platform gericht, de nieuwe default op een RDF-platform maar ook andere platfoprmen wo XML zijn mogelijk. 
-- Self-specialisaties geëlimineerd
-  - Bvb IMKL:Waterpipe was specialisatie van INSPIRE:Waterpipe. Nu enkel nogINSPIRE:Waterpipe, uitgebreid met IMKL-attributen. 
-- Betekenisloze abstracten verwijderd.
-- Te specifieke attributen veralgemeend.
-- Overerving van GNM is nu expliciet.
-- Verwijzing naar OSLO-Datakwaliteit.
-- Betekenisvolle datatypes ipv vrije tekst.
+- OPMERKING: de oude versie was louter op een XML-platform gericht, de nieuwe default op een RDF-platform maar ook andere platfoprmen wo XML zijn mogelijk.
+- Algemeen: 
+  - Self-specialisaties geëlimineerd
+    - Bvb IMKL:Waterpipe was specialisatie van INSPIRE:Waterpipe. Nu enkel nogINSPIRE:Waterpipe, uitgebreid met IMKL-attributen. 
+  - Betekenisloze abstracten verwijderd.
+    - Bvb nu zichtbaarheid met enumeratiewaarde ipv Boolean.
+  - Te specifieke attributen veralgemeend.
+  - Overerving van GNM is nu expliciet.
+  - Verwijzing naar OSLO-Datakwaliteit.
+  - Betekenisvolle datatypes ipv vrije tekst.
