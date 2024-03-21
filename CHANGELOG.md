@@ -1,5 +1,5 @@
 ### Aanpassingen [versie 3.0](https://belgif.github.io/thematic/models/cable-pipe/) tov [versie 2.3](https://overheid.vlaanderen.be/help/file/1176/download?token=ndmVBd4y).
-- OPMERKING: de oude versie was louter op een XML-platform gericht, de nieuwe default op een RDF-platform maar ook andere platformen wo XML zijn nu mogelijk.
+- OPMERKING: de oude versie was louter op een XML-platform gericht, de nieuwe default op een RDF-platform maar ook andere platformen wo XML zijn mogelijk.
 - Algemeen: 
   - Self-specialisaties geëlimineerd
     - Bvb IMKL:Waterpipe was specialisatie van INSPIRE:Waterpipe. Nu enkel nog INSPIRE:Waterpipe, uitgebreid met IMKL-attributen. 
