@@ -4,7 +4,7 @@
   - Self-specialisaties geëlimineerd
     - Bvb IMKL:Waterpipe was specialisatie van INSPIRE:Waterpipe. Nu enkel nog INSPIRE:Waterpipe, uitgebreid met IMKL-attributen. 
   - Betekenisloze abstracten verwijderd.
-    -
+    - ()
   - Te specifieke attributen veralgemeend.
     - Bvb nu heeft het attribuut "zichtbaarheid" een enumeratiewaarde ipv Boolean als datatype.
   - Overerving van GNM is nu expliciet.
