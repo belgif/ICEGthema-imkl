@@ -2,9 +2,9 @@
 - OPMERKING: de oude versie was louter op een XML-platform gericht, de nieuwe default op een RDF-platform maar ook andere platfoprmen wo XML zijn mogelijk.
 - Algemeen: 
   - Self-specialisaties geëlimineerd
-    - Bvb IMKL:Waterpipe was specialisatie van INSPIRE:Waterpipe. Nu enkel nogINSPIRE:Waterpipe, uitgebreid met IMKL-attributen. 
+    - Bvb IMKL:Waterpipe was specialisatie van INSPIRE:Waterpipe. Nu enkel nog INSPIRE:Waterpipe, uitgebreid met IMKL-attributen. 
   - Betekenisloze abstracten verwijderd.
-    - Bvb nu heeft attribuut "zichtbaarheid" een enumeratiewaarde ipv Boolean als datatype.
+    - Bvb nu heeft het attribuut "zichtbaarheid" een enumeratiewaarde ipv Boolean als datatype.
   - Te specifieke attributen veralgemeend.
   - Overerving van GNM is nu expliciet.
   - Verwijzing naar OSLO-Datakwaliteit.
