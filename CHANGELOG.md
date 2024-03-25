@@ -13,7 +13,7 @@
 - Overerving van GNM is nu expliciet.
   - NutsvoorzieningLinkset erft het attribuut link van Linkset.
   - NutsvoorzieningLinksequentie erft het attribuut link van LinkSequentie.
-  - Nutsvoorzieninglink erft de attributen midellijngeometrie, beginknoop en eindKnoop van Link.
+  - Nutsvoorzieninglink erft de attributen midellijnGeometrie, beginKnoop en eindKnoop van Link.
   - NutsvoorzieningKnoop erft de attributen geometrie, beginLink en eindLink van Knoop.
   - Nutsvoorzieningnetwerk erft geografischeNaam van Netwerk.
 - Verwijzing naar OSLO-Datakwaliteit.
