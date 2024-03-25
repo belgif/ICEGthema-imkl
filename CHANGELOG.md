@@ -3,13 +3,13 @@
 - Self-specialisaties geëlimineerd
   - IMKL:ElictricityCable, IMKL:TelocommunicationsCable, IMKL:OilGasChemicalPipe, IMKL:SerwerPipe, IMKL:ThermalPipe, IMKL:ActivityComplex, IMKL:Duct, IMKL:Pipe, IMKL:Appurtenance, IMKL:Tower, IMKL:Pole, IMKL:Manhole, IMKL:Cabinet. 
 - Betekenisloze abstracten verwijderd.
-  - IMKL:Kabelspecifiek, IMKL:KabelEnLeiding, IMKL:ExtraInformatie, IMKL:UtilityNetwerorkSpecifiek, IMKL:LeidingElement, IMKL:ContainerLeidingElement.
+  - Kabelspecifiek, KabelEnLeiding, ExtraInformatie, UtilityNetwerorkSpecifiek, LeidingElement, ContainerLeidingElement.
   - De attributen van deze klassen werden verplaatst naar de US:subklassen of US:superklassen.
 - Te specifieke attributen veralgemeend.
-  - IMKL:KabelEnleiding:isBovengrondsZichtbaar met datatype Boolean is nu US:NutsvoorzieningLinkset.zichtbaarheid met datatype Zichtbaarheidtype.
-  - IMKL:KabelEnLeiding.risocotype met datatype Boolean is nu US:NutsvoorzieningLinkset.risico met datatype Risocotype.
-  - IMKL:KabelEnLeiding.kleur met datatype StringOrNilReason is nu US:NutsvoorzieningLinkset.uiterlijk met datatype Uiterlijk (met attribuut Uiterlijk.kleur).
-  - IMKL:KabelEnLeiding.liggingNauwkeurigheid met datatype Nauwkeurigheidsvalue is verwijderd. Zie oplossing bij "Verwijzing naar OSLO-Datakwaliteit.". 
+  - KabelEnleiding:isBovengrondsZichtbaar met datatype Boolean is nu NutsvoorzieningLinkset.zichtbaarheid met datatype Zichtbaarheidtype.
+  - KabelEnLeiding.risocotype met datatype Boolean is nu NutsvoorzieningLinkset.risico met datatype Risocotype.
+  - KabelEnLeiding.kleur met datatype StringOrNilReason is nu NutsvoorzieningLinkset.uiterlijk met datatype Uiterlijk (met attribuut Uiterlijk.kleur).
+  - KabelEnLeiding.liggingNauwkeurigheid met datatype Nauwkeurigheidsvalue is verwijderd. Zie oplossing bij "Verwijzing naar OSLO-Datakwaliteit.". 
 - Overerving van GNM is nu expliciet.
 - Verwijzing naar OSLO-Datakwaliteit.
   - Positionele nauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
