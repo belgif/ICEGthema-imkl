@@ -24,9 +24,12 @@
   - ()
 - Andere aanpassingen:
   - Diepte is volledig herwerkt:
-    - Er is nu ook een klasse Hoogte.
-    - Diepte en hoogte kregen superklasse VerticalePositie.
-    - Diepte.dieptePeil noemen we nu Diepte.diepte.
-    - Er is uiteraard ook Hoogte.hoogte.
-    - Zowel het attribuut hoogte als diepte herdefinieert VerticalePositie.afstand.
-    -  
+    - Superklasse Verticalepositie en nieuwe subklasse Hoogte.
+    - Duidelijk onderscheid tussen absolute diepte (Verticalepositie.verticalepositie met datatype DirectePositie, al dan niet TAW) en relatieve diepte (tov een referentieoppervlak, attribuut Verticalepositie.afstand)
+    - Klasse Referentieoppervlak zodat daarvan het type (maaiveld of anders), verticalePositie en ligging kan worden opgegeven.
+  - Maat is uitgewerkt volgens ISO.
+  - ExtraPlan is nu een subklasse Plan van Document.
+  - TopografischElement is niet langer gekoppeld aan een andere klasse, er wordt uitgegaan van impliciete koppeling via de geometrie.
+  - Analoog voor BeschermdGebied.
+  - Annotatie is volledig herwerkt:
+    - ()  
