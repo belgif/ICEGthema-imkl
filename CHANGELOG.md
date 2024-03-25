@@ -20,8 +20,6 @@
   - Nutsvoorzieningnetwerk erft geografischeNaam van Netwerk.
 - Verwijzing naar OSLO-Datakwaliteit.
   - Positionele nauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
-- Betekenisvolle datatypes ipv vrije tekst.
-  - ()
 - Andere aanpassingen:
   - Diepte is volledig herwerkt:
     - Superklasse Verticalepositie en nieuwe subklasse Hoogte.
@@ -32,4 +30,7 @@
   - TopografischElement is niet langer gekoppeld aan een andere klasse, er wordt uitgegaan van impliciete koppeling via de geometrie.
   - Analoog voor BeschermdGebied.
   - Annotatie is volledig herwerkt:
-    - ()  
+    - Link is enkel nog van Annotatie naar netwerkelement.
+    - Subklasse Maataanduiding.
+    - Relaties geheel/deel toegevoegd.
+  - RelatedParty en Contact geschrapt, wordt nu gedekt door Agent.   
