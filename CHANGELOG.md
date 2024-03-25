@@ -5,11 +5,15 @@
 - Betekenisloze abstracten verwijderd.
   - Kabelspecifiek, KabelEnLeiding, ExtraInformatie, UtilityNetwerorkSpecifiek, LeidingElement, ContainerLeidingElement.
   - De attributen van deze klassen werden verplaatst naar de US:subklassen of US:superklassen.
-- Te specifieke attributen veralgemeend.
+- Te specifieke klassen/datatypes/attributen veralgemeend.
   - KabelEnleiding:isBovengrondsZichtbaar met datatype Boolean is nu NutsvoorzieningLinkset.zichtbaarheid met datatype Zichtbaarheidtype.
   - KabelEnLeiding.risocotype met datatype Boolean is nu NutsvoorzieningLinkset.risico met datatype Risocotype.
   - KabelEnLeiding.kleur met datatype StringOrNilReason is nu NutsvoorzieningLinkset.uiterlijk met datatype Uiterlijk (met attribuut Uiterlijk.kleur).
-  - KabelEnLeiding.liggingNauwkeurigheid met datatype Nauwkeurigheidsvalue is verwijderd. Zie oplossing bij "Verwijzing naar OSLO-Datakwaliteit.". 
+  - KabelEnLeiding.liggingNauwkeurigheid met datatype Nauwkeurigheidsvalue is verwijderd. Zie oplossing bij "Verwijzing naar OSLO-Datakwaliteit.".
+  - Diepte is nu VertikalePositieDetail met subklassen Diepte en Hoogte.
+  - Diepte.datumOpmetingDieptePeil hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.datum.
+  - Diepte.diepteNauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
+  -  Superklasse VertikalePositieDetail veralgemeent Diepte. 
 - Overerving van GNM is nu expliciet.
   - NutsvoorzieningLinkset erft het attribuut link van Linkset.
   - NutsvoorzieningLinksequentie erft het attribuut link van LinkSequentie.
@@ -18,6 +22,14 @@
   - Nutsvoorzieningnetwerk erft geografischeNaam van Netwerk.
 - Verwijzing naar OSLO-Datakwaliteit.
   - Positionele nauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
+- Bepaalde klassen veralgemeend:
+  - Diepte is nu VertikalePositie met subklassen Diepte en Hoogte.
 - Betekenisvolle datatypes ipv vrije tekst.
   - ()
-- PT_FreeText is Langstring geworden.
+- Uitbreidingen:
+  - Naast Diepte is nu ook Hoogte mogelijk.
+  - Een VertikalePositie kan nu ook absoluut ipv relatief zijn, ttz in een vertikaal CRS zoals TAW ipv enkel als afstand tov een referentieoppervlak. Daartoe is attribuut VertikalePositiedetail.vertikalePositie vh datatype DirectePositie toegevoegd.
+  - Klasse Referentieoppervlak is toegevoegd. Laat toe om details mbt het referentieoppervlak te geven, bvb type = maaiveld, vertikalePositie als DirectePositie, ligging om de vorm van het referentieoppervlak weer te geven. Klasse TAWDiepte valt hierdoor weg, evenals RelatieveDiepte. 
+- Details:
+  - PT_FreeText is Langstring geworden.
+  - ()
