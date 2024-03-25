@@ -12,7 +12,7 @@
   - KabelEnLeiding.liggingNauwkeurigheid met datatype Nauwkeurigheidsvalue is verwijderd. Zie oplossing bij "Verwijzing naar OSLO-Datakwaliteit.".
   - Diepte.datumOpmetingDieptePeil hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.datum.
   - Diepte.diepteNauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
-  -  Superklasse VertikalePositieDetail veralgemeent Diepte. 
+  -  Superklasse VertikalePositieDetail veralgemeent nu de klasse Diepte. 
 - Overerving van GNM is nu expliciet.
   - NutsvoorzieningLinkset erft het attribuut link van Linkset.
   - NutsvoorzieningLinksequentie erft het attribuut link van LinkSequentie.
