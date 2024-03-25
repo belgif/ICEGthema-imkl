@@ -21,8 +21,6 @@
   - Nutsvoorzieningnetwerk erft geografischeNaam van Netwerk.
 - Verwijzing naar OSLO-Datakwaliteit.
   - Positionele nauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
-- Bepaalde klassen veralgemeend:
-  - Diepte is nu VertikalePositie met subklassen Diepte en Hoogte.
 - Uitbreidingen:
   - Een VertikalePositie kan nu ook absoluut ipv relatief zijn, ttz in een vertikaal CRS zoals TAW ipv enkel als afstand tov een referentieoppervlak. Daartoe is attribuut VertikalePositiedetail.vertikalePositie vh datatype DirectePositie toegevoegd.
   - Klasse Referentieoppervlak is toegevoegd. Laat toe om details mbt het referentieoppervlak te geven, bvb type = maaiveld, vertikalePositie als DirectePositie, ligging om de vorm van het referentieoppervlak weer te geven. Klasse TAWDiepte valt hierdoor weg, evenals RelatieveDiepte. 
