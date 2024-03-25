@@ -11,6 +11,11 @@
   - KabelEnLeiding.kleur met datatype StringOrNilReason is nu NutsvoorzieningLinkset.uiterlijk met datatype Uiterlijk (met attribuut Uiterlijk.kleur).
   - KabelEnLeiding.liggingNauwkeurigheid met datatype Nauwkeurigheidsvalue is verwijderd. Zie oplossing bij "Verwijzing naar OSLO-Datakwaliteit.". 
 - Overerving van GNM is nu expliciet.
+  - NutsvoorzieningLinkset erft het attribuut link van Linkset.
+  - NutsvoorzieningLinksequentie erft het attribuut link van LinkSequentie.
+  - Nutsvoorzieninglink erft de attributen midellijngeometrie, beginknoop en eindKnoop van Link.
+  - NutsvoorzieningKnoop erft de attributen geometrie, beginLink en eindLink van Knoop.
+  - Nutsvoorzieningnetwerk erft geografischeNaam van Netwerk.
 - Verwijzing naar OSLO-Datakwaliteit.
   - Positionele nauwkeurigheid hoort thuis bij de Geometrie en zit nu in Opmeting via Geometrie.opmeting via Opmeting.nauwkeurigheid van het type Datakwaliteit:PositioneleNauwkeurigheid.
 - Betekenisvolle datatypes ipv vrije tekst.
