@@ -3,7 +3,7 @@
 - Self-specialisaties geëlimineerd
   - IMKL:ElictricityCable, IMKL:TelocommunicationsCable, IMKL:OilGasChemicalPipe, IMKL:SerwerPipe, IMKL:ThermalPipe, IMKL:ActivityComplex, IMKL:Duct, IMKL:Pipe, IMKL:Appurtenance, IMKL:Tower, IMKL:Pole, IMKL:Manhole, IMKL:Cabinet. 
 - Betekenisloze abstracten verwijderd.
-- IMKL:Kabelspecifiek, IMKL:KabelEnLeiding, IMKL:ExtraInformatie, IMKL:UtilityNetwerorkSpecifiek, IMKL:LeidingElement, IMKL:ContainerLeidingElement.
+  - IMKL:Kabelspecifiek, IMKL:KabelEnLeiding, IMKL:ExtraInformatie, IMKL:UtilityNetwerorkSpecifiek, IMKL:LeidingElement, IMKL:ContainerLeidingElement.
   - De attributen van deze klassen werden verplaatst naar de US:subklassen of US:superklassen.
 - Te specifieke attributen veralgemeend.
   - IMKL:KabelEnleiding:isBovengrondsZichtbaar met datatype Boolean is nu US:NutsvoorzieningLinkset.zichtbaarheid met datatype Zichtbaarheidtype.
