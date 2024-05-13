@@ -760,6 +760,18 @@
       }
     },
     {
+      "name": "utilityFacilityReference",
+      "EA-Guid": "{428991B5-29D1-449e-A0BB-978881E2EDEE}",
+      "definition": {
+        "en": "Reference to a complex of activities related to this (element of a) utility network.",
+        "fr": "Référence à un complexe d'activités associé à ce (élement du) réseau de service."
+      },
+      "label": {
+        "en": "utility facility reference",
+        "fr": "référence à un dispositif de service"
+      }
+    },
+    {
       "name": "nominalVoltage",
       "EA-Guid": "{D80FB65E-9810-4c90-B645-6A15AA20DE7E}",
       "definition": {
@@ -1028,18 +1040,6 @@
       }
     },
     {
-      "name": "utilityfacilityreference",
-      "EA-Guid": "{428991B5-29D1-449e-A0BB-978881E2EDEE}",
-      "definition": {
-        "en": "Reference to a complex of activities related to this (element of a) utility network.",
-        "fr": "Enter your translation here"
-      },
-      "label": {
-        "en": "utilityFacilityreference",
-        "fr": "Enter your translation here"
-      }
-    },
-    {
       "name": "accuracy",
       "EA-Guid": "{669729F3-407B-4d0e-AFC8-F53D8EABC85D}",
       "definition": {
@@ -1276,11 +1276,11 @@
       "EA-Guid": "{8FC7B82E-E230-46e4-82B8-C752C0EF688E}",
       "definition": {
         "en": "Area within which certain regulations apply when carrying out works.",
-        "fr": "Enter your translation here"
+        "fr": "Zone à l'intérieur de laquelle certaines règles s'appliquent lors de l'exécution de travaux."
       },
       "label": {
         "en": "protectedArea",
-        "fr": "Enter your translation here"
+        "fr": "zone protégée"
       }
     },
     {
@@ -1348,11 +1348,11 @@
       "EA-Guid": "{38DB83FF-9A3D-4bb5-8A65-5AA99647148D}",
       "definition": {
         "en": "Classification of a Appurtunance according to the thematic domain to which they belong.",
-        "fr": "Enter your translation here"
+        "fr": "Classification de l'Accessoire en fonction du domaine thématique auquel il appartient."
       },
       "label": {
         "en": "subtheme",
-        "fr": "Enter your translation here"
+        "fr": "sous-thème"
       }
     },
     {

@@ -625,13 +625,13 @@
       }
     },
     {
-      "name": "utilityfacilityreference",
+      "name": "utilityFacilityReference",
       "EA-Guid": "{428991B5-29D1-449e-A0BB-978881E2EDEE}",
       "definition": {
         "en": "Reference to a complex of activities related to this (element of a) utility network."
       },
       "label": {
-        "en": "utilityFacilityreference"
+        "en": "utility facility reference"
       }
     },
     {
@@ -1768,13 +1768,13 @@
       }
     },
     {
-      "name": "activityComplexReference",
+      "name": "utilityFacilityReference",
       "EA-Guid": "{703DE74E-31B6-4e66-8119-0C1E4A9DA973}",
       "definition": {
         "en": "Activity Complex belonging to the network."
       },
       "label": {
-        "en": "[UPDATED] activity complex reference"
+        "en": "utility facility reference"
       }
     },
     {
