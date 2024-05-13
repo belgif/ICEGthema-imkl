@@ -625,6 +625,16 @@
       }
     },
     {
+      "name": "utilityfacilityreference",
+      "EA-Guid": "{428991B5-29D1-449e-A0BB-978881E2EDEE}",
+      "definition": {
+        "en": "Reference to a complex of activities related to this (element of a) utility network."
+      },
+      "label": {
+        "en": "utilityFacilityreference"
+      }
+    },
+    {
       "name": "nominalVoltage",
       "EA-Guid": "{D80FB65E-9810-4c90-B645-6A15AA20DE7E}",
       "definition": {
@@ -844,16 +854,6 @@
       },
       "label": {
         "en": "address"
-      }
-    },
-    {
-      "name": "utilityfacilityreference",
-      "EA-Guid": "{428991B5-29D1-449e-A0BB-978881E2EDEE}",
-      "definition": {
-        "en": "Reference to a complex of activities related to this (element of a) utility network."
-      },
-      "label": {
-        "en": "utilityFacilityreference"
       }
     },
     {
@@ -1768,13 +1768,13 @@
       }
     },
     {
-      "name": "utilityFacilityReference",
+      "name": "activityComplexReference",
       "EA-Guid": "{703DE74E-31B6-4e66-8119-0C1E4A9DA973}",
       "definition": {
         "en": "Activity Complex belonging to the network."
       },
       "label": {
-        "en": "utility facility reference"
+        "en": "[UPDATED] activity complex reference"
       }
     },
     {
