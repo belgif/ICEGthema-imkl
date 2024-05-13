@@ -6,3 +6,4 @@ output-toolchain/
 translation/*-backup.json
 translation/*-oslo.json
 translation/20*.json
+*_backup.json

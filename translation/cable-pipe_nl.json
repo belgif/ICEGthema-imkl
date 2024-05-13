@@ -731,7 +731,7 @@
         "nl": "pijpdiameter"
       },
       "usage": {
-        "en": "For convex shaped objects (for example a circle) the diameter is defined to be the largest distance that can be formed between two opposite parallel lines tangent to its boundery.",
+        "en": "For convex shaped objects (For example a circle) the diameter is defined to be the largest distance that can be formed between two opposite parallel lines tangent to its boundery.",
         "nl": "Voor convex gevormde objecten (bijvoorbeeld een cirkel) is de diameter gedefinieerd als de grootste afstand die gevormd kan worden tussen twee tegenover elkaar liggende parallelle lijnen die raken aan de rand."
       }
     },
@@ -1028,6 +1028,18 @@
       }
     },
     {
+      "name": "utilityfacilityreference",
+      "EA-Guid": "{428991B5-29D1-449e-A0BB-978881E2EDEE}",
+      "definition": {
+        "en": "Reference to a complex of activities related to this (element of a) utility network.",
+        "nl": "Enter your translation here"
+      },
+      "label": {
+        "en": "utilityFacilityreference",
+        "nl": "Enter your translation here"
+      }
+    },
+    {
       "name": "accuracy",
       "EA-Guid": "{669729F3-407B-4d0e-AFC8-F53D8EABC85D}",
       "definition": {
@@ -1260,6 +1272,18 @@
       }
     },
     {
+      "name": "protectedarea",
+      "EA-Guid": "{8FC7B82E-E230-46e4-82B8-C752C0EF688E}",
+      "definition": {
+        "en": "Area within which certain regulations apply when carrying out works.",
+        "nl": "Enter your translation here"
+      },
+      "label": {
+        "en": "protectedArea",
+        "nl": "Enter your translation here"
+      }
+    },
+    {
       "name": "subtheme",
       "EA-Guid": "{3819ED88-81D8-4541-B26B-A64C5CDE020D}",
       "definition": {
@@ -1317,6 +1341,18 @@
       "label": {
         "en": "subtheme",
         "nl": "subthema"
+      }
+    },
+    {
+      "name": "subtheme",
+      "EA-Guid": "{38DB83FF-9A3D-4bb5-8A65-5AA99647148D}",
+      "definition": {
+        "en": "Classification of a Appurtunance according to the thematic domain to which they belong.",
+        "nl": "Enter your translation here"
+      },
+      "label": {
+        "en": "subtheme",
+        "nl": "Enter your translation here"
       }
     },
     {
@@ -2104,15 +2140,15 @@
       }
     },
     {
-      "name": "activityComplexReference",
+      "name": "utilityFacilityReference",
       "EA-Guid": "{703DE74E-31B6-4e66-8119-0C1E4A9DA973}",
       "definition": {
         "en": "Activity Complex belonging to the network.",
         "nl": "Activiteitencomplex dat tot het netwerk behoort."
       },
       "label": {
-        "en": "activity complex reference",
-        "nl": "activiteitencomplexreferentie"
+        "en": "utility facility reference",
+        "nl": "nutsvoorzieningInrichtingReferentie"
       }
     },
     {
