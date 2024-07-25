@@ -476,6 +476,21 @@
         </imkl:ExtraPlan>
     </gml:featureMember>
     <gml:featureMember>
+        <imkl:Document gml:id="ID_5b5e7f28-c98d-4bfd-bf0f-33e5c3cbb9c8">
+            <imkl:imklId>
+                <base:Identifier>
+                    <base:localId>D001</base:localId>
+                    <base:namespace>telecom-be</base:namespace>
+                </base:Identifier>
+            </imkl:imklId>
+            <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
+            <imkl:documentType xlink:href="http://TODO/DocumentTypeValue/precaution" />
+            <imkl:documentLocation>extraplan1.png</imkl:documentLocation>
+            <imkl:documentMediaType xlink:href="http://TODO/DocumentMediaTypeValue/PNG" />
+            <imkl:inNetwork xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />            
+        </imkl:Document>
+    </gml:featureMember>
+    <gml:featureMember>
         <imkl:Annotation gml:id="ID_6a97841b-00b7-4aa0-b39d-5731910e6c6d">
             <imkl:imklId>
                 <base:Identifier>
@@ -577,6 +592,7 @@
                 <imkl:phone>text</imkl:phone>
                 <imkl:email>text</imkl:email>
             </imkl:authorityRole>
+            <imkl:documentation xlink:href="http://TODO/Document/telecom-be:D001" />
             <imkl:documentation xlink:href="http://TODO/ExtraPlan/telecom-be:EP001" />
             <imkl:annotation xlink:href="http://TODO/Annotation/telecom-be:AN001" />
             <imkl:annotation xlink:href="http://TODO/Annotation/telecom-be:AN002" />
