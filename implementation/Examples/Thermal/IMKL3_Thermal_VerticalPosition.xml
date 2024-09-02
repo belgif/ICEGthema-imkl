@@ -40,7 +40,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://TODO/ThermalAppurtenanceTypeExtendedValue/deliveryPoint" />
+                xlink:href="http://TODO/ThermalAppurtenanceTypeIMKLValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme xlink:href="http://TODO/ThermalSubthemeValue/heatTransport" />
             <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
@@ -92,7 +92,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://TODO/ThermalAppurtenanceTypeExtendedValue/deliveryPoint" />
+                xlink:href="http://TODO/ThermalAppurtenanceTypeIMKLValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="http://TODO/ThermalSubthemeValue/heatTransport" />
@@ -145,7 +145,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://TODO/ThermalAppurtenanceTypeExtendedValue/deliveryPoint" />
+                xlink:href="http://TODO/ThermalAppurtenanceTypeIMKLValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="http://TODO/ThermalSubthemeValue/heatTransport" />
@@ -198,7 +198,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://TODO/ThermalAppurtenanceTypeExtendedValue/deliveryPoint" />
+                xlink:href="http://TODO/ThermalAppurtenanceTypeIMKLValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="http://TODO/ThermalSubthemeValue/heatTransport" />
