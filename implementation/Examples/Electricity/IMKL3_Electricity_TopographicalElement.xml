@@ -13,7 +13,7 @@
     xmlns:base="http://inspire.ec.europa.eu/schemas/base/3.3"
     xmlns:base2="http://inspire.ec.europa.eu/schemas/base2/2.0"
     xmlns:imkl="https://vocab.belgif.be/ns/imkl/3.0"
-    xsi:schemaLocation="https://vocab.belgif.be/ns/imkl/3.0 ../../imkl_3_0.xsd"
+    xsi:schemaLocation="https://vocab.belgif.be/ns/imkl/3.0 https://vocab.belgif.be/ns/imkl/3.0/imkl_3_0.xsd"
     xmlns:gml="http://www.opengis.net/gml/3.2"
     xmlns:gmd="http://www.isotc211.org/2005/gmd">
     <gml:featureMember>
