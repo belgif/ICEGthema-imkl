@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema"
-    xmlns:imkl="http://TODO/imkl3"
+    xmlns:imkl="https://vocab.belgif.be/ns/imkl/3.0"
     xmlns:base="http://inspire.ec.europa.eu/schemas/base/3.3"
     xmlns:gml="http://www.opengis.net/gml/3.2"
     xmlns:act-core="http://inspire.ec.europa.eu/schemas/act-core/4.0"
@@ -12,7 +12,7 @@
     xmlns:us-net-wa="http://inspire.ec.europa.eu/schemas/us-net-wa/4.0"
     xmlns:us-net-th="http://inspire.ec.europa.eu/schemas/us-net-th/4.0"
     xmlns:gmd="http://www.isotc211.org/2005/gmd"
-    targetNamespace="http://TODO/imkl3"
+    targetNamespace="https://vocab.belgif.be/ns/imkl/3.0"
     elementFormDefault="qualified"
     version="3.0">
 
