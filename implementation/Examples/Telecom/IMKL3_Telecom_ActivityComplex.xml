@@ -27,7 +27,7 @@
                 </base:Identifier>
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
-            <net:inNetwork xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+            <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_c162014f-5554-47f2-9973-a9bb8bbec7ed"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -40,11 +40,11 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/TelecommunicationsAppurtenanceTypeExtendedValue/termination" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsAppurtenanceTypeIMKLValue/termination" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -79,7 +79,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_9a56c74c-0b94-4c02-8bb1-e68be16a849f"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -92,11 +92,11 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/TelecommunicationsAppurtenanceTypeExtendedValue/termination" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsAppurtenanceTypeIMKLValue/termination" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -131,7 +131,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_108bc395-61d9-42cd-9c11-4ec378cac394"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -144,11 +144,11 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/TelecommunicationsAppurtenanceTypeExtendedValue/termination" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsAppurtenanceTypeIMKLValue/termination" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -183,7 +183,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_108bc395-61d9-42cd-9c11-4ec378cac395"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -196,13 +196,13 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
-                xlink:href="http://TODO/ActivityComplex/telecom-be:AC0001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/TelecommunicationsAppurtenanceTypeExtendedValue/termination" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsAppurtenanceTypeIMKLValue/termination" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -237,7 +237,7 @@
             </net:inspireId>
             <net:endLifespanVersion nilReason="inapplicable">2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_f5a5de6b-6a32-48e8-8600-819a475985ef"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -263,7 +263,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_7fdbc52d-18e3-4df6-8b40-5221d339dc31"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -289,7 +289,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_969dd2e9-b401-4dac-a6fa-5ba424cfe3ea"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -314,21 +314,21 @@
                 </base:Identifier>
             </net:inspireId>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
-            <net:link xlink:href="http://TODO/UtilityLink/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
+            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
-                xlink:href="http://TODO/ActivityComplex/telecom-be:AC0001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
             <us-net-common:warningType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
-                xlink:href="http://inspire.ec.europa.eu/codelist/TelecommunicationsCableMaterialTypeExtendedValue/coaxial" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -350,7 +350,7 @@
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:locationSurvey>
             <imkl:subtheme
-                xlink:href="http://TODO/TelecommunicationsSubthemeValue/electronicCommunication" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
             <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:TelecommunicationsCable>
     </gml:featureMember>
@@ -364,22 +364,22 @@
                 </base:Identifier>
             </net:inspireId>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
-            <net:link xlink:href="http://TODO/UtilityLink/telecom-be:002" />
-            <net:link xlink:href="http://TODO/UtilityLink/telecom-be:003" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
+            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:002" />
+            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityFacilityReference
-                xlink:href="http://TODO/ActivityComplex/telecom-be:AC0001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
             <us-net-common:warningType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
-                xlink:href="http://inspire.ec.europa.eu/codelist/TelecommunicationsCableMaterialTypeExtendedValue/coaxial" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -401,7 +401,7 @@
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:locationSurvey>
             <imkl:subtheme
-                xlink:href="http://TODO/TelecommunicationsSubthemeValue/electronicCommunication" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
             <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:TelecommunicationsCable>
     </gml:featureMember>
@@ -412,7 +412,7 @@
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:utilityFacilityReference
-                xlink:href="http://TODO/ActivityComplex/telecom-be:AC0001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:geometry>
                 <gml:Point gml:id="ID_f0806ddd-52e9-41f0-a9bb-855503100855"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -426,7 +426,7 @@
                 </base:Identifier>
             </us-net-common:inspireId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -448,7 +448,7 @@
             </imkl:geometrySurvey>
             <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
         </imkl:Manhole>
     </gml:featureMember>
     <gml:featureMember>
@@ -479,41 +479,41 @@
             </act-core:geometry>
             <act-core:function>
                 <act-core:Function>
-                    <act-core:activity xlink:href="http://TODO/ActivityValue/3512" />
+                    <act-core:activity xlink:href="https://vocab.belgif.be/auth/IMKL-ActivityValue/3512" />
                 </act-core:Function>
             </act-core:function>
             <act-core:validFrom>2001-12-17T09:30:47.0Z</act-core:validFrom>
             <act-core:beginLifespanVersion>2001-12-17T09:30:47.0Z</act-core:beginLifespanVersion>
-            <imkl:on xlink:href="http://TODO/TelecommunicationsCable/telecom-be:001" />
-            <imkl:on xlink:href="http://TODO/TelecommunicationsCable/telecom-be:002" />
-            <imkl:on xlink:href="http://TODO/Manhole/telecom-be:M0001" />
-            <imkl:on xlink:href="http://TODO/Appurtenance/telecom-be:004" />
-            <imkl:inNetwork xlink:href="http://TODO/UtilityNetwork/telecom-be:001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:002" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/telecom-be:M0001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:004" />
+            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
         </imkl:ActivityComplex>
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
-            <net:elements xlink:href="http://TODO/TelecommunicationsCable/telecom-be:001" />
-            <net:elements xlink:href="http://TODO/TelecommunicationsCable/telecom-be:002" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:001" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:002" />
             <net:elements
-                xlink:href="http://TODO/UtilityLink/telecom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:001" />
             <net:elements
-                xlink:href="http://TODO/UtilityLink/telecom-be:002" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:002" />
             <net:elements
-                xlink:href="http://TODO/UtilityLink/telecom-be:003" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:003" />
             <net:elements
-                xlink:href="http://TODO/Appurtenance/telecom-be:001:v2" />
-            <net:elements xlink:href="http://TODO/Appurtenance/telecom-be:002" />
-            <net:elements xlink:href="http://TODO/Appurtenance/telecom-be:003" />
-            <net:elements xlink:href="http://TODO/Appurtenance/telecom-be:004" />
-            <net:elements xlink:href="http://TODO/Manhole/telecom-be:M0001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:001:v2" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:002" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:003" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:004" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/telecom-be:M0001" />
             <us-net-common:utilityNetworkType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeExtendedValue/telecommunications" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
             <us-net-common:utilityFacilityReference
-                xlink:href="http://TODO/ActivityComplex/telecom-be:AC0001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>

@@ -27,7 +27,7 @@
                 </base:Identifier>
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
-            <net:inNetwork xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+            <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_c162014f-5554-47f2-9973-a9bb8bbec7ed"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -42,8 +42,8 @@
             <us-net-common:appurtenanceType
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeExtendedValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
-            <imkl:subtheme xlink:href="http://TODO/ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:subtheme xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -59,7 +59,7 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:DD002" />
+            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD002" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">50</imkl:accuracy>
@@ -79,7 +79,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_9a56c74c-0b94-4c02-8bb1-e68be16a849f"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -92,11 +92,11 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://TODO/ElectricityAppurtenanceTypeIMKLValue/grounding" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/grounding" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -112,7 +112,7 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:DD002" />
+            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD002" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -132,7 +132,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_108bc395-61d9-42cd-9c11-4ec378cac394"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -148,8 +148,8 @@
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeExtendedValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -165,7 +165,7 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:DD002" />
+            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD002" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -185,7 +185,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_108bc395-61d9-42cd-9c11-4ec378cac395"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -201,8 +201,8 @@
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeExtendedValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="http://TODO/ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -237,7 +237,7 @@
             </net:inspireId>
             <net:endLifespanVersion nilReason="inapplicable">2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_f5a5de6b-6a32-48e8-8600-819a475985ef"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -263,7 +263,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_7fdbc52d-18e3-4df6-8b40-5221d339dc31"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -289,7 +289,7 @@
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_969dd2e9-b401-4dac-a6fa-5ba424cfe3ea"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -314,8 +314,8 @@
                 </base:Identifier>
             </net:inspireId>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
-            <net:link xlink:href="http://TODO/UtilityLink/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
+            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -326,7 +326,7 @@
                 xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -343,13 +343,13 @@
                 </imkl:colour>
             </imkl:appearance>
             <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
-            <imkl:coverageDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:CD001" />
+            <imkl:coverageDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:CD001" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:locationSurvey>
             <imkl:subtheme
-                xlink:href="http://TODO/ElectricitySubthemeValue/electricityTransport" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
             <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:ElectricityCable>
     </gml:featureMember>
@@ -363,9 +363,9 @@
                 </base:Identifier>
             </net:inspireId>
             <net:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
-            <net:link xlink:href="http://TODO/UtilityLink/electricitycom-be:002" />
-            <net:link xlink:href="http://TODO/UtilityLink/electricitycom-be:003" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
+            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:002" />
+            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -376,7 +376,7 @@
                 xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -398,7 +398,7 @@
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:locationSurvey>
             <imkl:subtheme
-                xlink:href="http://TODO/ElectricitySubthemeValue/electricityTransport" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
             <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:ElectricityCable>
     </gml:featureMember>
@@ -421,7 +421,7 @@
                 </base:Identifier>
             </us-net-common:inspireId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:visibility xlink:href="http://TODO/VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -437,14 +437,14 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:DD003" />
+            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD003" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
             <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
         </imkl:Manhole>
     </gml:featureMember>
     <gml:featureMember>
@@ -457,7 +457,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="http://TODO/ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
             </imkl:referenceSurface>
             <imkl:depth uom="urn:ogc:def:uom:OGC::cm">100</imkl:depth>
             <imkl:verticalPositionSurvey>
@@ -466,7 +466,7 @@
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:verticalPositionSurvey>
             <imkl:inNetwork
-                xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
         </imkl:StandardCoverageDetail>
     </gml:featureMember>
     <gml:featureMember>
@@ -479,7 +479,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="http://TODO/ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
             </imkl:referenceSurface>
             <imkl:depth uom="urn:ogc:def:uom:OGC::cm">100</imkl:depth>
             <imkl:verticalPositionSurvey>
@@ -487,10 +487,10 @@
                 <imkl:date>2001-12-17T09:30:47Z</imkl:date>
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:verticalPositionSurvey>
-            <imkl:inNetwork xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
-            <imkl:on xlink:href="http://TODO/Appurtenance/electricitycom-be:001:v2" />
-            <imkl:on xlink:href="http://TODO/Appurtenance/electricitycom-be:002" />
-            <imkl:on xlink:href="http://TODO/Appurtenance/electricitycom-be:003" />
+            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:001:v2" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:002" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:003" />
         </imkl:DepthDetail>
     </gml:featureMember>
     <gml:featureMember>
@@ -503,7 +503,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="http://TODO/ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
                 <imkl:verticalPosition srsName="http://spatialreference.org/ref/epsg/5710/"
                     srsDimension="1">22.02</imkl:verticalPosition>
                 <imkl:verticalPositionSurvey>
@@ -528,8 +528,8 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">10</imkl:accuracy>
             </imkl:locationSurvey>
-            <imkl:inNetwork xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
-            <imkl:on xlink:href="http://TODO/ElectricityCable/electricitycom-be:001" />
+            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:001" />
         </imkl:CoverageDetail>
     </gml:featureMember>
     <gml:featureMember>
@@ -542,7 +542,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="http://TODO/ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
                 <imkl:verticalPosition srsName="http://spatialreference.org/ref/epsg/5710/"
                     srsDimension="1">22.02</imkl:verticalPosition>
                 <imkl:verticalPositionSurvey>
@@ -558,22 +558,22 @@
                 <imkl:date>2001-12-17T09:30:47Z</imkl:date>
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:verticalPositionSurvey>
-            <imkl:inNetwork xlink:href="http://TODO/UtilityNetwork/electricitycom-be:001" />
-            <imkl:on xlink:href="http://TODO/Manhole/electricitycom-be:M0001" />
+            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/electricitycom-be:M0001" />
         </imkl:DepthDetail>
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
-            <net:elements xlink:href="http://TODO/ElectricityCable/electricitycom-be:001" />
-            <net:elements xlink:href="http://TODO/ElectricityCable/electricitycom-be:002" />
-            <net:elements xlink:href="http://TODO/UtilityLink/electricitycom-be:001" />
-            <net:elements xlink:href="http://TODO/UtilityLink/electricitycom-be:002" />
-            <net:elements xlink:href="http://TODO/UtilityLink/electricitycom-be:003" />
-            <net:elements xlink:href="http://TODO/Appurtenance/electricitycom-be:001:v2" />
-            <net:elements xlink:href="http://TODO/Appurtenance/electricitycom-be:002" />
-            <net:elements xlink:href="http://TODO/Appurtenance/electricitycom-be:003" />
-            <net:elements xlink:href="http://TODO/Appurtenance/electricitycom-be:004" />
-            <net:elements xlink:href="http://TODO/Manhole/electricitycom-be:M0001" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:001" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:002" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:001" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:002" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:003" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:001:v2" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:002" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:003" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:004" />
+            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/electricitycom-be:M0001" />
             <us-net-common:utilityNetworkType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeExtendedValue/electricity" />
             <us-net-common:authorityRole>
@@ -608,11 +608,11 @@
                 <imkl:phone>text</imkl:phone>
                 <imkl:email>text</imkl:email>
             </imkl:authorityRole>
-            <imkl:verticalPositionDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:CD001" />
-            <imkl:verticalPositionDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:DD002" />
-            <imkl:verticalPositionDetail xlink:href="http://TODO/DepthDetail/electricitycom-be:DD003" />
+            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:CD001" />
+            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD002" />
+            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD003" />
             <imkl:standardCoverageDetail
-                xlink:href="http://TODO/StandardCoverageDetail/electricitycom-be:DD001" />
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/StandardCoverageDetail/electricitycom-be:DD001" />
         </imkl:UtilityNetwork>
     </gml:featureMember>
 </gml:FeatureCollection>

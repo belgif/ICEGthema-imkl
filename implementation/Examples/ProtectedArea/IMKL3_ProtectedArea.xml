@@ -52,7 +52,7 @@
                 <imkl:phone>text</imkl:phone>
                 <imkl:email>text</imkl:email>
             </imkl:authorityRole>
-            <imkl:protectedArea xlink:href="http://TODO/ProtectedArea/gascom-be:PA001" />
+            <imkl:protectedArea xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ProtectedArea/gascom-be:PA001" />
         </imkl:UtilityNetwork>
     </gml:featureMember>
     <gml:featureMember>
@@ -85,7 +85,7 @@
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
             </imkl:description>
-            <imkl:protectedAreaType xlink:href="http://TODO/ProtectedAreaTypeValue/undergroundGasStorage" />
+            <imkl:protectedAreaType xlink:href="https://vocab.belgif.be/auth/IMKL-ProtectedAreaTypeValue/undergroundGasStorage" />
             <imkl:geometry>
                 <gml:Polygon gml:id="ID_1485"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -99,7 +99,7 @@
                     </gml:exterior>
                 </gml:Polygon>
             </imkl:geometry>
-            <imkl:inNetwork xlink:href="http://TODO/UtilityNetwork/gascom-be:001" />
+            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
         </imkl:ProtectedArea>
     </gml:featureMember>
 </gml:FeatureCollection>
