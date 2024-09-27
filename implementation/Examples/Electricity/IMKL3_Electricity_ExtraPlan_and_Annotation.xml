@@ -40,7 +40,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeExtendedValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -144,7 +144,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeExtendedValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
@@ -196,7 +196,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeExtendedValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
@@ -319,9 +319,9 @@
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -369,9 +369,9 @@
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -554,7 +554,7 @@
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/electricitycom-be:M0001" />
             <us-net-common:utilityNetworkType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeExtendedValue/electricity" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/electricity" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>

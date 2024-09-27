@@ -41,7 +41,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeExtendedValue/systemValve" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
@@ -145,7 +145,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeExtendedValue/systemValve" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
@@ -197,7 +197,7 @@
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeExtendedValue/systemValve" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
@@ -371,13 +371,13 @@
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-wa:waterType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeExtendedValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
@@ -422,13 +422,13 @@
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-wa:waterType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeExtendedValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
@@ -471,13 +471,13 @@
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-wa:waterType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeExtendedValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
@@ -519,9 +519,9 @@
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:ductWidth uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:ductWidth>
             <us-net-common:pipes xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/aquacom-be:001" />
             <us-net-common:pipes xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/aquacom-be:004" />
@@ -612,7 +612,7 @@
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/aquacom-be:004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/aquacom-be:M0001" />
             <us-net-common:utilityNetworkType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeExtendedValue/water" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/water" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>

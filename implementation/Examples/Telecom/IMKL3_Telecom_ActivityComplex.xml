@@ -323,9 +323,9 @@
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -374,9 +374,9 @@
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/telecom-be:AC0001" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeExtendedValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeExtendedValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -508,7 +508,7 @@
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/telecom-be:M0001" />
             <us-net-common:utilityNetworkType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeExtendedValue/telecommunications" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/telecommunications" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
