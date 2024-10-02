@@ -343,7 +343,7 @@
                 </imkl:colour>
             </imkl:appearance>
             <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
-            <imkl:coverageDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:CD001" />
+            <imkl:coverageDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/CoverageDetail/electricitycom-be:CD001" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -608,7 +608,7 @@
                 <imkl:phone>text</imkl:phone>
                 <imkl:email>text</imkl:email>
             </imkl:authorityRole>
-            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:CD001" />
+            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/CoverageDetail/electricitycom-be:CD001" />
             <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD002" />
             <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/electricitycom-be:DD003" />
             <imkl:standardCoverageDetail
