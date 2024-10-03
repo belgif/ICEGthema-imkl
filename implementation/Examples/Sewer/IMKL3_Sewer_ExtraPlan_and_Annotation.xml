@@ -65,7 +65,7 @@
             </imkl:geometrySurvey>
             <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
-            <imkl:documentation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/sewercom-be:AN001" />
+            <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/sewercom-be:AN001" />
         </imkl:Appurtenance>
     </gml:featureMember>
     <gml:featureMember>
@@ -446,7 +446,7 @@
             <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/sewercom-be:001" />
-            <imkl:documentation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/sewercom-be:AN002" />
+            <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/sewercom-be:AN002" />
         </imkl:Manhole>
     </gml:featureMember>
     <gml:featureMember>
