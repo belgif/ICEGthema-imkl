@@ -7,16 +7,16 @@ This GitHub has two main branches:
 
 In this read-me section, we will give some guidance on the content of the "implementation branch"
 
- - __Config__: configuration of the semantic datamodel. This is the source for publication of the online specification (https://belgif.github.io/thematic/models/cable-pipe/)
+ - __Config__: configuration of the key parameters to render the semantic datamodel. Based on this configuration the publication of the online specification is made. (https://belgif.github.io/thematic/models/cable-pipe/)
  - __Implementation__: contains all information on the implementation model (codelists etc.). This is the source for publication of the codelists (https://vocab.belgif.be/auth?lang=en)
- - __Resources__: contains general information (background information, data exemples,...)
- - __Site skeleton__: this section contains a structure to set-up the visualisation (Html publication)
+ - __Resources__: contains general information (background information, data examples,...)
+ - __Site skeleton__: this direction contains the additional information supporting the online specification of the semantic datamodel (Html publication). For instance the images to be used.
  - __Templates__: context setting (textual information) for the online specification of the semantic datamodel
  - __Translation__: translations NL-FR-EN for the online specification of the semantic datamodel
- - __IMKL-LD.eap__: UML-scheme 
+ - __IMKL-LD.eap__: the source data of the semantic datamodel in UML (EA Sparks) 
  - __Stakeholders__: concerned parties for the semantic datamodel trajectory
 
 ![Flow GitHub](https://github.com/user-attachments/assets/fdab66b5-2484-42b9-b2c8-f7b796d0ab5e)
     
 For publication of changes made in the backend (GitHub) a manual approval of pull requests needs to be done.
-For publication towards Belgif websites (both semantic model and code lists) an extra manual approval needs to be done by an ICEG employee.
+For publication towards Belgif websites (both semantic model and code lists) an extra manual approval needs to be done by an ICEG employee. For the semantic model the publication flow starts at https://github.com/belgif/iceg-publication. 
