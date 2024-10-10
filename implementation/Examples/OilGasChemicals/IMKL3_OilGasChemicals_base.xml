@@ -341,6 +341,7 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
+            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
             <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
@@ -437,6 +438,7 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
+            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
