@@ -463,7 +463,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
             </imkl:referenceSurface>
             <imkl:depth uom="urn:ogc:def:uom:OGC::cm">100</imkl:depth>
             <imkl:verticalPositionSurvey>
@@ -485,7 +485,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
             </imkl:referenceSurface>
             <imkl:depth uom="urn:ogc:def:uom:OGC::cm">100</imkl:depth>
             <imkl:verticalPositionSurvey>
@@ -509,7 +509,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
                 <imkl:verticalPosition srsName="http://spatialreference.org/ref/epsg/5710/"
                     srsDimension="1">22.02</imkl:verticalPosition>
                 <imkl:verticalPositionSurvey>
@@ -548,7 +548,7 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:type xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
                 <imkl:verticalPosition srsName="http://spatialreference.org/ref/epsg/5710/"
                     srsDimension="1">22.02</imkl:verticalPosition>
                 <imkl:verticalPositionSurvey>
