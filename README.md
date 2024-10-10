@@ -7,7 +7,7 @@ This GitHub has two main branches:
 
 ![image](https://github.com/user-attachments/assets/3936cfdb-b323-4353-9ad2-649ccfaa1f2d)
 
-In this read-me section, we will give some guidance on the content of the "implementation branch"
+In this read-me section, we will give some guidance on the content of the _"implementation branch"_
 
  - __Config__: configuration of the key parameters to render the semantic datamodel. Based on this configuration the publication of the online specification is made. (https://belgif.github.io/thematic/models/cable-pipe/)
  - __Implementation__: contains all information on the implementation model (codelists etc.). This is the source for publication of the codelists (https://vocab.belgif.be/auth?lang=en)
