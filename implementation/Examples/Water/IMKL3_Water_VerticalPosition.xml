@@ -66,7 +66,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">50</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -119,7 +118,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -172,7 +170,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -224,7 +221,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -355,7 +351,6 @@
             </imkl:locationSurvey>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
-            <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:WaterPipe>
     </gml:featureMember>
     <gml:featureMember>
@@ -407,7 +402,6 @@
             </imkl:locationSurvey>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
-            <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:WaterPipe>
     </gml:featureMember>
     <gml:featureMember>
@@ -450,7 +444,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/aquacom-be:001" />
         </imkl:Manhole>

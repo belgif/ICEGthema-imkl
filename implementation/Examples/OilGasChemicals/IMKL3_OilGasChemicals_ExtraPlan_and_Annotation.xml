@@ -63,7 +63,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">50</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
             <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN001" />
         </imkl:Appurtenance>
@@ -116,7 +115,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -168,7 +166,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -220,7 +217,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
         </imkl:Appurtenance>
     </gml:featureMember>
@@ -351,7 +347,6 @@
             <imkl:documentation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ExtraPlan/gascom-be:EP001" />
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
-            <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:OilGasChemicalsPipe>
     </gml:featureMember>
     <gml:featureMember>
@@ -403,7 +398,6 @@
             </imkl:locationSurvey>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
-            <!-- <imkl:isRisicovol>true</imkl:isRisicovol> -->
         </imkl:OilGasChemicalsPipe>
     </gml:featureMember>
     <gml:featureMember>
@@ -445,7 +439,6 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <!-- <imkl:isRisicovol>false</imkl:isRisicovol> -->
             <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
             <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN002" />
         </imkl:Manhole>
