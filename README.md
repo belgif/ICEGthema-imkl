@@ -10,7 +10,7 @@ This GitHub has two main branches:
 In this read-me section, we will give some guidance on the content of the _"implementation branch"_
 
  - __Config__: configuration of the key parameters to render the semantic datamodel. Based on this configuration the publication of the online specification is made. (https://belgif.github.io/thematic/models/cable-pipe/)
- - __Implementation__: contains all information on the implementation model (codelists etc.). This is the source for publication of the codelists (https://vocab.belgif.be/auth?lang=en)
+ - __Implementation__: contains all information on the implementation model (codelists etc.). This is the source for publication of the codelists (https://vocab.belgif.be/auth?lang=en) and de XSD-model (https://vocab.belgif.be/ns?lang=en)
  - __Resources__: contains general information (background information, data examples,...)
  - __Site skeleton__: this direction contains the additional information supporting the online specification of the semantic datamodel (Html publication). For instance the images to be used.
  - __Templates__: context setting (textual information) for the online specification of the semantic datamodel
