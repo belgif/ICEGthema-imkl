@@ -27,7 +27,8 @@
                 </base:Identifier>
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
-            <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
+            <net:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_c162014f-5554-47f2-9973-a9bb8bbec7ed"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -42,8 +43,10 @@
             <us-net-common:appurtenanceType
                 xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
-            <imkl:subtheme xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:subtheme
+                xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -64,7 +67,8 @@
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">50</imkl:accuracy>
             </imkl:geometrySurvey>
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
-            <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN001" />
+            <imkl:annotation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN001" />
         </imkl:Appurtenance>
     </gml:featureMember>
     <gml:featureMember>
@@ -95,7 +99,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -146,7 +151,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -197,7 +203,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -322,7 +329,8 @@
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsProductTypeIMKLValue//naturalGas" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -338,13 +346,28 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:locationSurvey>
-            <imkl:documentation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ExtraPlan/gascom-be:EP001" />
+            <imkl:documentation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ExtraPlan/gascom-be:EP001" />
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
         </imkl:OilGasChemicalsPipe>
@@ -374,7 +397,8 @@
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsProductTypeIMKLValue//naturalGas" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -390,8 +414,22 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -419,7 +457,8 @@
                 </base:Identifier>
             </us-net-common:inspireId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -439,8 +478,10 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:geometrySurvey>
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
-            <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN002" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
+            <imkl:annotation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN002" />
         </imkl:Manhole>
     </gml:featureMember>
     <gml:featureMember>
@@ -452,11 +493,15 @@
                 </base:Identifier>
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:documentType xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentTypeValue/detailedPlan" />
+            <imkl:documentType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentTypeValue/detailedPlan" />
             <imkl:documentLocation>extraplan1.png</imkl:documentLocation>
-            <imkl:documentMediaType xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentMediaTypeValue/PNG" />
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
-            <imkl:refersTo xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:001" />
+            <imkl:documentMediaType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentMediaTypeValue/PNG" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
+            <imkl:refersTo
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:001" />
             <imkl:location>
                 <gml:Polygon gml:id="ID_d8f3dbf9-1ac5-4bb7-8448-e739ea48daa2"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -481,10 +526,13 @@
                 </base:Identifier>
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:documentType xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentTypeValue/precaution" />
+            <imkl:documentType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentTypeValue/precaution" />
             <imkl:documentLocation>extraplan1.png</imkl:documentLocation>
-            <imkl:documentMediaType xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentMediaTypeValue/PNG" />
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />            
+            <imkl:documentMediaType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentMediaTypeValue/PNG" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
         </imkl:Document>
     </gml:featureMember>
     <gml:featureMember>
@@ -506,8 +554,10 @@
                         699892.4371240819 623304.4344132607 699890.9996645711</gml:posList>
                 </gml:LineString>
             </imkl:location>
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
-            <imkl:associatedWith xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:001:v2" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
+            <imkl:associatedWith
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:001:v2" />
         </imkl:Annotation>
     </gml:featureMember>
     <gml:featureMember>
@@ -535,14 +585,18 @@
                     <gml:pos>623321.3639477484 699884.2312535373</gml:pos>
                 </gml:Point>
             </imkl:location>
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
-            <imkl:associatedWith xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/gascom-be:M0001" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
+            <imkl:associatedWith
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/gascom-be:M0001" />
         </imkl:Annotation>
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:001" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:002" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/gascom-be:001" />
             <net:elements
@@ -551,9 +605,12 @@
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/gascom-be:003" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:001:v2" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:002" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:003" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:004" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:003" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/gascom-be:M0001" />
             <us-net-common:utilityNetworkType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical" />
@@ -589,10 +646,14 @@
                 <imkl:phone>text</imkl:phone>
                 <imkl:email>text</imkl:email>
             </imkl:authorityRole>
-            <imkl:documentation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Document/gascom-be:D001" />
-            <imkl:documentation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ExtraPlan/gascom-be:EP001" />
-            <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN001" />
-            <imkl:annotation xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN002" />
+            <imkl:documentation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Document/gascom-be:D001" />
+            <imkl:documentation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ExtraPlan/gascom-be:EP001" />
+            <imkl:annotation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN001" />
+            <imkl:annotation
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Annotation/gascom-be:AN002" />
         </imkl:UtilityNetwork>
     </gml:featureMember>
 </gml:FeatureCollection>

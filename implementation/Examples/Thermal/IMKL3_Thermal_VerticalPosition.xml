@@ -27,7 +27,8 @@
                 </base:Identifier>
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
-            <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
+            <net:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_c162014f-5554-47f2-9973-a9bb8bbec7ed"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -42,8 +43,10 @@
             <us-net-common:appurtenanceType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalAppurtenanceTypeIMKLValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
-            <imkl:subtheme xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalSubthemeValue/heatTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:subtheme
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalSubthemeValue/heatTransport" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -59,7 +62,8 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
+            <imkl:depthDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">50</imkl:accuracy>
@@ -95,7 +99,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalSubthemeValue/heatTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -111,7 +116,8 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
+            <imkl:depthDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -147,7 +153,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalSubthemeValue/heatTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -163,7 +170,8 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
+            <imkl:depthDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -199,7 +207,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalSubthemeValue/heatTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -324,7 +333,8 @@
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-th:thermalProductType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalProductTypeIMKLValue/heatingSteam" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -340,9 +350,24 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
-            <imkl:coverageDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/CoverageDetail/thermalcom-be:CD001" />
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
+            <imkl:coverageDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/CoverageDetail/thermalcom-be:CD001" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -377,7 +402,8 @@
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-th:thermalProductType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ThermalProductTypeIMKLValue/heatingSteam" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -393,8 +419,22 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -423,7 +463,8 @@
                 </base:Identifier>
             </us-net-common:inspireId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -439,7 +480,8 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:depthDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD003" />
+            <imkl:depthDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD003" />
             <imkl:geometrySurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -458,7 +500,8 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType
+                    xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
             </imkl:referenceSurface>
             <imkl:depth uom="urn:ogc:def:uom:OGC::cm">100</imkl:depth>
             <imkl:verticalPositionSurvey>
@@ -480,7 +523,8 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType
+                    xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
             </imkl:referenceSurface>
             <imkl:depth uom="urn:ogc:def:uom:OGC::cm">100</imkl:depth>
             <imkl:verticalPositionSurvey>
@@ -488,8 +532,10 @@
                 <imkl:date>2001-12-17T09:30:47Z</imkl:date>
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:verticalPositionSurvey>
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
-            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:001:v2" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
+            <imkl:on
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:001:v2" />
             <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:002" />
             <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:003" />
         </imkl:DepthDetail>
@@ -504,7 +550,8 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType
+                    xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
                 <imkl:verticalPosition srsName="http://spatialreference.org/ref/epsg/5710/"
                     srsDimension="1">22.02</imkl:verticalPosition>
                 <imkl:verticalPositionSurvey>
@@ -529,7 +576,8 @@
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">10</imkl:accuracy>
             </imkl:locationSurvey>
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
             <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ThermalPipe/thermalcom-be:001" />
         </imkl:CoverageDetail>
     </gml:featureMember>
@@ -543,7 +591,8 @@
             </imkl:imklId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47Z</imkl:beginLifespanVersion>
             <imkl:referenceSurface>
-                <imkl:referenceSurfaceType xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
+                <imkl:referenceSurfaceType
+                    xlink:href="https://vocab.belgif.be/auth/IMKL-ReferenceSurfaceTypeValue/surfaceLevel" />
                 <imkl:verticalPosition srsName="http://spatialreference.org/ref/epsg/5710/"
                     srsDimension="1">22.02</imkl:verticalPosition>
                 <imkl:verticalPositionSurvey>
@@ -559,14 +608,17 @@
                 <imkl:date>2001-12-17T09:30:47Z</imkl:date>
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:verticalPositionSurvey>
-            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
+            <imkl:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/thermalcom-be:001" />
             <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/thermalcom-be:M0001" />
         </imkl:DepthDetail>
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ThermalPipe/thermalcom-be:001" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ThermalPipe/thermalcom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ThermalPipe/thermalcom-be:001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ThermalPipe/thermalcom-be:002" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/thermalcom-be:001" />
             <net:elements
@@ -575,10 +627,14 @@
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/thermalcom-be:003" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:001:v2" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:002" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:003" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:004" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/thermalcom-be:M0001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:003" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/thermalcom-be:004" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/thermalcom-be:M0001" />
             <us-net-common:utilityNetworkType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/thermal" />
             <us-net-common:authorityRole>
@@ -613,9 +669,12 @@
                 <imkl:phone>text</imkl:phone>
                 <imkl:email>text</imkl:email>
             </imkl:authorityRole>
-            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/CoverageDetail/thermalcom-be:CD001" />
-            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
-            <imkl:verticalPositionDetail xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD003" />
+            <imkl:verticalPositionDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/CoverageDetail/thermalcom-be:CD001" />
+            <imkl:verticalPositionDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD002" />
+            <imkl:verticalPositionDetail
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/thermalcom-be:DD003" />
             <imkl:standardCoverageDetail
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/StandardCoverageDetail/thermalcom-be:DD001" />
         </imkl:UtilityNetwork>

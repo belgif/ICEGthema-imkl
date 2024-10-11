@@ -347,6 +347,21 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
             <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
@@ -400,6 +415,21 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
             <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />

@@ -27,7 +27,8 @@
                 </base:Identifier>
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
-            <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
+            <net:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/telecom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_c162014f-5554-47f2-9973-a9bb8bbec7ed"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -44,7 +45,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -95,7 +97,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -146,7 +149,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -197,7 +201,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -320,7 +325,8 @@
                 xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -336,8 +342,22 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -369,7 +389,8 @@
                 xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -385,8 +406,22 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:technicalSpecification>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Example</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Voorbeeld</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#fr">Exemple</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:technicalSpecification>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -414,7 +449,8 @@
                 </base:Identifier>
             </us-net-common:inspireId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -440,8 +476,10 @@
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:001" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/telecom-be:002" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:001" />
             <net:elements
@@ -450,9 +488,12 @@
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/telecom-be:003" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:001:v2" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:002" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:003" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:004" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:003" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/telecom-be:004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/telecom-be:M0001" />
             <us-net-common:utilityNetworkType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/telecommunications" />
