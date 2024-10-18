@@ -35,12 +35,12 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme xlink:href="https://vocab.belgif.be/auth/IMKL-SewerSubthemeValue/sewageWasteWaterPressurePipe" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -85,7 +85,7 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -136,12 +136,12 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-SewerSubthemeValue/sewageWasteWaterPressurePipe" />
@@ -187,12 +187,12 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-SewerSubthemeValue/sewageWasteWaterPressurePipe" />
@@ -240,7 +240,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -266,7 +266,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -292,7 +292,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -317,7 +317,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -343,7 +343,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -361,17 +361,17 @@
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/sewercom-be:001" />
             <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/sewercom-be:001" />
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-sw:sewerWaterType
-                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
@@ -412,17 +412,17 @@
             <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/sewercom-be:002" />
             <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/sewercom-be:003" />
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-sw:sewerWaterType
-                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
@@ -474,17 +474,17 @@
             <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/sewercom-be:001" />
             <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/sewercom-be:005" />
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-sw:sewerWaterType
-                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
@@ -535,13 +535,13 @@
             <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/sewercom-be:001" />
             <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/sewercom-be:004" />
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection" />
             <us-net-common:warningType
-                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:ductWidth uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:ductWidth>
             <us-net-common:pipes xlink:href="https://vocab.belgif.be/ns/imkl/3.0/SewerPipe/sewercom-be:001" />
             <us-net-common:pipes xlink:href="https://vocab.belgif.be/ns/imkl/3.0/SewerPipe/sewercom-be:004" />
@@ -588,7 +588,7 @@
     <gml:featureMember>
         <imkl:Manhole gml:id="ID_8eccae00-a0d4-46cb-b47c-d02b9313133f">
             <us-net-common:currentStatus
-                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -645,7 +645,7 @@
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/sewercom-be:004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/sewercom-be:M0001" />
             <us-net-common:utilityNetworkType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/sewer" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/sewer" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>

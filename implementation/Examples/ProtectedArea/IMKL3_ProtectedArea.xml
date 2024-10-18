@@ -19,7 +19,7 @@
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
             <us-net-common:utilityNetworkType
-                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
