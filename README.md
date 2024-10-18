@@ -1,16 +1,15 @@
 __ICEG thema repository for the thematic traject "Cables and Pipes".__
 
-This GitHub has two main branches:
+This GitHub has two branches:
 
- - _Standaardenregister_ contains documentation on the process of the IMKL 3.0 update (presentations, meeting reports, recordings)
- - _Implementation_ contains source information for publication of the online specification (semantic model) and the implementation model (i.e. codelists). It is actually the backend for publication towards the frontend.
+  - The _main_ branch contains source information for publication of the online specification (semantic model) and the implementation model (i.e. codelists). It is actually the backend for publication towards the frontend.
+  - The _standaardenregister_ branch contains documentation on the process of the IMKL 3.0 update (presentations, meeting reports, recordings)
 
-![image](https://github.com/user-attachments/assets/3936cfdb-b323-4353-9ad2-649ccfaa1f2d)
 
-In this read-me section, we will give some guidance on the content of the _"implementation branch"_
+In this read-me section, we will give some guidance on the content of the _"main branch"_
 
  - __Config__: configuration of the key parameters to render the semantic datamodel. Based on this configuration the publication of the online specification is made. (https://belgif.github.io/thematic/models/cable-pipe/)
- - __Implementation__: contains all information on the implementation model (codelists etc.). This is the source for publication of the codelists (https://vocab.belgif.be/auth?lang=en) and de XSD-model (https://vocab.belgif.be/ns?lang=en)
+ - __Implementation__: contains all information on the implementation model (the IMKL 3 XSD, documentation, codelists etc.). This is the source for publication of the codelists (https://vocab.belgif.be/auth?lang=en) and the XSD-model (https://vocab.belgif.be/ns?lang=en)
  - __Resources__: contains general information (background information, data examples,...)
  - __Site skeleton__: this direction contains the additional information supporting the online specification of the semantic datamodel (Html publication). For instance the images to be used.
  - __Templates__: context setting (textual information) for the online specification of the semantic datamodel
