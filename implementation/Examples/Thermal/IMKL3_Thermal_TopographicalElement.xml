@@ -481,7 +481,7 @@
         </imkl:Manhole>
     </gml:featureMember>
     <gml:featureMember>
-        <imkl:TopographicalEement gml:id="ID_1">
+        <imkl:TopographicalElement gml:id="ID_1">
             <imkl:imklId>
                 <base:Identifier>
                     <base:localId>TE001</base:localId>
@@ -502,10 +502,10 @@
                     </gml:exterior>
                 </gml:Polygon>
             </imkl:location>
-        </imkl:TopographicalEement>
+        </imkl:TopographicalElement>
     </gml:featureMember>
     <gml:featureMember>
-        <imkl:TopographicalEement gml:id="ID_2">
+        <imkl:TopographicalElement gml:id="ID_2">
             <imkl:imklId>
                 <base:Identifier>
                     <base:localId>TE002</base:localId>
@@ -520,10 +520,10 @@
                         692117.9972639577 603724.9594412456 692095.2213020958</gml:posList>
                 </gml:LineString>
             </imkl:location>
-        </imkl:TopographicalEement>
+        </imkl:TopographicalElement>
     </gml:featureMember>
     <gml:featureMember>
-        <imkl:TopographicalEement gml:id="ID_3">
+        <imkl:TopographicalElement gml:id="ID_3">
             <imkl:imklId>
                 <base:Identifier>
                     <base:localId>TE003</base:localId>
@@ -537,7 +537,7 @@
                     <gml:pos>603583.2193387173 692172.0795205133</gml:pos>
                 </gml:Point>
             </imkl:location>
-        </imkl:TopographicalEement>
+        </imkl:TopographicalElement>
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
