@@ -1,0 +1,105 @@
+<gml:FeatureCollection
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:act-core="http://inspire.ec.europa.eu/schemas/act-core/4.0"
+    xmlns:us-net-common="http://inspire.ec.europa.eu/schemas/us-net-common/4.0"
+    xmlns:us-net-el="http://inspire.ec.europa.eu/schemas/us-net-el/4.0"
+    xmlns:us-net-tc="http://inspire.ec.europa.eu/schemas/us-net-tc/4.0"
+    xmlns:us-net-ogc="http://inspire.ec.europa.eu/schemas/us-net-ogc/4.0"
+    xmlns:us-net-sw="http://inspire.ec.europa.eu/schemas/us-net-sw/4.0"
+    xmlns:us-net-wa="http://inspire.ec.europa.eu/schemas/us-net-wa/4.0"
+    xmlns:us-net-th="http://inspire.ec.europa.eu/schemas/us-net-th/4.0"
+    xmlns:net="http://inspire.ec.europa.eu/schemas/net/4.0"
+    xmlns:base="http://inspire.ec.europa.eu/schemas/base/3.3"
+    xmlns:base2="http://inspire.ec.europa.eu/schemas/base2/2.0"
+    xmlns:imkl="https://vocab.belgif.be/ns/imkl/3.0"
+    xsi:schemaLocation="https://vocab.belgif.be/ns/imkl/3.0 https://vocab.belgif.be/ns/imkl/3.0/imkl_3_0.xsd"
+    xmlns:gml="http://www.opengis.net/gml/3.2"
+    xmlns:gmd="http://www.isotc211.org/2005/gmd">
+    <gml:featureMember>
+        <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
+            <us-net-common:utilityNetworkType
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical" />
+            <us-net-common:authorityRole>
+                <base2:RelatedParty />
+            </us-net-common:authorityRole>
+            <us-net-common:disclaimer>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">If a utility network operator has
+                            a disclaimer that applies to the entire utility network, it can be
+                            posted here. All data in this sample package is fictitious, any
+                            resemblance to existing situations is purely coincidental.</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt voor heel het utility network dan kan die hier geplaatst
+                            worden. Alle data in dit voorbeeldpakket zijn fictief, elke gelijkenis
+                            met bestaande situaties is puur toeval.</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </us-net-common:disclaimer>
+            <imkl:imklId>
+                <base:Identifier>
+                    <base:localId>001</base:localId>
+                    <base:namespace>gascom-be</base:namespace>
+                </base:Identifier>
+            </imkl:imklId>
+            <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
+            <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
+            <imkl:authorityRole>
+                <imkl:name>text</imkl:name>
+                <imkl:phone>text</imkl:phone>
+                <imkl:email>text</imkl:email>
+            </imkl:authorityRole>
+            <imkl:protectedArea xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ProtectedArea/gascom-be:PA001" />
+        </imkl:UtilityNetwork>
+    </gml:featureMember>
+    <gml:featureMember>
+        <imkl:ProtectedArea gml:id="ID_1">
+            <imkl:imklId>
+                <base:Identifier>
+                    <base:localId>PA001</base:localId>
+                    <base:namespace>gascom-be</base:namespace>
+                </base:Identifier>
+            </imkl:imklId>
+            <imkl:beginLifespanVersion>2017-01-24T09:30:47.0Z</imkl:beginLifespanVersion>
+            <imkl:endLifespanVersion>2017-12-31T09:30:47.0Z</imkl:endLifespanVersion>
+            <imkl:name>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Underground gas storage</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Ondergrondse gasopslag</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:name>
+            <imkl:description>
+                <gmd:PT_FreeText>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#en">Underground gas storage</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                    <gmd:textGroup>
+                        <gmd:LocalisedCharacterString locale="#nl">Ondergrondse gasopslag</gmd:LocalisedCharacterString>
+                    </gmd:textGroup>
+                </gmd:PT_FreeText>
+            </imkl:description>
+            <imkl:protectedAreaType xlink:href="https://vocab.belgif.be/auth/IMKL-ProtectedAreaTypeValue/undergroundGasStorage" />
+            <imkl:geometry>
+                <gml:Polygon gml:id="ID_1485"
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
+                    <gml:exterior>
+                        <gml:LinearRing>
+                            <gml:posList>603578.2727702475 692231.2300771913 603587.2849440204
+                                692133.231740172 603712.2997119421 692011.2477402277
+                                603898.2887734602 692094.2699578861 603823.2672600242
+                                692269.2598090982 603578.2727702475 692231.2300771913</gml:posList>
+                        </gml:LinearRing>
+                    </gml:exterior>
+                </gml:Polygon>
+            </imkl:geometry>
+            <imkl:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
+        </imkl:ProtectedArea>
+    </gml:featureMember>
+</gml:FeatureCollection>

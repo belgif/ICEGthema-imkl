@@ -1,0 +1,98 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-SewerAppurtenanceTypeIMKLValue"@en;
+  dcterms:description "Classification of sewer appurtenances."@en;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2024-10-02"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en .
+
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/cathodicProtectionInstallation> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "cathodicProtectionInstallation";
+  skos:prefLabel "cathodicProtectionInstallation"@en;
+  dcterms:description """Installation of cathodic protection."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/cathodicProtectionMeasurementPoint> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "cathodicProtectionMeasurementPoint";
+  skos:prefLabel "cathodicProtectionMeasurementPoint"@en;
+  dcterms:description """Cathodic protection measurement point."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/deliveryPoint> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "deliveryPoint";
+  skos:prefLabel "deliveryPoint"@en;
+  dcterms:description """Delivery point."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/effluent> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "effluent";
+  skos:prefLabel "effluent"@en;
+  dcterms:description """Effluent from a treatment plant."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/infiltrationStructure> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "infiltrationStructure";
+  skos:prefLabel "infiltrationStructure"@en;
+  dcterms:description """Structure for the infiltration of water."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/inlet> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "inlet";
+  skos:prefLabel "inlet"@en;
+  dcterms:description """Inlet."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/measurementPoint> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "measurementPoint";
+  skos:prefLabel "measurementPoint"@en;
+  dcterms:description """Measurement point."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/other> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "other";
+  skos:prefLabel "other"@en;
+  dcterms:description """Other."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/overflow> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "overflow";
+  skos:prefLabel "overflow"@en;
+  dcterms:description """Overflow."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue/treatmentSystem> a skos:Concept;
+  skos:inScheme <https://vocab.belgif.be/auth/IMKL-SewerAppurtenanceTypeIMKLValue>;
+  skos:notation "treatmentSystem";
+  skos:prefLabel "treatmentSystem"@en;
+  dcterms:description """Treatment system or plant."""@en;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
