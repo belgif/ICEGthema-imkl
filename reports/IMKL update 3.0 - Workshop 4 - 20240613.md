@@ -11,7 +11,7 @@ In deze vierde werkgroep gingen we in overleg rond een aantal specifieke onderwe
 **Met deze mail ontvang je:**
 
 - [een link om de opname te downloaden](https://we.tl/t-3emlLuzaU1)
-- de slides van de werkgroep van 13/06/2024
+- [de slides van de werkgroep van 13/06/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%204%20-%2020240613.pdf)
 
 **Next steps**
 
@@ -48,7 +48,7 @@ Au cours de cette quatrième session de travail, nous avons discuté de plusieur
 **Avec cet e-mail, vous recevrez :**
 
 - [un lien pour télécharger l'enregistrement](https://we.tl/t-3emlLuzaU1)
-- les diapositives de la session de travail du 13/06/2024
+- [les diapositives de la session de travail du 13/06/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%204%20-%2020240613.pdf)
 
 **Prochaines étapes**
 

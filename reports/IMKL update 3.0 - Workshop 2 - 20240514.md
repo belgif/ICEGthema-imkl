@@ -16,7 +16,7 @@ In deze tweede werkgroep zoomden we in op het onderwerp ‘Geometrie’. We beke
 **Met deze mail ontvang je:**
 
 - [een link om de opname te downloaden](https://we.tl/t-V1720Rvybh)
-- de slides van de werkgroep van 14/5/2024
+- [de slides van de werkgroep van 14/5/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%202%20-%2020240514.pdf)
 - de excel met codelijsten **→ in te vullen tegen 17/5/2024**
 
 
@@ -65,7 +65,7 @@ Lors de ce deuxième groupe de travail, nous avons examiné le sujet de la « G�
 **Dans cet e-mail, vous trouverez :**
 
 - [Un lien pour télécharger l'enregistrement](https://we.tl/t-V1720Rvybh)
-- Les diapositives du groupe de travail du 14/5/2024
+- [Les diapositives du groupe de travail du 14/5/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%202%20-%2020240514.pdf)
 - L'Excel avec les listes de codes → à remplir avant le 17/5/2024
 
 **Prochaines étapes :**

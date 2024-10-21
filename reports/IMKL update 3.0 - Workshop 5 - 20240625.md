@@ -17,7 +17,7 @@ Voor deze onderwerpen zullen we een voorstel uitwerken en dit toelichten tijdens
 **Met deze mail ontvang je:**
 
 - [een link om de opname te downloaden](https://we.tl/t-7OtChUxxtc)
-- de slides van de werkgroep van 25/06/2024
+- [de slides van de werkgroep van 25/06/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%205%20-%2020240625.pdf)
 
 **Next steps**
 
@@ -57,7 +57,7 @@ Nous élaborerons une proposition sur ces sujets et l'expliquerons lors du proch
 
 **Avec cet e-mail, vous recevrez**
 - [un lien pour télécharger l'enregistrement](https://we.tl/t-7OtChUxxtc)
-- les slides du groupe de travail du 25/06/2024
+- [les slides du groupe de travail du 25/06/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%205%20-%2020240625.pdf)
 
 **Prochaines étapes**
 

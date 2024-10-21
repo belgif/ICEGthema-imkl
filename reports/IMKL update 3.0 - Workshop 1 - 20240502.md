@@ -10,7 +10,7 @@ In deze eerste werkgroep werd een contextschets gegeven van KLIP, IMKL en waarom
 **Met deze mail ontvang je:**
 
 - [een link om de opname te downloaden](https://we.tl/t-L61i4F93yw)
-- de slides van de werkgroep van 2/5/2024
+- [de slides van de werkgroep van 2/5/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%201%20-%2020240502.pdf)
 - de besproken excel met codelijsten **→ in te vullen tegen 17/5/2024**
 
 **Next steps**
@@ -50,7 +50,7 @@ Lors de ce premier groupe de travail, une présentation du contexte de KLIP, IMK
 
 **Avec ce courriel, vous recevez :**
 - [un lien pour télécharger l'enregistrement](https://we.tl/t-L61i4F93yw)
-- les slides du groupe de travail du 2/5/2024
+- [les slides du groupe de travail du 2/5/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%201%20-%2020240502.pdf)
 - le fichier Excel discuté avec les listes de codes **→ à remplir d'ici le 17/5/2024**
 
 **Prochaines étapes**

@@ -17,7 +17,7 @@ Verder kwamen de volgende onderwerpen aan bod:
 
 **Met deze mail ontvang je:**
 - [een link om de opname te downloaden](https://we.tl/t-jrp2RXYh3B)
-- de slides van de werkgroep van 12/09/2024
+- [de slides van de werkgroep van 12/09/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%206%20-%2020240912.pdf)
 
 **Next steps**
 
@@ -65,8 +65,8 @@ Les sujets suivants ont également été abordés :
 - La méthode préférée pour inclure directional drillings dans l'IMKL 3 est le champ constructionTechnique. Il a été souligné que ce champ est facultatif : il peut être complètement omis, il peut être ajouté avec une raison nulle (nilReason) ou il peut être ajouté avec l'une des valeurs de la liste de codes associée. Dans le cas d'un forage dirigé, il est toutefois recommandé de l'indiquer via la technique de construction appropriée.
 
 **Avec cet e-mail, vous recevrez :**
-- un lien pour télécharger l'enregistrement
-- les diapositives de la session de travail du 12/09/2024
+- [un lien pour télécharger l'enregistrement](https://we.tl/t-jrp2RXYh3B)
+- [les diapositives de la session de travail du 12/09/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%206%20-%2020240912.pdf)
 
 **Prochaines étapes**
 

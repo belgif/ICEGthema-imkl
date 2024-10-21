@@ -10,7 +10,7 @@ In deze derde werkgroep werkten we nog een aantal openstaande vragen rond ‘Geo
 
 **Met deze mail ontvang je:**
 - [een link om de opname te downloaden](https://digitaalvlaanderen.wetransfer.com/downloads/f468fc6222988e718605a368b665d79220240531143817/36bd82)
-- de slides van de werkgroep van 30/05/2024
+- [de slides van de werkgroep van 30/05/2024](https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%203%20-%2020240530.pdf)
 
 **Next steps**
 
@@ -65,7 +65,7 @@ Lors de cette troisième séance, nous avons traité quelques questions en suspe
 **Dans cet e-mail, vous trouverez :**
 
 - [Un lien pour télécharger l'enregistrement](https://digitaalvlaanderen.wetransfer.com/downloads/f468fc6222988e718605a368b665d79220240531143817/36bd82)
-- Les diapositives du groupe de travail du 30/5/2024
+- [Les diapositives du groupe de travail du 30/5/2024]((https://github.com/belgif/ICEGthema-imkl/blob/16938368f7f38401733be349ad9208f3c0768ad4/presentations/IMKL%20update%203.0%20-%20Werkgroep%203%20-%2020240530.pdf))
 
 **Prochaines étapes :**
 
