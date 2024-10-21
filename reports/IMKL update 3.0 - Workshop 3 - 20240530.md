@@ -1,6 +1,6 @@
 # Verslag 3de werkgroep IMKL implementatiemodel / Resumé 3ième groupe de travail modèle d’implementation IMKL
 
-_Version française ci-dessous
+_Version française ci-dessous_
 
 Goedemiddag
 
