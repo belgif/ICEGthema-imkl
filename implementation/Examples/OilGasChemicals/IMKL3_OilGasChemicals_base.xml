@@ -326,7 +326,7 @@
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
-                xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsProductTypeIMKLValue//naturalGas" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsProductTypeIMKLValue/naturalGas" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -392,7 +392,7 @@
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
-                xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsProductTypeIMKLValue//naturalGas" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsProductTypeIMKLValue/naturalGas" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>

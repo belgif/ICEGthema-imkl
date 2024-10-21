@@ -341,7 +341,7 @@
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValueution" />
+                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
                 xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:pipeDiameter>
