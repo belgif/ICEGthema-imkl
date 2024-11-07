@@ -68,7 +68,7 @@
             </imkl:geometrySurvey>
             <imkl:height uom="urn:ogc:def:uom:OGC::cm">10</imkl:height>
             <imkl:address>
-                <imkl:municiaplityName>
+                <imkl:municipalityName>
                     <gmd:PT_FreeText>
                         <gmd:textGroup>
                             <gmd:LocalisedCharacterString locale="#fr">Gand</gmd:LocalisedCharacterString>
@@ -77,7 +77,7 @@
                             <gmd:LocalisedCharacterString locale="#nl">Gent</gmd:LocalisedCharacterString>
                         </gmd:textGroup>
                     </gmd:PT_FreeText>
-                </imkl:municiaplityName>
+                </imkl:municipalityName>
                 <imkl:streetName>
                     <gmd:PT_FreeText>
                         <gmd:textGroup>
