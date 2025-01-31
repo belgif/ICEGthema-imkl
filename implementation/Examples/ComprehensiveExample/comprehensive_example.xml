@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Note: This is just an example. The geometries in this example are not meaningful Lambert 2008 coordinates. -->
+<!-- Note: This is just an example. The geometries in this example are not meaningful Lambert 2008
+coordinates. -->
 <gml:FeatureCollection
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -405,7 +406,7 @@
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/interstroom2:W006" />
             <imkl:location>
                 <gml:Polygon gml:id="ID_d8f3dbf9-1ac5-4bb7-8448-e739ea48daa2"
-                    srsName="http://spatialreference.org/ref/epsg/3812/">
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
                             <gml:posList>252624.636 159660.515 252638.526 159666.944 252645.591
@@ -434,7 +435,7 @@
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <imkl:location>
                 <gml:Polygon gml:id="ID_d8f3dbf9-1ac5-4bb7-84sdqf48-e739ea48daa2"
-                    srsName="http://spatialreference.org/ref/epsg/3812/">
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
                             <gml:posList>252548.17 159600.36 252558.42 159603.11 252592.42 159547.86
@@ -872,7 +873,7 @@
             <act-core:name>Zuiveringstation</act-core:name>
             <act-core:geometry>
                 <gml:Polygon gml:id="ID_d9385e8b-6680-448d-9c34-5aca64fcab0f"
-                    srsName="http://spatialreference.org/ref/epsg/3812/">
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
                             <gml:posList>252557.41 159414.43 252564.472 159422.496 252558.598
@@ -1036,7 +1037,7 @@
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
             <imkl:location>
                 <gml:Polygon gml:id="ID_1891a479-cf92-468e-b71a-ea5862add5b0"
-                    srsName="http://spatialreference.org/ref/epsg/3812/">
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
                             <gml:posList>252431.4 159460.365 252437.486 159465.525 252446.085
@@ -4223,7 +4224,7 @@
             </act-core:name>
             <act-core:geometry>
                 <gml:Polygon gml:id="ID_d9385e8b-6680-44sdfg8d-9c34-5aca64fcab0f"
-                    srsName="http://spatialreference.org/ref/epsg/3812/">
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
                             <gml:posList>252674.85 159502.87 252711.35 159500.37 252712.85 159479.87
@@ -10411,7 +10412,7 @@
             <act-core:name>Electriciteitscentrale</act-core:name>
             <act-core:geometry>
                 <gml:Polygon gml:id="ID_d9385e8b-6680-4qsdf48d-9c34-5aca64fcab0f"
-                    srsName="http://spatialreference.org/ref/epsg/3812/">
+                    srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
                             <gml:posList>252469.16 159577.78 252458.29 159596.03 252462.91 159614.28
