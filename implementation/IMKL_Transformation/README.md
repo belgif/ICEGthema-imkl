@@ -4,6 +4,8 @@
 
 This Node.js module provides an XSLT-based transformation to convert IMKL 2.3 XML files into IMKL 3.0 format. It automates most of the conversion process but requires some manual adjustments for specific elements.
 
+The goal of this module is to help with the conversion from IMKL 2.3 to IMKL 3.0; however, it remains the responsibility of the owner of the data to check its correctness.
+
 ## Installation
 
 To use this module, first install the required dependencies:
