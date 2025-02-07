@@ -1,0 +1,22 @@
+{
+  "name": "imkl23_to_imkl3_transformation",
+  "version": "1.0.0",
+  "description": "XSLT to transform IMKL2.3 into IMKL3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niels Gabriels",
+  "license": "ISC",
+  "dependencies": {
+    "xslt3": "^2.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belgif/ICEGthema-imkl.git"
+  },
+  "keywords": [
+    "IMKL",
+    "XSLT"
+  ]
+}
