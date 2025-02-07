@@ -49,6 +49,24 @@ This new element in IMKL 3.0 is automatically assigned a default value. The corr
 
 The transformation assumes that all text values in the input XML are in **Dutch**. If they are in another language, you must update the locale accordingly.
 
+### Construction technique
+
+The `constructionTechnique` is a new element in IMKL 3.0. In the output XML it is included (where relevant) with a default value of `unknown`. It is highly recommended to provide the correct value if it is known.
+
+Example:
+
+```XML
+<imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
+```
+
+Whenever a UtilityLinkSet has an ExtraPlan with type `gestuurdeBoring` (in the IMKL 2.3 input), the construction technique of the related UtilityLinkSet (Cable, Pipe or Duct) should be set to `https://vocab.belgif.be/auth/IMKL-ConstructionTechniqueValue/directionalDrilling`.
+
+Example:
+
+```XML
+<imkl:constructionTechnique xlink:href="https://vocab.belgif.be/auth/IMKL-ConstructionTechniqueValue/directionalDrilling" />
+```
+
 ---
 
 For any issues or improvements, please submit a pull request or open an issue in the repository.
