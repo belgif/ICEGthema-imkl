@@ -25421,9 +25421,9 @@
   skos:inScheme <https://vocab.belgif.be/auth/IMKL-ActivityValue>;
   skos:notation "4120102";
   skos:prefLabel "ActivityValue 4120102"@en;
-  skos:prefLabel "Bouw van individuele huizen volgens de formule "sleutel op de deur""@nl;
+  skos:prefLabel "Bouw van individuele huizen volgens de formule 'sleutel op de deur'"@nl;
   dcterms:description """ActivityValue 4120102"""@en;
-  dcterms:description """Bouw van individuele huizen volgens de formule "sleutel op de deur""""@nl;
+  dcterms:description """Bouw van individuele huizen volgens de formule 'sleutel op de deur'"""@nl;
   schemas:startDate "2024-01-01"^^xsd:date;
   schemas:endDate "9999-12-31"^^xsd:date .
   
@@ -25441,9 +25441,9 @@
   skos:inScheme <https://vocab.belgif.be/auth/IMKL-ActivityValue>;
   skos:notation "4120112";
   skos:prefLabel "ActivityValue 4120112"@en;
-  skos:prefLabel "Bouw van appartementen volgens de formule "sleutel op de deur""@nl;
+  skos:prefLabel "Bouw van appartementen volgens de formule 'sleutel op de deur'"@nl;
   dcterms:description """ActivityValue 4120112"""@en;
-  dcterms:description """Bouw van appartementen volgens de formule "sleutel op de deur""""@nl;
+  dcterms:description """Bouw van appartementen volgens de formule 'sleutel op de deur'"""@nl;
   schemas:startDate "2024-01-01"^^xsd:date;
   schemas:endDate "9999-12-31"^^xsd:date .
   
