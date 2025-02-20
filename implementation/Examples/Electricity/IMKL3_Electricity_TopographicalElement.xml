@@ -27,7 +27,8 @@
                 </base:Identifier>
             </net:inspireId>
             <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
-            <net:inNetwork xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
+            <net:inNetwork
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
             <net:geometry>
                 <gml:Point gml:id="ID_c162014f-5554-47f2-9973-a9bb8bbec7ed"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -35,15 +36,17 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
-            <imkl:subtheme xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:subtheme
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -85,7 +88,7 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -94,7 +97,8 @@
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -136,16 +140,17 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -187,16 +192,17 @@
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransport" />
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -240,7 +246,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -266,7 +272,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -292,7 +298,7 @@
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -308,18 +314,20 @@
             </net:inspireId>
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
-            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:001" />
+            <net:link
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:001" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -335,7 +343,8 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
             <imkl:technicalSpecification>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
@@ -349,7 +358,7 @@
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
             </imkl:technicalSpecification>
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -369,19 +378,22 @@
             </net:inspireId>
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/electricitycom-be:001" />
-            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:002" />
-            <net:link xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:003" />
+            <net:link
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:002" />
+            <net:link
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:003" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -397,7 +409,8 @@
                     </gmd:PT_FreeText>
                 </imkl:colour>
             </imkl:appearance>
-            <imkl:materialType xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
+            <imkl:materialType
+                xlink:href="https://vocab.belgif.be/auth/IMKL-MaterialTypeValue/other" />
             <imkl:technicalSpecification>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
@@ -411,7 +424,7 @@
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
             </imkl:technicalSpecification>
-            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true"/>
+            <imkl:constructionTechnique nilReason="unknown" xsi:nil="true" />
             <imkl:locationSurvey>
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
@@ -423,7 +436,7 @@
     <gml:featureMember>
         <imkl:Manhole gml:id="ID_8eccae00-a0d4-46cb-b47c-d02b9313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -439,7 +452,8 @@
                 </base:Identifier>
             </us-net-common:inspireId>
             <imkl:beginLifespanVersion>2001-12-17T09:30:47.0Z</imkl:beginLifespanVersion>
-            <imkl:visibility xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
+            <imkl:visibility
+                xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
                 <imkl:colour>
                     <gmd:PT_FreeText>
@@ -524,18 +538,28 @@
     </gml:featureMember>
     <gml:featureMember>
         <imkl:UtilityNetwork gml:id="ID_230dbcf3-4fbd-4118-9f57-b2f370f04107">
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:001" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:002" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:001" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:002" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:003" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:001:v2" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:002" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:003" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:004" />
-            <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/electricitycom-be:M0001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/electricitycom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:001" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/electricitycom-be:003" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:001:v2" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:002" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:003" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/electricitycom-be:004" />
+            <net:elements
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/electricitycom-be:M0001" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/electricity" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/electricity" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>

@@ -33,15 +33,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U001" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -75,7 +75,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -95,15 +95,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U002" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -134,7 +134,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -154,15 +154,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U003" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -195,7 +195,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -215,17 +215,17 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom2:AC001" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -267,7 +267,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -287,15 +287,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U005" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -345,7 +345,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -365,15 +365,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U006" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -476,7 +476,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -496,15 +496,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U007" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -535,7 +535,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -561,7 +561,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -581,15 +581,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U008" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType nilReason="unknown" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:locationSurvey>
@@ -620,7 +620,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -645,12 +645,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
@@ -700,7 +700,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -770,12 +770,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-WaterSubthemeValue/drinkingWaterSupply" />
@@ -983,7 +983,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Manhole gml:id="ID_8eccae00-a0d4-46cb-b47c-d02b9313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -1149,13 +1149,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom2:U009" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:ductWidth uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:ductWidth>
             <us-net-common:pipes xsi:nil="true"
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/interstroom2:W007" />
@@ -1205,7 +1205,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1257,7 +1257,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1309,7 +1309,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1361,7 +1361,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1413,7 +1413,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1465,7 +1465,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1517,7 +1517,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1569,7 +1569,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -1663,7 +1663,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom2:A012" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Duct/interstroom2:D001" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/water" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/water" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
@@ -1770,7 +1770,7 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom6:A013" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/sewer" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/sewer" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
@@ -1813,16 +1813,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U001" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -1862,18 +1862,18 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U002" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom2:AC001" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -1913,16 +1913,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U003" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -1962,16 +1962,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -2011,16 +2011,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U005" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -2060,16 +2060,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U006" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -2109,16 +2109,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U007" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -2158,16 +2158,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U008" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
             <imkl:appearance>
@@ -2219,7 +2219,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2260,7 +2260,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2294,7 +2294,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2322,7 +2322,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2349,7 +2349,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2391,7 +2391,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2419,7 +2419,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2446,7 +2446,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -2471,7 +2471,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2523,7 +2523,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2576,7 +2576,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2629,7 +2629,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2682,7 +2682,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2735,7 +2735,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2788,7 +2788,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2841,7 +2841,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2894,7 +2894,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -2947,7 +2947,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3000,7 +3000,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3053,7 +3053,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3124,7 +3124,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Manhole gml:id="ID_8eccae00-a0d4-46cb-b47c-d0sfqdf2b9313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -3186,13 +3186,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:UL020" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">5</us-net-common:pipeDiameter>
             <us-net-common:pipes
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/interstroom2:W002" />
@@ -3238,16 +3238,16 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom6:U009" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">60</us-net-common:pipeDiameter>
             <us-net-sw:sewerWaterType
-                xlink:href="https://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary" />
 
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/notVisibleAboveGround" />
@@ -3294,7 +3294,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -3320,7 +3320,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -3357,7 +3357,7 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom7:A010" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/thermal" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/thermal" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
@@ -3402,13 +3402,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom7:U001" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-th:thermalProductType
@@ -3452,13 +3452,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom7:U002" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">3.5</us-net-common:pressure>
             <us-net-th:thermalProductType
@@ -3510,7 +3510,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -3538,7 +3538,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
@@ -3563,7 +3563,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3616,7 +3616,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3669,7 +3669,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3721,7 +3721,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3774,7 +3774,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3827,7 +3827,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3880,7 +3880,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -3933,7 +3933,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4013,7 +4013,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4066,7 +4066,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4180,7 +4180,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom3:028" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/interstroom3:M001" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
@@ -4259,13 +4259,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom3:001" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">10</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
@@ -4310,15 +4310,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom3:002" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom2:AC001" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
@@ -4363,13 +4363,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom3:004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
@@ -4414,13 +4414,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom3:004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
@@ -4465,13 +4465,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom3:005" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
@@ -4516,13 +4516,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom3:006" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">8</us-net-common:pipeDiameter>
             <us-net-common:pressure uom="urn:ogc:def:uom:OGC::bar">2</us-net-common:pressure>
             <us-net-ogc:oilGasChemicalsProductType
@@ -4582,7 +4582,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -4624,7 +4624,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -4665,7 +4665,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -4692,7 +4692,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -4719,7 +4719,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -4743,7 +4743,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4796,7 +4796,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4849,7 +4849,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4902,7 +4902,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -4955,7 +4955,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5008,7 +5008,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5061,7 +5061,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5113,12 +5113,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/marker" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/marker" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -5165,12 +5165,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -5217,12 +5217,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -5269,12 +5269,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -5321,12 +5321,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -5373,12 +5373,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -5425,7 +5425,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5477,7 +5477,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5529,7 +5529,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5581,7 +5581,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5633,7 +5633,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5685,7 +5685,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5737,7 +5737,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5789,7 +5789,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5841,7 +5841,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5893,7 +5893,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5945,7 +5945,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -5997,7 +5997,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -6049,7 +6049,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -6101,12 +6101,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-OilGasChemicalsSubthemeValue/naturalGasTransport" />
@@ -6137,7 +6137,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Manhole gml:id="ID_8eccae00-a0ddg4-46cb-b47c-d02b9313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -6279,7 +6279,7 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom4:62" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/electricity" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/electricity" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
@@ -6445,12 +6445,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6497,12 +6497,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6550,12 +6550,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6602,12 +6602,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6655,12 +6655,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6707,12 +6707,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6759,12 +6759,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6811,12 +6811,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6863,12 +6863,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6916,12 +6916,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -6968,12 +6968,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7020,12 +7020,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7072,12 +7072,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7124,12 +7124,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7176,12 +7176,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7228,12 +7228,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7281,12 +7281,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7333,12 +7333,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7385,12 +7385,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7437,12 +7437,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7489,12 +7489,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7541,12 +7541,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7593,12 +7593,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7645,12 +7645,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7697,12 +7697,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7749,12 +7749,12 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
             <us-net-common:appurtenanceType
-                xlink:href="https://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
@@ -7829,7 +7829,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -7882,7 +7882,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -7934,7 +7934,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -7988,7 +7988,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -8040,7 +8040,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -8092,7 +8092,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -8144,7 +8144,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -8206,7 +8206,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8225,13 +8225,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:003" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -8298,7 +8298,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8317,13 +8317,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -8379,7 +8379,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8398,13 +8398,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:005" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -8475,7 +8475,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8494,13 +8494,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:006" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -8557,7 +8557,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8576,13 +8576,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom5:003" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility
@@ -8649,7 +8649,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8668,13 +8668,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom5:004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility
@@ -8730,7 +8730,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8749,13 +8749,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom5:005" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility
@@ -8826,7 +8826,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -8845,13 +8845,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom5:006" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility
@@ -8944,7 +8944,7 @@ coordinates. -->
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pole/interstroom5:P001" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pole/interstroom5:P002" />
             <us-net-common:utilityNetworkType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/telecommunications" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/telecommunications" />
             <us-net-common:authorityRole>
                 <base2:RelatedParty />
             </us-net-common:authorityRole>
@@ -8992,7 +8992,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9044,7 +9044,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9096,7 +9096,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9148,7 +9148,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9200,7 +9200,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9252,7 +9252,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9304,7 +9304,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9356,7 +9356,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9408,7 +9408,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9460,7 +9460,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9512,7 +9512,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9564,7 +9564,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9616,7 +9616,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9668,7 +9668,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9720,7 +9720,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9772,7 +9772,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9824,7 +9824,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9876,7 +9876,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -9928,7 +9928,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -10018,15 +10018,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:UL001" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom2:AC001" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">5</us-net-common:pipeDiameter>
             <us-net-common:cables
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/interstroom4:003" />
@@ -10071,13 +10071,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:UL002" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">5</us-net-common:pipeDiameter>
             <us-net-common:cables
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/interstroom4:004" />
@@ -10122,13 +10122,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:UL003" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">5</us-net-common:pipeDiameter>
             <us-net-common:cables
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/interstroom4:005" />
@@ -10173,13 +10173,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:UL004" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::cm">5</us-net-common:pipeDiameter>
             <us-net-common:cables
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/interstroom4:006" />
@@ -10239,7 +10239,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10283,7 +10283,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10316,7 +10316,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10364,7 +10364,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10464,7 +10464,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10483,15 +10483,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:008" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom4:AC002" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -10540,7 +10540,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10559,15 +10559,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:009" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom4:AC002" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -10616,7 +10616,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
         </us-net-common:UtilityLink>
@@ -10635,15 +10635,15 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom4:010" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityFacilityReference
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom4:AC002" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-el:operatingVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:operatingVoltage>
             <us-net-el:nominalVoltage uom="urn:ogc:def:uom:OGC::V">220</us-net-el:nominalVoltage>
             <imkl:visibility
@@ -10674,7 +10674,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Tower gml:id="ID_8eccae00-a0d4-46cb-b47c-d02b9dsfg313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -10719,7 +10719,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Cabinet gml:id="ID_8eccae00-a0d4-46cb-b47c-d02b9sdfqdsfg313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:utilityFacilityReference
@@ -10765,7 +10765,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Cabinet gml:id="ID_8eccae00-a0d4-46cb-bfff47c-d02b9sdfqdsfg313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -10829,7 +10829,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -10881,7 +10881,7 @@ coordinates. -->
                 </gml:Point>
             </net:geometry>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
@@ -10917,7 +10917,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Pole gml:id="ID_8eccae00-a0d4-46cb-bfff47c-d02bsqdf9sdfqdsfg313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -10962,7 +10962,7 @@ coordinates. -->
     <gml:featureMember>
         <imkl:Pole gml:id="ID_8eccae00-a0d4-46cb-bfff47c-d02sqdfb9sdfqdsfg313133f">
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:verticalPosition nilReason="missing" xsi:nil="true" />
             <us-net-common:geometry>
@@ -11018,13 +11018,13 @@ coordinates. -->
             <net:link
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityLink/interstroom5:U024" />
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:verticalPosition nilReason="inapplicable" xsi:nil="true" />
             <us-net-common:utilityDeliveryType
-                xlink:href="https://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
             <us-net-common:warningType
-                xlink:href="https://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/WarningTypeValue/net" />
             <us-net-tc:telecommunicationsCableMaterialType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsCableMaterialTypeIMKLValue/coaxial" />
             <imkl:visibility
@@ -11073,7 +11073,7 @@ coordinates. -->
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
             <us-net-common:currentStatus
-                xlink:href="https://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
+                xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
             <us-net-common:validTo>2001-12-17T09:30:47.0Z</us-net-common:validTo>
             <us-net-common:verticalPosition>onGroundSurface</us-net-common:verticalPosition>
