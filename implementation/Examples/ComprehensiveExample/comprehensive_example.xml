@@ -6453,7 +6453,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6505,7 +6505,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
 
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
@@ -6558,7 +6558,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6610,7 +6610,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
 
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
@@ -6663,7 +6663,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6715,7 +6715,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6767,7 +6767,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6819,7 +6819,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6871,7 +6871,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
 
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
@@ -6924,7 +6924,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -6976,7 +6976,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7028,7 +7028,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7080,7 +7080,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7132,7 +7132,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7184,7 +7184,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7236,7 +7236,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
 
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
@@ -7289,7 +7289,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7341,7 +7341,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7393,7 +7393,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/deliveryPoint" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7445,7 +7445,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7497,7 +7497,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7549,7 +7549,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7601,7 +7601,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7653,7 +7653,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7705,7 +7705,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7757,7 +7757,7 @@ coordinates. -->
                 xlink:href="http://inspire.ec.europa.eu/codelist/ElectricityAppurtenanceTypeValue/streetLight" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7837,7 +7837,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/grounding" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
 
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
@@ -7890,7 +7890,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/grounding" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7944,7 +7944,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/grounding" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -7996,7 +7996,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/sleeve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -8048,7 +8048,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/sleeve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -8100,7 +8100,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/sleeve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
@@ -8152,7 +8152,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricityAppurtenanceTypeIMKLValue/sleeve" />
             <imkl:orientation uom="urn:ogc:def:uom:OGC::deg">3.14159265358979E0</imkl:orientation>
             <imkl:subtheme
-                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportPlaatselijk" />
+                xlink:href="https://vocab.belgif.be/auth/IMKL-ElectricitySubthemeValue/electricityTransportLocal" />
             <imkl:visibility
                 xlink:href="https://vocab.belgif.be/auth/IMKL-VisibilityTypeValue/visibleAboveGround" />
             <imkl:appearance>
