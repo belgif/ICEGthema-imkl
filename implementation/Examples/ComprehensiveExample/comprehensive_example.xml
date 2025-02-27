@@ -31,7 +31,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -93,7 +93,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U002" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -152,7 +152,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -213,7 +213,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -285,7 +285,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U005" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -363,7 +363,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U006" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -494,7 +494,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U007" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U007" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -579,7 +579,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U008" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U008" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>1977-01-01T00:00:01.0Z</us-net-common:validFrom>
@@ -1147,7 +1147,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U009" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U009" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -1621,23 +1621,23 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/interstroom2:W008" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U003" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U004" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U005" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U006" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U007" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U007" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U008" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U008" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom2:U009" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom2:U009" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/interstroom2:M001" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom2:A001" />
@@ -1728,23 +1728,23 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/SewerPipe/interstroom6:S009" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U003" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U004" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U005" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U006" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U007" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U007" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U008" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U008" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U009" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U009" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom6:A001" />
             <net:elements
@@ -1811,7 +1811,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -1860,7 +1860,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U002" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -1911,7 +1911,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -1960,7 +1960,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -2009,7 +2009,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U005" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -2058,7 +2058,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U006" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -2107,7 +2107,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U007" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U007" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -2156,7 +2156,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U008" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U008" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -3092,7 +3092,7 @@ coordinates. -->
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Manhole/interstroom6:M001" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pipe/interstroom6:P001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:UL020" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:UL020" />
             <us-net-common:utilityNetworkType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-UtilityNetworkTypeIMKLValue/crossTheme" />
             <us-net-common:authorityRole>
@@ -3184,7 +3184,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:003" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:UL020" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:UL020" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
@@ -3236,7 +3236,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom6:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom6:U009" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom6:U009" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom>2001-12-17T09:30:47.0Z</us-net-common:validFrom>
@@ -3333,9 +3333,9 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ThermalPipe/interstroom7:002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom7:U001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom7:U001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom7:U002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom7:U002" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom7:A001" />
             <net:elements
@@ -3400,7 +3400,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom7:004" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom7:U001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom7:U001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -3450,7 +3450,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom7:004" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom7:U002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom7:U002" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -4115,15 +4115,15 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/interstroom3:006" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:004" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:005" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:006" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom3:001" />
             <net:elements
@@ -4257,7 +4257,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom3:005" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -4308,7 +4308,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom3:005" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:002" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -4361,7 +4361,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom3:005" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -4412,7 +4412,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom3:005" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -4463,7 +4463,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom3:005" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:005" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -4514,7 +4514,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom3:005" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom3:006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom3:006" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -6195,19 +6195,19 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ElectricityCable/interstroom4:010" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:003" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:004" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:005" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:006" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:008" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:008" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:009" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:009" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:010" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:010" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Tower/interstroom4:T001" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Cabinet/interstroom4:C001" />
             <net:elements
@@ -8223,7 +8223,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -8315,7 +8315,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -8396,7 +8396,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:005" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -8492,7 +8492,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:006" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -8574,7 +8574,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom5:007" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -8666,7 +8666,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom5:007" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -8747,7 +8747,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom5:007" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:005" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -8843,7 +8843,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom5:007" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:006" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -8892,15 +8892,15 @@ coordinates. -->
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/TelecommunicationsCable/interstroom5:024" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:003" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:004" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:005" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:005" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:006" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:006" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:U024" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:U024" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/interstroom5:020" />
             <net:elements
@@ -9965,16 +9965,16 @@ coordinates. -->
         <imkl:UtilityNetwork gml:id="ID_b461805a-d3cd-4ad4c-943c-555ad65539gsdfgsdf06">
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pipe/interstroom4:P001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL001" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pipe/interstroom4:P002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL002" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pipe/interstroom4:P003" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL003" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Pipe/interstroom4:P004" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL004" />
             <net:elements xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Cabinet/interstroom4:C002" />
             <us-net-common:utilityNetworkType
                 xlink:href="https://vocab.belgif.be/auth/IMKL-UtilityNetworkTypeIMKLValue/crossTheme" />
@@ -10016,7 +10016,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:008" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
@@ -10069,7 +10069,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:008" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL002" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
@@ -10120,7 +10120,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:008" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
@@ -10171,7 +10171,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:008" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:UL004" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:UL004" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2001-01-01T09:00:00.0Z</us-net-common:validFrom>
@@ -10481,7 +10481,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:008" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:008" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -10557,7 +10557,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:009" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:009" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -10633,7 +10633,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom4:010" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom4:010" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -11016,7 +11016,7 @@ coordinates. -->
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom5:007" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/interstroom5:U024" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/interstroom5:U024" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />

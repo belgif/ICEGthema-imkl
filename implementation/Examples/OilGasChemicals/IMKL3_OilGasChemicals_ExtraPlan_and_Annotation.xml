@@ -317,7 +317,7 @@
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/gascom-be:001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/gascom-be:001" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused" />
             <us-net-common:validFrom>2005-03-13T09:30:47.0Z</us-net-common:validFrom>
@@ -385,9 +385,9 @@
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/gascom-be:002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/gascom-be:002" />
             <net:link
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/gascom-be:003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/gascom-be:003" />
             <us-net-common:currentStatus
                 xlink:href="http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected" />
             <us-net-common:validFrom nilReason="inapplicable" xsi:nil="true" />
@@ -601,11 +601,11 @@
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/OilGasChemicalsPipe/gascom-be:002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/gascom-be:001" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/gascom-be:001" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/gascom-be:002" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/gascom-be:002" />
             <net:elements
-                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0//UtilityLink/gascom-be:003" />
+                xlink:href="http://inspire.ec.europa.eu/schemas/us-net-common/4.0/UtilityLink/gascom-be:003" />
             <net:elements
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/Appurtenance/gascom-be:001:v2" />
             <net:elements
