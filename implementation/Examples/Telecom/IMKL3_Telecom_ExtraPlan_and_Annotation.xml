@@ -571,7 +571,7 @@
             <imkl:text>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>25 m</gmd:LocalisedCharacterString>
+                        <gmd:LocalisedCharacterString locale="#nl">25 m</gmd:LocalisedCharacterString>
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
             </imkl:text>

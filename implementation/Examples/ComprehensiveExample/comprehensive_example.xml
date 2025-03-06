@@ -38,7 +38,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
@@ -68,7 +68,9 @@ coordinates. -->
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_b735d2ef-82eb-40c6-ad2c-786ca7648ca3"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
-                    <gml:posList>252428.575889630272286 159493.127457641356159 252425.639008756523253 159499.239344865141902 252420.678061334619997 159507.21654831955675 252411.907106292695971 159525.393459673388861</gml:posList>
+                    <gml:posList>252428.575889630272286 159493.127457641356159
+                        252425.639008756523253 159499.239344865141902 252420.678061334619997
+                        159507.21654831955675 252411.907106292695971 159525.393459673388861</gml:posList>
                 </gml:LineString>
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
@@ -98,7 +100,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
@@ -157,7 +159,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
@@ -186,7 +188,9 @@ coordinates. -->
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_b735d2ef-82eb-40c6-ad2c-786ca7648frd"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
-                    <gml:posList>252719.855800835968694 159530.441146504977951 252730.042279542220058 159534.542196373746265 252756.500665792351356 159538.881371718773153 252778.302376062434632 159552.95723320383695</gml:posList>
+                    <gml:posList>252719.855800835968694 159530.441146504977951
+                        252730.042279542220058 159534.542196373746265 252756.500665792351356
+                        159538.881371718773153 252778.302376062434632 159552.95723320383695</gml:posList>
                 </gml:LineString>
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
@@ -218,7 +222,7 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/ActivityComplex/interstroom2:AC001" />
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
@@ -288,7 +292,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
@@ -366,7 +370,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated" />
@@ -405,7 +409,8 @@ coordinates. -->
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
-                            <gml:posList>252624.636 159660.515 252638.526 159666.944 252645.591 159647.101 252637.495 159643.211 252624.636 159660.515</gml:posList>
+                            <gml:posList>252624.636 159660.515 252638.526 159666.944 252645.591
+                                159647.101 252637.495 159643.211 252624.636 159660.515</gml:posList>
                         </gml:LinearRing>
                     </gml:exterior>
                 </gml:Polygon>
@@ -428,6 +433,8 @@ coordinates. -->
                 xlink:href="https://vocab.belgif.be/auth/IMKL-DocumentMediaTypeValue/JPEG" />
             <imkl:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom2:001" />
+            <imkl:refersTo
+                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/interstroom2:W006" />
             <imkl:location>
                 <gml:Polygon gml:id="ID_d8f3dbf9-1ac5-4bb7-84sdqf48-e739ea48daa2"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
@@ -496,7 +503,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
@@ -581,7 +588,7 @@ coordinates. -->
             <us-net-common:verticalPosition>underground</us-net-common:verticalPosition>
             <us-net-common:utilityDeliveryType
                 xlink:href="http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution" />
-            <us-net-common:warningType nilReason="unknown" />
+            <us-net-common:warningType nilReason="unknown" xsi:nil="true" />
             <us-net-common:pipeDiameter uom="urn:ogc:def:uom:OGC::mm">80</us-net-common:pipeDiameter>
             <us-net-wa:waterType
                 xlink:href="http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable" />
@@ -838,7 +845,7 @@ coordinates. -->
             <imkl:text>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>25 m</gmd:LocalisedCharacterString>
+                        <gmd:LocalisedCharacterString locale="#nl">25 m</gmd:LocalisedCharacterString>
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
             </imkl:text>
@@ -1035,7 +1042,9 @@ coordinates. -->
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
                     <gml:exterior>
                         <gml:LinearRing>
-                            <gml:posList>252431.4 159460.365 252437.486 159465.525 252446.085 159457.719 252448.863 159436.156 252436.824 159436.023 252431.4 159460.365</gml:posList>
+                            <gml:posList>252431.4 159460.365 252437.486 159465.525 252446.085
+                                159457.719 252448.863 159436.156 252436.824 159436.023 252431.4
+                                159460.365</gml:posList>
                         </gml:LinearRing>
                     </gml:exterior>
                 </gml:Polygon>
@@ -1663,7 +1672,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden. Alle
                             data in dit voorbeeldpakket zijn fictief, elke gelijkenis met bestaande
                             situaties is puur toeval.</gmd:LocalisedCharacterString>
@@ -1770,7 +1780,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden. Alle
                             data in dit voorbeeldpakket zijn fictief, elke gelijkenis met bestaande
                             situaties is puur toeval.</gmd:LocalisedCharacterString>
@@ -2308,7 +2319,9 @@ coordinates. -->
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_b735d2ef-82eb-40ezrc6-ad2c-786ca7648ca3"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
-                    <gml:posList>252712.309356038254919 159520.536103838356212 252728.05450360069517 159529.442739678081125 252760.426565301750088 159536.559011862351326 252785.542820069793379 159552.605507964151911</gml:posList>
+                    <gml:posList>252712.309356038254919 159520.536103838356212 252728.05450360069517
+                        159529.442739678081125 252760.426565301750088 159536.559011862351326
+                        252785.542820069793379 159552.605507964151911</gml:posList>
                 </gml:LineString>
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
@@ -2431,7 +2444,8 @@ coordinates. -->
             <net:centrelineGeometry>
                 <gml:LineString gml:id="ID_b735d2ef-82ebezrt-40c6-ad2c-786ca7648ca3"
                     srsName="http://spatialreference.org/ref/epsg/3812/" srsDimension="2">
-                    <gml:posList>252517.493216563336318 159606.435520666796947 252547.338276253489312 159553.412914621556411</gml:posList>
+                    <gml:posList>252517.493216563336318 159606.435520666796947
+                        252547.338276253489312 159553.412914621556411</gml:posList>
                 </gml:LineString>
             </net:centrelineGeometry>
             <net:fictitious>false</net:fictitious>
@@ -3091,7 +3105,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden.</gmd:LocalisedCharacterString>
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
@@ -3354,7 +3369,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden. Alle
                             data in dit voorbeeldpakket zijn fictief, elke gelijkenis met bestaande
                             situaties is puur toeval.</gmd:LocalisedCharacterString>
@@ -4179,7 +4195,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden. Alle
                             data in dit voorbeeldpakket zijn fictief, elke gelijkenis met bestaande
                             situaties is puur toeval.</gmd:LocalisedCharacterString>
@@ -6278,7 +6295,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden. Alle
                             data in dit voorbeeldpakket zijn fictief, elke gelijkenis met bestaande
                             situaties is puur toeval.</gmd:LocalisedCharacterString>
@@ -6333,8 +6351,6 @@ coordinates. -->
             </imkl:location>
             <imkl:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
-            <imkl:associatedWith
-                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
         </imkl:Annotation>
     </gml:featureMember>
     <gml:featureMember>
@@ -6349,7 +6365,7 @@ coordinates. -->
             <imkl:text>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>60 m</gmd:LocalisedCharacterString>
+                        <gmd:LocalisedCharacterString locale="#nl">60 m</gmd:LocalisedCharacterString>
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
             </imkl:text>
@@ -6363,8 +6379,6 @@ coordinates. -->
                 </gml:Point>
             </imkl:location>
             <imkl:inNetwork
-                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
-            <imkl:associatedWith
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
         </imkl:Annotation>
     </gml:featureMember>
@@ -6388,8 +6402,6 @@ coordinates. -->
             </imkl:location>
             <imkl:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
-            <imkl:associatedWith
-                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
         </imkl:Annotation>
     </gml:featureMember>
     <gml:featureMember>
@@ -6411,8 +6423,6 @@ coordinates. -->
                 </gml:Point>
             </imkl:location>
             <imkl:inNetwork
-                xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
-            <imkl:associatedWith
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/interstroom4:006" />
         </imkl:Annotation>
     </gml:featureMember>
@@ -8941,7 +8951,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden. Alle
                             data in dit voorbeeldpakket zijn fictief, elke gelijkenis met bestaande
                             situaties is puur toeval.</gmd:LocalisedCharacterString>
@@ -9974,7 +9985,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden.</gmd:LocalisedCharacterString>
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
@@ -10371,7 +10383,8 @@ coordinates. -->
             <us-net-common:disclaimer>
                 <gmd:PT_FreeText>
                     <gmd:textGroup>
-                        <gmd:LocalisedCharacterString>Als een KLB een disclaimer heeft die geldt
+                        <gmd:LocalisedCharacterString locale="#nl">Als een KLB een disclaimer heeft
+                            die geldt
                             voor heel het utility network dan kan die hier geplaatst worden.</gmd:LocalisedCharacterString>
                     </gmd:textGroup>
                 </gmd:PT_FreeText>
