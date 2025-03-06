@@ -236,7 +236,7 @@
                     <base:namespace>gascom-be</base:namespace>
                 </base:Identifier>
             </net:inspireId>
-            <net:endLifespanVersion nilReason="inapplicable">2001-12-17T09:30:47.0Z</net:endLifespanVersion>
+            <net:endLifespanVersion>2001-12-17T09:30:47.0Z</net:endLifespanVersion>
             <net:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/gascom-be:001" />
             <net:centrelineGeometry>
@@ -587,8 +587,8 @@
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
         </imkl:UtilityNetwork>
     </gml:featureMember>

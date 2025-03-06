@@ -1687,8 +1687,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
             <imkl:verticalPositionDetail
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/interstroom2:D002" />
@@ -1794,8 +1794,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
         </imkl:UtilityNetwork>
     </gml:featureMember>
@@ -3116,8 +3116,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
         </imkl:UtilityNetwork>
     </gml:featureMember>
@@ -3381,8 +3381,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
             <imkl:verticalPositionDetail
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/DepthDetail/interstroom7:RD002" />
@@ -4206,8 +4206,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
 
         </imkl:UtilityNetwork>
@@ -6305,8 +6305,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
 
             <imkl:documentation
@@ -8968,8 +8968,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
         </imkl:UtilityNetwork>
     </gml:featureMember>
@@ -9999,8 +9999,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
         </imkl:UtilityNetwork>
     </gml:featureMember>
@@ -10396,8 +10396,8 @@ coordinates. -->
             <imkl:endLifespanVersion>2001-12-17T09:30:47.0Z</imkl:endLifespanVersion>
             <imkl:authorityRole>
                 <imkl:name>text</imkl:name>
-                <imkl:phone>text</imkl:phone>
-                <imkl:email>text</imkl:email>
+                <imkl:phone>0123456789</imkl:phone>
+                <imkl:email>klip@athumi.eu</imkl:email>
             </imkl:authorityRole>
         </imkl:UtilityNetwork>
     </gml:featureMember>
