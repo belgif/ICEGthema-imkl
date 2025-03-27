@@ -8454,6 +8454,7 @@ coordinates. -->
                 <imkl:method nilReason="missing" xsi:nil="true" />
                 <imkl:accuracy uom="urn:ogc:def:uom:OGC::cm">30</imkl:accuracy>
             </imkl:locationSurvey>
+            <imkl:inSharedContainer>true</imkl:inSharedContainer>
             <imkl:subtheme
                 xlink:href="https://vocab.belgif.be/auth/IMKL-TelecommunicationsSubthemeValue/electronicCommunication" />
         </imkl:TelecommunicationsCable>
