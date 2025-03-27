@@ -569,6 +569,7 @@
                     </appinfo>
                 </annotation>
             </element>
+            <element name="inSharedContainer" type="boolean" minOccurs="0" />
         </sequence>
     </group>
 
