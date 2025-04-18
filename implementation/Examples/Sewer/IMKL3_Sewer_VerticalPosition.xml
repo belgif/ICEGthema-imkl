@@ -579,7 +579,7 @@
             </imkl:locationSurvey>
             <imkl:inNetwork
                 xlink:href="https://vocab.belgif.be/ns/imkl/3.0/UtilityNetwork/sewercom-be:001" />
-            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/WaterPipe/sewercom-be:001" />
+            <imkl:on xlink:href="https://vocab.belgif.be/ns/imkl/3.0/SewerPipe/sewercom-be:001" />
         </imkl:CoverageDetail>
     </gml:featureMember>
     <gml:featureMember>
