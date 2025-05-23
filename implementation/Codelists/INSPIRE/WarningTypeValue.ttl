@@ -1,0 +1,52 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/WarningTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-WarningTypeValue"@en, "IMKL-WarningTypeValue"@nl;
+  dcterms:description "Classification of warning types."@en;
+  dcterms:description "Classificatie van warningtypes."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/WarningTypeValue/concretePaving> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WarningTypeValue>;
+  skos:notation "concretePaving";
+  skos:prefLabel "Concrete paving"@en;
+  skos:prefLabel "Betonnen plaveisel"@nl;
+  dcterms:description """A set or paving of pavers or tiles in concrete material covering cables or pipes."""@en;
+  dcterms:description """Betonnen plaveisel. 
+Een reeks betonnen stenen of tegels ter afdekking van kabels of pijpleidingen."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WarningTypeValue/net> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WarningTypeValue>;
+  skos:notation "net";
+  skos:prefLabel "Net"@en;
+  skos:prefLabel "Net"@nl;
+  dcterms:description """Warning net for protection of cables and pipes."""@en;
+  dcterms:description """Net. 
+Waarschuwingsnet ter bescherming van kabels en pijpleidingen."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WarningTypeValue/tape> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WarningTypeValue>;
+  skos:notation "tape";
+  skos:prefLabel "Tape"@en;
+  skos:prefLabel "Lint"@nl;
+  dcterms:description """Caution tape (also known as warning tape) is a resilient plastic tape of a signal colour or highly contrasting colour combination (such as yellow-black or red-white)."""@en;
+  dcterms:description """Lint. 
+Waarschuwingslint (ook markeringslint genoemd) is een sterke kunststofband in een signaalkleur of met een fel contrasterende kleurencombinatie (zoals geel-zwart of rood-wit)."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

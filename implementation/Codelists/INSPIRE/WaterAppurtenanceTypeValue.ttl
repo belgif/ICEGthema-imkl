@@ -1,0 +1,129 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-WaterAppurtenanceTypeValue"@en, "IMKL-WaterAppurtenanceTypeValue"@nl;
+  dcterms:description "Classification of water appurtenances."@en;
+  dcterms:description "Classificatie van water appurtenances."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/airRelieveValve> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "airRelieveValve";
+  skos:prefLabel "Air relieve valve"@en;
+  skos:prefLabel "Ontluchter"@nl;
+  dcterms:description """Air relieve valve."""@en;
+  dcterms:description """Ontluchter"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/checkValve> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "checkValve";
+  skos:prefLabel "Check valve"@en;
+  skos:prefLabel "Terugslagklep"@nl;
+  dcterms:description """Check valve."""@en;
+  dcterms:description """Terugslagklep"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/fireHydrant> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "fireHydrant";
+  skos:prefLabel "Fire hydrant"@en;
+  skos:prefLabel "Brandkraan bovengronds"@nl;
+  dcterms:description """Fire hydrant."""@en;
+  dcterms:description """Brandkraan (bovengronds)"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/fountain> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "fountain";
+  skos:prefLabel "Fountain"@en;
+  skos:prefLabel "Drinkfontein"@nl;
+  dcterms:description """Fountain."""@en;
+  dcterms:description """Fontein"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/hydrant> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "hydrant";
+  skos:prefLabel "Hydrant"@en;
+  skos:prefLabel "Brandkraan ondergronds"@nl;
+  dcterms:description """Hydrant."""@en;
+  dcterms:description """Brandkraan (ondergronds)"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/meter> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "meter";
+  skos:prefLabel "Meter"@en;
+  skos:prefLabel "Debietmeter"@nl;
+  dcterms:description """Meter."""@en;
+  dcterms:description """Debietmeter"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/pressureController> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "pressureController";
+  skos:prefLabel "Pressure controller"@en;
+  skos:prefLabel "Drukregelaar"@nl;
+  dcterms:description """Pressure controller."""@en;
+  dcterms:description """Drukregelaar"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/pump> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "pump";
+  skos:prefLabel "Pump"@en;
+  skos:prefLabel "Pomp of pompgroep"@nl;
+  dcterms:description """Pump."""@en;
+  dcterms:description """Pomp(groep)"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/systemValve> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "systemValve";
+  skos:prefLabel "System valve"@en;
+  skos:prefLabel "Afsluiter"@nl;
+  dcterms:description """System valve."""@en;
+  dcterms:description """Afsluiter"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/thrustProtection> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "thrustProtection";
+  skos:prefLabel "Thrust protection"@en;
+  skos:prefLabel "Steunblok"@nl;
+  dcterms:description """Thrust protection."""@en;
+  dcterms:description """Steunblok"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue/waterExhaustPoint> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterAppurtenanceTypeValue>;
+  skos:notation "waterExhaustPoint";
+  skos:prefLabel "Water exhaust point"@en;
+  skos:prefLabel "Waterlozingspunt"@nl;
+  dcterms:description """Water exhaust point."""@en;
+  dcterms:description """Waterlozingspunt"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

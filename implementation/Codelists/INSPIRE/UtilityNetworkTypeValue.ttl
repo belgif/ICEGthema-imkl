@@ -1,0 +1,79 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-UtilityNetworkTypeValue"@en, "IMKL-UtilityNetworkTypeValue"@nl;
+  dcterms:description "Classification of utility network types."@en;
+  dcterms:description "Classificatie van utility networktypes."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/electricity> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue>;
+  skos:notation "electricity";
+  skos:prefLabel "Electricity"@en;
+  skos:prefLabel "Elektriciteitsnet"@nl;
+  dcterms:description """Electricity networks"""@en;
+  dcterms:description """Elektriciteitsnet"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/oilGasChemical> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue>;
+  skos:notation "oilGasChemical";
+  skos:prefLabel "Oil, gas or chemical"@en;
+  skos:prefLabel "Olie-, gas- of chemicaliënnet"@nl;
+  dcterms:description """Oil, gas or chemical network"""@en;
+  dcterms:description """Olie-, gas- of chemicaliënnet"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/sewer> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue>;
+  skos:notation "sewer";
+  skos:prefLabel "Sewer"@en;
+  skos:prefLabel "Rioleringsnet"@nl;
+  dcterms:description """Sewer networks"""@en;
+  dcterms:description """Rioleringsnet"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/telecommunications> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue>;
+  skos:notation "telecommunications";
+  skos:prefLabel "Telecommunications"@en;
+  skos:prefLabel "Telecommunicatienet"@nl;
+  dcterms:description """Telecommunications networks"""@en;
+  dcterms:description """Telecommunicatienet"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/thermal> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue>;
+  skos:notation "thermal";
+  skos:prefLabel "Thermal"@en;
+  skos:prefLabel "Thermisch net"@nl;
+  dcterms:description """Thermal networks"""@en;
+  dcterms:description """Thermisch net"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue/water> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityNetworkTypeValue>;
+  skos:notation "water";
+  skos:prefLabel "Water"@en;
+  skos:prefLabel "Watervoorzieningsnet"@nl;
+  dcterms:description """Water networks"""@en;
+  dcterms:description """Watervoorzieningsnet"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

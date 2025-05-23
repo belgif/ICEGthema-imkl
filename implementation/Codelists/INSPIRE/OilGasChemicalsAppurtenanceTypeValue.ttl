@@ -1,0 +1,49 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-OilGasChemicalsAppurtenanceTypeValue"@en, "IMKL-OilGasChemicalsAppurtenanceTypeValue"@nl;
+  dcterms:description "Classification of oil, gas, chemicals appurtenances."@en;
+  dcterms:description "Classificatie van oil, gas, chemicals appurtenances."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/deliveryPoint> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue>;
+  skos:notation "deliveryPoint";
+  skos:prefLabel "Delivery point"@en;
+  skos:prefLabel "Aansluiting"@nl;
+  dcterms:description """Delivery point"""@en;
+  dcterms:description """Aansluiting"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/marker> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue>;
+  skos:notation "marker";
+  skos:prefLabel "Marker, ground beacon"@en;
+  skos:prefLabel "Markering, grondbaken"@nl;
+  dcterms:description """Marker or ground beacon."""@en;
+  dcterms:description """Markering, grondbaken"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue/oilGasChemicalsNode> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/OilGasChemicalsAppurtenanceTypeValue>;
+  skos:notation "oilGasChemicalsNode";
+  skos:prefLabel "Node"@en;
+  skos:prefLabel "Knooppunt, diverse afsluiters"@nl;
+  dcterms:description """Node"""@en;
+  dcterms:description """Knooppunt, diverse afsluiters"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

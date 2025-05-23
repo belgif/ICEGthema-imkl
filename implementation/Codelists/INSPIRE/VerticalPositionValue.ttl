@@ -1,0 +1,49 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/VerticalPositionValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-VerticalPositionValue"@en, "IMKL-VerticalPositionValue"@nl;
+  dcterms:description "The relative vertical position of a spatial object."@en;
+  dcterms:description "De relatieve verticale positie van een object."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/VerticalPositionValue/onGroundSurface> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/VerticalPositionValue>;
+  skos:notation "onGroundSurface";
+  skos:prefLabel "On ground surface"@en;
+  skos:prefLabel "Grondniveau"@nl;
+  dcterms:description """The spatial object is on ground level"""@en;
+  dcterms:description """Het object bevindt zich op grondniveau."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/VerticalPositionValue/suspendedOrElevated> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/VerticalPositionValue>;
+  skos:notation "suspendedOrElevated";
+  skos:prefLabel "Suspended or elevated"@en;
+  skos:prefLabel "Bovengronds"@nl;
+  dcterms:description """The spatial object is suspended or elevated"""@en;
+  dcterms:description """Het object bevindt zich bovengronds."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/VerticalPositionValue/underground> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/VerticalPositionValue>;
+  skos:notation "underground";
+  skos:prefLabel "Underground"@en;
+  skos:prefLabel "Ondergronds"@nl;
+  dcterms:description """The spatial object is underground"""@en;
+  dcterms:description """Het object bevindt zich ondergronds."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

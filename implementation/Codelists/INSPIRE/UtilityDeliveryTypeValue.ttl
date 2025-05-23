@@ -1,0 +1,59 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-UtilityDeliveryTypeValue"@en, "IMKL-UtilityDeliveryTypeValue"@nl;
+  dcterms:description "Classification of utility delivery types."@en;
+  dcterms:description "Classificatie van utility deliverytypes."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/collection> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue>;
+  skos:notation "collection";
+  skos:prefLabel "Collection"@en;
+  skos:prefLabel "Collectie"@nl;
+  dcterms:description """Description of a type of utility network delivering its utility product via collection (e.g. for sewer utility networks, collecting sewer water from customers)"""@en;
+  dcterms:description """Beschrijving van een nutsvoorzieningennet waarbij het nutsproduct wordt aangeleverd door middel van inzameling (bv. in het geval van een rioleringsnet het opvangen van afvalwater van klanten)."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/distribution> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue>;
+  skos:notation "distribution";
+  skos:prefLabel "Distribution"@en;
+  skos:prefLabel "Distributie"@nl;
+  dcterms:description """Description of a type of utility network delivering its utility product via mainly local distribution (e.g. local distribution of electricity), connecting directly to consumers"""@en;
+  dcterms:description """Beschrijving van een nutsvoorzieningennet waarbij het nutsproduct wordt aangeleverd door middel van lokale distributie (bv. de lokale distributie van elektriciteit) via een rechtstreekse verbinding met de klanten."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/private> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue>;
+  skos:notation "private";
+  skos:prefLabel "Private"@en;
+  skos:prefLabel "Privaat"@nl;
+  dcterms:description """Description of a type of utility network delivering its utility product via a small private network (e.g. owned by a private company)"""@en;
+  dcterms:description """Beschrijving van een nutsvoorzieningennet waarbij het nutsproduct wordt aangeleverd via een klein particulier net (dat bv. eigendom is van een particulier bedrijf)."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue/transport> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/UtilityDeliveryTypeValue>;
+  skos:notation "transport";
+  skos:prefLabel "Transport"@en;
+  skos:prefLabel "Transport"@nl;
+  dcterms:description """Description of a type of utility network delivering its utility product via a large transport network (e.g. to convey oil-gas-chemicals products over larger distances)"""@en;
+  dcterms:description """Beschrijving van een nutsvoorzieningennet waarbij het nutsproduct wordt aangeleverd via een groot vervoernet (bv. voor het overbrengen van olie-, gas- of chemische producten over grotere afstanden)."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

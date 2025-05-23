@@ -1,0 +1,59 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/WaterTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-WaterTypeValue"@en, "IMKL-WaterTypeValue"@nl;
+  dcterms:description "Classification of water types."@en;
+  dcterms:description "Classificatie van watertypes."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/WaterTypeValue/potable> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterTypeValue>;
+  skos:notation "potable";
+  skos:prefLabel "Potable"@en;
+  skos:prefLabel "Drinkwater"@nl;
+  dcterms:description """Potable water."""@en;
+  dcterms:description """Drinkwater"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterTypeValue/raw> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterTypeValue>;
+  skos:notation "raw";
+  skos:prefLabel "Raw"@en;
+  skos:prefLabel "Ruwwater"@nl;
+  dcterms:description """Raw water."""@en;
+  dcterms:description """Onbehandeld water"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterTypeValue/salt> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterTypeValue>;
+  skos:notation "salt";
+  skos:prefLabel "Salt"@en;
+  skos:prefLabel "Zout water"@nl;
+  dcterms:description """Salt water."""@en;
+  dcterms:description """Zout water"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/WaterTypeValue/treated> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/WaterTypeValue>;
+  skos:notation "treated";
+  skos:prefLabel "Treated"@en;
+  skos:prefLabel "Behandeld water"@nl;
+  dcterms:description """Treated water."""@en;
+  dcterms:description """Behandeld water"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

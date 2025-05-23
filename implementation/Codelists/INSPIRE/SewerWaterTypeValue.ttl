@@ -1,0 +1,59 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-SewerWaterTypeValue"@en, "IMKL-SewerWaterTypeValue"@nl;
+  dcterms:description "Classification of sewer water types."@en;
+  dcterms:description "Classificatie van sewer watertypes."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/combined> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue>;
+  skos:notation "combined";
+  skos:prefLabel "Combined"@en;
+  skos:prefLabel "Gemengd water"@nl;
+  dcterms:description """Combined sewer water"""@en;
+  dcterms:description """Gecombineerd afvalwater: gemengd water (ook bij semi-gescheiden stelsel) – overstortwater van gemengd systeem"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/reclaimed> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue>;
+  skos:notation "reclaimed";
+  skos:prefLabel "Reclaimed"@en;
+  skos:prefLabel "Effluentwater"@nl;
+  dcterms:description """Reclaimed sewer water"""@en;
+  dcterms:description """Teruggewonnen water: effluent water (afwaarts KWZI, RWZI, IBA..)"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/sanitary> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue>;
+  skos:notation "sanitary";
+  skos:prefLabel "Sanitary"@en;
+  skos:prefLabel "Afvalwater"@nl;
+  dcterms:description """Sanitary sewer water"""@en;
+  dcterms:description """Huishoudelijk afvalwater: DWA"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue/storm> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerWaterTypeValue>;
+  skos:notation "storm";
+  skos:prefLabel "Storm"@en;
+  skos:prefLabel "Regenwater"@nl;
+  dcterms:description """Storm sewer water"""@en;
+  dcterms:description """Regenwater: RWA"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

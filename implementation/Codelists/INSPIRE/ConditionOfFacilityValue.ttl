@@ -1,0 +1,59 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-ConditionOfFacilityValue"@en, "IMKL-ConditionOfFacilityValue"@nl;
+  dcterms:description "The status of a facility with regards to its completion and use."@en;
+  dcterms:description "De status van een faciliteit met betrekking tot haar voltooiing en gebruik."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/disused> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue>;
+  skos:notation "disused";
+  skos:prefLabel "Disused"@en;
+  skos:prefLabel "Buiten gebruik"@nl;
+  dcterms:description """The facility is no longer used, but is not being or has not been decommissioned."""@en;
+  dcterms:description """Buiten gebruik. De faciliteit wordt niet meer gebruikt. """@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/functional> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue>;
+  skos:notation "functional";
+  skos:prefLabel "Functional"@en;
+  skos:prefLabel "In gebruik"@nl;
+  dcterms:description """The facility is functional."""@en;
+  dcterms:description """Functioneel. De faciliteit is functioneel, in dienst."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/projected> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue>;
+  skos:notation "projected";
+  skos:prefLabel "Projected"@en;
+  skos:prefLabel "Gepland"@nl;
+  dcterms:description """The facility is being designed. Construction has not yet started."""@en;
+  dcterms:description """Gepland. De faciliteit wordt ontworpen, de bouwwerkzaamheden zijn nog niet begonnen."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue/underConstruction> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/ConditionOfFacilityValue>;
+  skos:notation "underConstruction";
+  skos:prefLabel "Under construction"@en;
+  skos:prefLabel "In aanbouw"@nl;
+  dcterms:description """The facility is under construction and not yet functional. This applies only to the initial construction of the facility and not to maintenance work."""@en;
+  dcterms:description """De faciliteit is in aanbouw."""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  

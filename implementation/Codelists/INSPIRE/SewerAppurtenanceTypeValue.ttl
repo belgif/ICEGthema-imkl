@@ -1,0 +1,69 @@
+﻿@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schemas: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rov: <http://www.w3.org/ns/regorg#> .
+
+<http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue> a skos:ConceptScheme;
+  dcterms:title "IMKL-SewerAppurtenanceTypeValue"@en, "IMKL-SewerAppurtenanceTypeValue"@nl;
+  dcterms:description "Classification of sewer appurtenances."@en;
+  dcterms:description "Classificatie van sewer appurtenances."@nl;
+  dcterms:creator <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  dcterms:rightsHolder <https://org.belgif.be/id/CbeRegisteredEntity/0795547478>;
+  owl:versionInfo "3.0";
+  dcterms:modified "2025-05-23"^^xsd:date;
+  dcterms:source <https://github.com/belgif/ICEGthema-imkl> .
+
+<https://org.belgif.be/id/CbeRegisteredEntity/0795547478> rov:legalName "Vlaams Datanutsbedrijf"@en, "Vlaams Datanutsbedrijf"@nl .
+
+<http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/catchBasin> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue>;
+  skos:notation "catchBasin";
+  skos:prefLabel "Catch basin"@en;
+  skos:prefLabel "Bekken"@nl;
+  dcterms:description """Catch basin"""@en;
+  dcterms:description """Bekken, reservoir of open bekken (ondergronds RWA of gemengd). """@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/dischargeStructure> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue>;
+  skos:notation "dischargeStructure";
+  skos:prefLabel "Discharge structure"@en;
+  skos:prefLabel "Uitlaat"@nl;
+  dcterms:description """Discharge structure"""@en;
+  dcterms:description """Uitlaat"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/pump> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue>;
+  skos:notation "pump";
+  skos:prefLabel "Pump"@en;
+  skos:prefLabel "Pomp"@nl;
+  dcterms:description """Pump"""@en;
+  dcterms:description """Pomp: pompstation """@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/sewerNode> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue>;
+  skos:notation "sewerNode";
+  skos:prefLabel "Sewer node"@en;
+  skos:prefLabel "Knooppunt"@nl;
+  dcterms:description """Node in a sewer network"""@en;
+  dcterms:description """Knooppunt"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
+<http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue/tideGate> a skos:Concept;
+  skos:inScheme <http://inspire.ec.europa.eu/codelist/SewerAppurtenanceTypeValue>;
+  skos:notation "tideGate";
+  skos:prefLabel "Tide gate"@en;
+  skos:prefLabel "Terugslagklep"@nl;
+  dcterms:description """Tide gate"""@en;
+  dcterms:description """Terugslagklep"""@nl;
+  schemas:startDate "2024-01-01"^^xsd:date;
+  schemas:endDate "9999-12-31"^^xsd:date .
+  
