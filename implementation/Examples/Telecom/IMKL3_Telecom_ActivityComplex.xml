@@ -514,7 +514,7 @@
             <act-core:function>
                 <act-core:Function>
                     <act-core:activity
-                        xlink:href="https://vocab.belgif.be/auth/IMKL-ActivityValue/3512" />
+                        xlink:href="https://vocab.belgif.be/auth/IMKL-ActivityValue/35_12" />
                 </act-core:Function>
             </act-core:function>
             <act-core:validFrom>2001-12-17T09:30:47.0Z</act-core:validFrom>
