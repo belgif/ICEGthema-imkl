@@ -17524,7 +17524,7 @@
             <act-core:function>
                 <act-core:Function>
                     <act-core:activity
-                        xlink:href="https://vocab.belgif.be/auth/IMKL-ActivityValue/01500" />
+                        xlink:href="https://vocab.belgif.be/auth/IMKL-ActivityValue/01_500" />
                     <act-core:description>
                         <gmd:PT_FreeText>
                             <gmd:textGroup>
