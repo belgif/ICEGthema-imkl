@@ -6,7 +6,7 @@
         "diagram": "IMKL-LD",
         "template": "cable-pipe_en.j2",
         "title": "Cables and Pipes",
-        "publication-state": "For acceptance",
+        "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "publication-date": "2024-02-06",
         "license": "https://creativecommons.org/licenses/by/4.0/",
         "contributors-file": "stakeholders.csv",
@@ -14,7 +14,7 @@
         "site": "site-skeleton/cable-pipe",
         "repourl": "https://github.com/belgif/ICEGthema-imkl/tree/main",
         "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-imkl/issues",
-        "standaardregisterurl": "TODO",
+        "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-kabels-en-leidingen",
         "translation": [
             {
                 "language": "en",
