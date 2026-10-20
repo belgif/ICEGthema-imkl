@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## Unreleased
+
+## 3.0
+
 ### Aanpassingen [versie 3.0](https://belgif.github.io/thematic/models/cable-pipe/) tov [versie 2.3](https://overheid.vlaanderen.be/help/file/1176/download?token=ndmVBd4y).
 - OPMERKING: de oude versie was louter op een XML-platform gericht, de nieuwe default op een RDF-platform maar ook andere platformen (waaronder XML) zijn mogelijk.
 - Zelfspecialisaties geëlimineerd
