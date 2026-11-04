@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Changed
+- Apply PascalCase and CamelCase
+- Replace abbreviations
+
+### Removed
+- Empty `ap-usageNote-nl` values
+- Empty `ap-usageNote-en` values
+- Empty `usageNote-nl` values
+- Empty `usageNote-en` values
+- Empty `ap-definition-en` values
+- Empty `ap-definition-nl` values
+- Empty `definition-en` values
+- Empty `definition-nl` values
+
 ## 3.0
 
 ### Aanpassingen [versie 3.0](https://belgif.github.io/thematic/models/cable-pipe/) tov [versie 2.3](https://overheid.vlaanderen.be/help/file/1176/download?token=ndmVBd4y).
