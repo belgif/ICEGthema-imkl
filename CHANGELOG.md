@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Apply PascalCase and CamelCase
 - Replace abbreviations
+- Use values of label-en for missing values in ap-label-en
+- Use values of definition-en for missing values in ap-definition-en
 
 ### Removed
 - Empty `ap-usageNote-nl` values
