@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Replace abbreviations
 - Use values of label-en for missing values in ap-label-en
 - Use values of definition-en for missing values in ap-definition-en
+- Use values of label-nl for missing values in ap-label-nl
 
 ### Removed
 - Empty `ap-usageNote-nl` values
