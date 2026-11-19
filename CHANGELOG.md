@@ -27,6 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Empty `ap-definition-nl` values
 - Empty `definition-en` values
 - Empty `definition-nl` values
+- Tag `parentUri` of PositionalAccuracy
 
 ## 3.0
 
